@@ -1,0 +1,1327 @@
+ID number,Name,Percent Admitted,Price (OOS),Region,Undergrad Enrollment,Public,Financial Aid,Pell Grant
+100654,Alabama A & M University,90.0,27441.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,4055.0,1,97.0,81.0
+100663,University of Alabama at Birmingham,87.0,31687.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,11502.0,1,90.0,36.0
+100706,University of Alabama in Huntsville,81.0,35780.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,5696.0,1,87.0,31.0
+100724,Alabama State University,51.0,25222.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,5357.0,1,93.0,76.0
+100751,The University of Alabama,57.0,41500.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,29440.0,1,75.0,18.0
+100830,Auburn University at Montgomery,84.0,34020.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,4334.0,1,90.0,48.0
+100858,Auburn University,83.0,41794.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,19799.0,1,76.0,13.0
+100937,Birmingham Southern College,64.0,45470.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,1188.0,0,98.0,21.0
+101435,Huntingdon College,63.0,33885.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,1100.0,0,100.0,48.0
+101480,Jacksonville State University,83.0,28029.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,7588.0,1,93.0,48.0
+101541,Judson College,74.0,28840.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,348.0,0,100.0,64.0
+101587,University of West Alabama,100.0,24672.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,1948.0,1,95.0,59.0
+101693,University of Mobile,71.0,32570.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,1481.0,0,93.0,34.0
+101709,University of Montevallo,87.0,33030.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,2620.0,1,88.0,38.0
+101879,University of North Alabama,81.0,22525.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,5993.0,1,82.0,53.0
+101912,Oakwood University,34.0,36295.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,1855.0,0,94.0,53.0
+102049,Samford University,77.0,40900.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,3013.0,0,98.0,14.0
+102094,University of South Alabama,86.0,26628.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,11307.0,1,91.0,43.0
+102234,Spring Hill College,46.0,46170.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,1319.0,0,100.0,33.0
+102270,Stillman College,43.0,26877.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,862.0,0,100.0,74.0
+102368,Troy University,68.0,24564.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,16755.0,1,78.0,48.0
+102377,Tuskegee University,35.0,32853.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,2575.0,0,96.0,54.0
+102669,Alaska Pacific University,37.0,43180.0,Far West AK CA HI NV OR WA,367.0,0,100.0,42.0
+104151,Arizona State University-Tempe,80.0,37630.0,Southwest AZ NM OK TX,38730.0,1,91.0,29.0
+104179,University of Arizona,77.0,42171.0,Southwest AZ NM OK TX,31670.0,1,83.0,30.0
+104586,Embry-Riddle Aeronautical University-Prescott,79.0,46314.0,Southwest AZ NM OK TX,1813.0,0,91.0,20.0
+105330,Northern Arizona University,91.0,35101.0,Southwest AZ NM OK TX,22670.0,1,83.0,37.0
+105589,Prescott College,73.0,41336.0,Southwest AZ NM OK TX,554.0,0,94.0,52.0
+105899,Arizona Christian University,61.0,35382.0,Southwest AZ NM OK TX,635.0,0,99.0,38.0
+106245,University of Arkansas at Little Rock,53.0,32968.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,9971.0,1,94.0,53.0
+106342,Lyon College,59.0,34154.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,592.0,0,100.0,42.0
+106397,University of Arkansas,59.0,33468.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,21009.0,1,81.0,22.0
+106412,University of Arkansas at Pine Bluff,28.0,22582.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,2521.0,1,96.0,82.0
+106458,Arkansas State University-Main Campus,76.0,25624.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,10098.0,1,95.0,48.0
+106467,Arkansas Tech University,85.0,20862.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,10498.0,1,95.0,57.0
+106704,University of Central Arkansas,90.0,24341.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,9754.0,1,95.0,47.0
+106713,Central Baptist College,54.0,23224.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,827.0,0,99.0,43.0
+107044,Harding University,76.0,26634.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,4428.0,0,98.0,28.0
+107071,Henderson State University,62.0,25054.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,3185.0,1,98.0,57.0
+107080,Hendrix College,80.0,52536.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,1419.0,0,100.0,20.0
+107141,John Brown University,70.0,34776.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,2064.0,0,99.0,31.0
+107512,Ouachita Baptist University,70.0,32610.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,1543.0,0,99.0,29.0
+107558,University of the Ozarks,61.0,36379.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,585.0,0,98.0,43.0
+107877,Williams Baptist College,68.0,23886.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,570.0,0,100.0,52.0
+107983,Southern Arkansas University Main Campus,61.0,22588.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,2960.0,1,97.0,58.0
+108092,University of Arkansas-Fort Smith,57.0,22042.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,7170.0,1,96.0,60.0
+109785,Azusa Pacific University,80.0,45996.0,Far West AK CA HI NV OR WA,6290.0,0,92.0,26.0
+110097,Biola University,73.0,46624.0,Far West AK CA HI NV OR WA,4353.0,0,96.0,28.0
+110361,California Baptist University,79.0,42228.0,Far West AK CA HI NV OR WA,5797.0,0,95.0,46.0
+110404,California Institute of Technology,11.0,58755.0,Far West AK CA HI NV OR WA,983.0,0,73.0,10.0
+110413,California Lutheran University,48.0,52577.0,Far West AK CA HI NV OR WA,2888.0,0,98.0,23.0
+110422,California Polytechnic State University-San Luis Obispo,31.0,35445.0,Far West AK CA HI NV OR WA,18867.0,1,50.0,14.0
+110468,Alliant International University,49.0,29986.0,Far West AK CA HI NV OR WA,260.0,0,75.0,75.0
+110486,California State University-Bakersfield,66.0,32346.0,Far West AK CA HI NV OR WA,7242.0,1,81.0,64.0
+110495,California State University-Stanislaus,72.0,33593.0,Far West AK CA HI NV OR WA,7738.0,1,82.0,60.0
+110510,California State University-San Bernardino,58.0,31537.0,Far West AK CA HI NV OR WA,16630.0,1,85.0,67.0
+110529,California State Polytechnic University-Pomona,52.0,33731.0,Far West AK CA HI NV OR WA,20943.0,1,68.0,43.0
+110538,California State University-Chico,72.0,33522.0,Far West AK CA HI NV OR WA,15296.0,1,63.0,36.0
+110547,California State University-Dominguez Hills,57.0,32446.0,Far West AK CA HI NV OR WA,12423.0,1,88.0,74.0
+110556,California State University-Fresno,58.0,31842.0,Far West AK CA HI NV OR WA,20293.0,1,80.0,62.0
+110565,California State University-Fullerton,46.0,34665.0,Far West AK CA HI NV OR WA,33116.0,1,66.0,41.0
+110574,California State University-East Bay,69.0,33472.0,Far West AK CA HI NV OR WA,12081.0,1,75.0,54.0
+110583,California State University-Long Beach,31.0,33266.0,Far West AK CA HI NV OR WA,30474.0,1,71.0,49.0
+110592,California State University-Los Angeles,68.0,32865.0,Far West AK CA HI NV OR WA,19577.0,1,82.0,72.0
+110608,California State University-Northridge,46.0,32829.0,Far West AK CA HI NV OR WA,33771.0,1,74.0,58.0
+110617,California State University-Sacramento,70.0,34369.0,Far West AK CA HI NV OR WA,25957.0,1,79.0,56.0
+110635,University of California-Berkeley,18.0,56197.0,Far West AK CA HI NV OR WA,25819.0,1,69.0,27.0
+110644,University of California-Davis,45.0,55944.0,Far West AK CA HI NV OR WA,25515.0,1,77.0,37.0
+110653,University of California-Irvine,42.0,53382.0,Far West AK CA HI NV OR WA,23530.0,1,77.0,48.0
+110662,University of California-Los Angeles,22.0,55294.0,Far West AK CA HI NV OR WA,29000.0,1,62.0,31.0
+110671,University of California-Riverside,62.0,55116.0,Far West AK CA HI NV OR WA,18621.0,1,86.0,56.0
+110680,University of California-San Diego,38.0,53348.0,Far West AK CA HI NV OR WA,23558.0,1,62.0,30.0
+110705,University of California-Santa Barbara,44.0,56929.0,Far West AK CA HI NV OR WA,19111.0,1,70.0,41.0
+110714,University of California-Santa Cruz,60.0,56031.0,Far West AK CA HI NV OR WA,15535.0,1,80.0,51.0
+111188,California Maritime Academy,75.0,32262.0,Far West AK CA HI NV OR WA,1043.0,1,68.0,26.0
+111948,Chapman University,45.0,59459.0,Far West AK CA HI NV OR WA,6005.0,0,87.0,18.0
+112075,Concordia University-Irvine,91.0,43550.0,Far West AK CA HI NV OR WA,1944.0,0,100.0,27.0
+112084,San Diego Christian College,49.0,40252.0,Far West AK CA HI NV OR WA,914.0,0,100.0,67.0
+112260,Claremont McKenna College,12.0,62010.0,Far West AK CA HI NV OR WA,1311.0,0,53.0,11.0
+113698,Dominican University of California,78.0,58860.0,Far West AK CA HI NV OR WA,1603.0,0,98.0,31.0
+114813,Fresno Pacific University,78.0,36991.0,Far West AK CA HI NV OR WA,2463.0,0,99.0,55.0
+115409,Harvey Mudd College,18.0,63860.0,Far West AK CA HI NV OR WA,803.0,0,75.0,16.0
+115728,Holy Names University,57.0,49041.0,Far West AK CA HI NV OR WA,888.0,0,100.0,48.0
+115755,Humboldt State University,80.0,33716.0,Far West AK CA HI NV OR WA,7753.0,1,74.0,46.0
+116846,American Jewish University,59.0,46869.0,Far West AK CA HI NV OR WA,108.0,0,92.0,25.0
+117140,University of La Verne,39.0,51997.0,Far West AK CA HI NV OR WA,5255.0,0,97.0,47.0
+117627,La Sierra University,47.0,41490.0,Far West AK CA HI NV OR WA,2105.0,0,100.0,55.0
+117751,The Master's College and Seminary,61.0,42147.0,Far West AK CA HI NV OR WA,1072.0,0,99.0,33.0
+117946,Loyola Marymount University,54.0,57379.0,Far West AK CA HI NV OR WA,6205.0,0,90.0,20.0
+118693,Menlo College,37.0,53834.0,Far West AK CA HI NV OR WA,746.0,0,98.0,33.0
+118888,Mills College,68.0,56812.0,Far West AK CA HI NV OR WA,985.0,0,100.0,42.0
+119173,Mount St Mary's College,74.0,51100.0,Far West AK CA HI NV OR WA,2616.0,0,100.0,70.0
+120184,Notre Dame de Namur University,87.0,49038.0,Far West AK CA HI NV OR WA,1213.0,0,100.0,49.0
+120254,Occidental College,42.0,63363.0,Far West AK CA HI NV OR WA,2128.0,0,69.0,21.0
+120537,Hope International University,47.0,39537.0,Far West AK CA HI NV OR WA,931.0,0,98.0,51.0
+120865,Pacific Union College,51.0,39852.0,Far West AK CA HI NV OR WA,1601.0,0,100.0,50.0
+120883,University of the Pacific,73.0,57033.0,Far West AK CA HI NV OR WA,3877.0,0,91.0,29.0
+121150,Pepperdine University,37.0,61192.0,Far West AK CA HI NV OR WA,3538.0,0,72.0,22.0
+121257,Pitzer College,15.0,61416.0,Far West AK CA HI NV OR WA,1081.0,0,41.0,14.0
+121309,Point Loma Nazarene University,67.0,44593.0,Far West AK CA HI NV OR WA,2556.0,0,93.0,27.0
+121345,Pomona College,14.0,59730.0,Far West AK CA HI NV OR WA,1612.0,0,68.0,19.0
+121691,University of Redlands,67.0,58559.0,Far West AK CA HI NV OR WA,3607.0,0,94.0,26.0
+122409,San Diego State University,31.0,36228.0,Far West AK CA HI NV OR WA,27087.0,1,62.0,34.0
+122436,University of San Diego,49.0,58189.0,Far West AK CA HI NV OR WA,5665.0,0,76.0,17.0
+122597,San Francisco State University,64.0,34988.0,Far West AK CA HI NV OR WA,26157.0,1,70.0,47.0
+122612,University of San Francisco,61.0,58384.0,Far West AK CA HI NV OR WA,6308.0,0,71.0,24.0
+122755,San Jose State University,63.0,34789.0,Far West AK CA HI NV OR WA,25859.0,1,60.0,40.0
+122931,Santa Clara University,51.0,59589.0,Far West AK CA HI NV OR WA,5435.0,0,84.0,12.0
+123165,Scripps College,36.0,61370.0,Far West AK CA HI NV OR WA,990.0,0,61.0,12.0
+123457,Simpson University,55.0,35324.0,Far West AK CA HI NV OR WA,1024.0,0,100.0,48.0
+123554,Saint Mary's College of California,69.0,58365.0,Far West AK CA HI NV OR WA,3025.0,0,91.0,25.0
+123572,Sonoma State University,82.0,34455.0,Far West AK CA HI NV OR WA,8351.0,1,62.0,29.0
+123651,Vanguard University of Southern California,70.0,43076.0,Far West AK CA HI NV OR WA,2137.0,0,99.0,39.0
+123961,University of Southern California,20.0,62180.0,Far West AK CA HI NV OR WA,18445.0,0,67.0,18.0
+124292,Thomas Aquinas College,79.0,35716.0,Far West AK CA HI NV OR WA,366.0,0,82.0,35.0
+125727,Westmont College,70.0,53670.0,Far West AK CA HI NV OR WA,1315.0,0,99.0,21.0
+125763,Whittier College,63.0,53700.0,Far West AK CA HI NV OR WA,1695.0,0,94.0,35.0
+125897,Woodbury University,56.0,48512.0,Far West AK CA HI NV OR WA,1347.0,0,79.0,49.0
+126182,Adams State University,53.0,30323.0,Rocky Mountains CO ID MT UT WY,2341.0,1,92.0,51.0
+126562,University of Colorado Denver,76.0,38679.0,Rocky Mountains CO ID MT UT WY,10678.0,1,71.0,37.0
+126580,University of Colorado Colorado Springs,91.0,31837.0,Rocky Mountains CO ID MT UT WY,9051.0,1,76.0,29.0
+126614,University of Colorado Boulder,88.0,50655.0,Rocky Mountains CO ID MT UT WY,25981.0,1,59.0,17.0
+126669,Colorado Christian University,98.0,38130.0,Rocky Mountains CO ID MT UT WY,4983.0,0,98.0,30.0
+126678,Colorado College,22.0,57400.0,Rocky Mountains CO ID MT UT WY,2041.0,0,53.0,10.0
+126775,Colorado School of Mines,37.0,46533.0,Rocky Mountains CO ID MT UT WY,4294.0,1,87.0,16.0
+126818,Colorado State University-Fort Collins,77.0,39056.0,Rocky Mountains CO ID MT UT WY,23798.0,1,73.0,24.0
+127060,University of Denver,77.0,56077.0,Rocky Mountains CO ID MT UT WY,5561.0,0,85.0,17.0
+127185,Fort Lewis College,88.0,33233.0,Rocky Mountains CO ID MT UT WY,4028.0,1,91.0,31.0
+127556,Colorado Mesa University,82.0,29752.0,Rocky Mountains CO ID MT UT WY,9440.0,1,90.0,43.0
+127653,Naropa University,80.0,43620.0,Rocky Mountains CO ID MT UT WY,383.0,0,63.0,42.0
+127741,University of Northern Colorado,70.0,31803.0,Rocky Mountains CO ID MT UT WY,9710.0,1,90.0,36.0
+127918,Regis University,70.0,46326.0,Rocky Mountains CO ID MT UT WY,5197.0,0,98.0,28.0
+128106,Colorado State University-Pueblo,94.0,31260.0,Rocky Mountains CO ID MT UT WY,4387.0,1,94.0,50.0
+128391,Western State Colorado University,93.0,29986.0,Rocky Mountains CO ID MT UT WY,2084.0,1,91.0,31.0
+128498,Albertus Magnus College,68.0,47302.0,New England CT ME MA NH RI VT,1278.0,0,83.0,43.0
+128744,University of Bridgeport,64.0,50043.0,New England CT ME MA NH RI VT,2835.0,0,93.0,60.0
+128771,Central Connecticut State University,64.0,34702.0,New England CT ME MA NH RI VT,9771.0,1,84.0,34.0
+128902,Connecticut College,36.0,60780.0,New England CT ME MA NH RI VT,1915.0,0,53.0,12.0
+129020,University of Connecticut,54.0,46192.0,New England CT ME MA NH RI VT,18032.0,1,77.0,18.0
+129215,Eastern Connecticut State University,65.0,35899.0,New England CT ME MA NH RI VT,5179.0,1,82.0,26.0
+129242,Fairfield University,71.0,58730.0,New England CT ME MA NH RI VT,3873.0,0,89.0,13.0
+129525,University of Hartford,62.0,48170.0,New England CT ME MA NH RI VT,5187.0,0,98.0,32.0
+129774,Mitchell College,58.0,46750.0,New England CT ME MA NH RI VT,866.0,0,100.0,35.0
+129941,University of New Haven,74.0,50210.0,New England CT ME MA NH RI VT,4864.0,0,95.0,28.0
+130226,Quinnipiac University,67.0,55780.0,New England CT ME MA NH RI VT,6547.0,0,89.0,15.0
+130253,Sacred Heart University,76.0,53569.0,New England CT ME MA NH RI VT,4500.0,0,95.0,16.0
+130314,University of Saint Joseph,86.0,49923.0,New England CT ME MA NH RI VT,1049.0,0,100.0,38.0
+130493,Southern Connecticut State University,75.0,34411.0,New England CT ME MA NH RI VT,8257.0,1,81.0,33.0
+130590,Trinity College,32.0,62310.0,New England CT ME MA NH RI VT,2299.0,0,41.0,10.0
+130697,Wesleyan University,21.0,62849.0,New England CT ME MA NH RI VT,2907.0,0,51.0,18.0
+130776,Western Connecticut State University,65.0,34931.0,New England CT ME MA NH RI VT,5492.0,1,81.0,30.0
+130794,Yale University,7.0,61620.0,New England CT ME MA NH RI VT,5310.0,0,61.0,13.0
+130934,Delaware State University,42.0,29937.0,Mid East DE DC MD NJ NY PA,3894.0,1,97.0,58.0
+130943,University of Delaware,65.0,43432.0,Mid East DE DC MD NJ NY PA,18487.0,1,82.0,14.0
+131098,Wesley College,62.0,38230.0,Mid East DE DC MD NJ NY PA,1622.0,0,97.0,50.0
+131159,American University,43.0,56808.0,Mid East DE DC MD NJ NY PA,7342.0,0,80.0,19.0
+131283,Catholic University of America,60.0,56842.0,Mid East DE DC MD NJ NY PA,3713.0,0,95.0,11.0
+131450,Gallaudet University,66.0,31988.0,Mid East DE DC MD NJ NY PA,1077.0,0,88.0,48.0
+131469,George Washington University,33.0,61446.0,Mid East DE DC MD NJ NY PA,10357.0,0,68.0,12.0
+131496,Georgetown University,17.0,62179.0,Mid East DE DC MD NJ NY PA,7636.0,0,53.0,14.0
+131520,Howard University,49.0,41643.0,Mid East DE DC MD NJ NY PA,6974.0,0,93.0,47.0
+131876,Trinity Washington University,52.0,34470.0,Mid East DE DC MD NJ NY PA,1853.0,0,99.0,84.0
+132471,Barry University,47.0,45100.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,4325.0,0,97.0,63.0
+132602,Bethune-Cookman University,67.0,27058.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,3724.0,0,99.0,80.0
+132657,Lynn University,78.0,49535.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,1619.0,0,79.0,19.0
+132903,University of Central Florida,49.0,36938.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,51269.0,1,96.0,31.0
+133085,Clearwater Christian College,70.0,30125.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,509.0,0,100.0,51.0
+133492,Eckerd College,71.0,51796.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,2190.0,0,97.0,19.0
+133526,Edward Waters College,27.0,23833.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,862.0,0,97.0,82.0
+133553,Embry-Riddle Aeronautical University-Daytona Beach,74.0,46614.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,4679.0,0,92.0,30.0
+133650,Florida Agricultural and Mechanical University,45.0,31485.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,8930.0,1,95.0,68.0
+133669,Florida Atlantic University,48.0,34027.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,25523.0,1,87.0,39.0
+133711,Flagler College-St Augustine,50.0,29560.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,2839.0,0,85.0,31.0
+133809,Florida College,59.0,26750.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,558.0,0,94.0,35.0
+133881,Florida Institute of Technology,60.0,52690.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,3224.0,0,95.0,21.0
+133951,Florida International University,43.0,35367.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,38225.0,1,91.0,53.0
+133979,Florida Memorial University,42.0,26588.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,1568.0,0,90.0,70.0
+134079,Florida Southern College,50.0,40700.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,2416.0,0,99.0,33.0
+134097,Florida State University,57.0,36709.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,32528.0,1,95.0,27.0
+134130,University of Florida,47.0,41381.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,33168.0,1,96.0,29.0
+134945,Jacksonville University,47.0,44670.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,3361.0,0,99.0,37.0
+135726,University of Miami,40.0,60906.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,11380.0,0,75.0,18.0
+136172,University of North Florida,53.0,34978.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,14263.0,1,94.0,31.0
+136215,Nova Southeastern University,57.0,43580.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,5739.0,0,98.0,42.0
+136330,Palm Beach Atlantic University,84.0,39302.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,2887.0,0,100.0,35.0
+136950,Rollins College,59.0,59438.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,2608.0,0,86.0,17.0
+137032,Saint Leo University,77.0,33200.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,12657.0,0,94.0,47.0
+137351,University of South Florida-Main Campus,45.0,31674.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,32202.0,1,98.0,42.0
+137476,St Thomas University,46.0,41649.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,1033.0,0,100.0,60.0
+137546,Stetson University,59.0,53712.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,2729.0,0,100.0,34.0
+137564,Southeastern University,59.0,32234.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,3083.0,0,97.0,46.0
+137847,The University of Tampa,52.0,39375.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,6499.0,0,95.0,21.0
+138275,Warner University,34.0,29879.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,1036.0,0,99.0,72.0
+138293,Webber International University,64.0,37173.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,667.0,0,100.0,49.0
+138354,The University of West Florida,48.0,32618.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,10158.0,1,91.0,45.0
+138600,Agnes Scott College,67.0,47323.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,915.0,0,100.0,54.0
+138716,Albany State University,20.0,31792.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,3662.0,1,99.0,81.0
+138789,Armstrong Atlantic State University,70.0,31135.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,6387.0,1,91.0,46.0
+138868,Point University,54.0,27400.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,1439.0,0,95.0,56.0
+138947,Clark Atlanta University,57.0,35471.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,2629.0,0,98.0,69.0
+139144,Berry College,60.0,43834.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,2141.0,0,100.0,31.0
+139199,Brenau University,78.0,38528.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,1700.0,0,97.0,57.0
+139205,Brewton-Parker College,51.0,24786.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,700.0,0,100.0,57.0
+139311,Clayton  State University,48.0,28592.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,6894.0,1,94.0,70.0
+139366,Columbus State University,55.0,29662.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,7014.0,1,93.0,52.0
+139393,Covenant College,57.0,40330.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,1104.0,0,100.0,32.0
+139630,Emmanuel College,48.0,26400.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,806.0,0,100.0,51.0
+139658,Emory University,26.0,59908.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,5852.0,0,53.0,19.0
+139719,Fort Valley State University,33.0,32927.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,2833.0,1,97.0,83.0
+139755,Georgia Institute of Technology-Main Campus,55.0,42688.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,14559.0,1,72.0,14.0
+139764,Georgia Southwestern State University,68.0,28825.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,2667.0,1,91.0,50.0
+139861,Georgia College and State University,68.0,41652.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,5749.0,1,95.0,19.0
+139931,Georgia Southern University,52.0,32335.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,17891.0,1,89.0,36.0
+139940,Georgia State University,55.0,39016.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,24865.0,1,91.0,56.0
+139959,University of Georgia,56.0,40274.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,26278.0,1,94.0,21.0
+140164,Kennesaw State University,57.0,34739.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,22667.0,1,90.0,36.0
+140234,LaGrange College,58.0,40288.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,856.0,0,99.0,46.0
+140252,Life University,75.0,28077.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,826.0,0,92.0,63.0
+140447,Mercer University,69.0,48212.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,4381.0,0,100.0,33.0
+140553,Morehouse College,67.0,47345.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,2185.0,0,94.0,51.0
+140696,Oglethorpe University,56.0,46430.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,1073.0,0,97.0,38.0
+140720,Paine College,44.0,23850.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,924.0,0,99.0,84.0
+140818,Piedmont College,61.0,34090.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,1281.0,0,99.0,43.0
+140872,Reinhardt University,51.0,32794.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,1301.0,0,92.0,43.0
+140960,Savannah State University,83.0,25935.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,4602.0,1,99.0,80.0
+140988,Shorter University,68.0,33230.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,1520.0,0,99.0,45.0
+141060,Spelman College,38.0,42879.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,2129.0,0,90.0,46.0
+141097,Southern Polytechnic State University,78.0,29890.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,5729.0,1,91.0,39.0
+141167,Thomas University,69.0,24860.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,896.0,0,56.0,56.0
+141185,Toccoa Falls College,49.0,31792.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,868.0,0,100.0,61.0
+141237,Truett-McConnell College,81.0,28410.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,1584.0,0,100.0,45.0
+141264,Valdosta State University,55.0,31671.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,9717.0,1,92.0,47.0
+141325,Wesleyan College,43.0,32375.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,648.0,0,100.0,49.0
+141334,University of West Georgia,54.0,31365.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,9976.0,1,94.0,51.0
+141486,Chaminade University of Honolulu,84.0,35309.0,Far West AK CA HI NV OR WA,2045.0,0,100.0,40.0
+141565,University of Hawaii at Hilo,75.0,29086.0,Far West AK CA HI NV OR WA,3457.0,1,85.0,45.0
+141574,University of Hawaii at Manoa,80.0,40564.0,Far West AK CA HI NV OR WA,14499.0,1,79.0,28.0
+141644,Hawaii Pacific University,64.0,36590.0,Far West AK CA HI NV OR WA,5582.0,0,95.0,38.0
+142115,Boise State University,78.0,33544.0,Rocky Mountains CO ID MT UT WY,16901.0,1,80.0,35.0
+142285,University of Idaho,66.0,32674.0,Rocky Mountains CO ID MT UT WY,9374.0,1,91.0,38.0
+142294,The College of Idaho,91.0,35456.0,Rocky Mountains CO ID MT UT WY,1095.0,0,99.0,42.0
+142328,Lewis-Clark State College,100.0,27736.0,Rocky Mountains CO ID MT UT WY,4304.0,1,97.0,54.0
+142461,Northwest Nazarene University,62.0,36550.0,Rocky Mountains CO ID MT UT WY,1277.0,0,100.0,40.0
+142522,Brigham Young University-Idaho,100.0,11398.0,Rocky Mountains CO ID MT UT WY,20117.0,0,71.0,26.0
+143084,Augustana College,59.0,47137.0,Great Lakes IL IN MI OH WI,2524.0,0,99.0,24.0
+143118,Aurora University,76.0,33228.0,Great Lakes IL IN MI OH WI,3223.0,0,100.0,43.0
+143288,Blackburn College,68.0,26616.0,Great Lakes IL IN MI OH WI,539.0,0,99.0,59.0
+143358,Bradley University,67.0,42090.0,Great Lakes IL IN MI OH WI,4825.0,0,99.0,23.0
+144005,Chicago State University,29.0,29594.0,Great Lakes IL IN MI OH WI,4340.0,1,97.0,85.0
+144050,University of Chicago,9.0,64988.0,Great Lakes IL IN MI OH WI,5703.0,0,67.0,12.0
+144281,Columbia College-Chicago,91.0,40677.0,Great Lakes IL IN MI OH WI,9671.0,0,79.0,39.0
+144351,Concordia University-Chicago,54.0,38862.0,Great Lakes IL IN MI OH WI,1604.0,0,100.0,52.0
+144740,DePaul University,60.0,49367.0,Great Lakes IL IN MI OH WI,16420.0,0,95.0,28.0
+144892,Eastern Illinois University,62.0,42118.0,Great Lakes IL IN MI OH WI,8347.0,1,93.0,41.0
+144962,Elmhurst College,72.0,46000.0,Great Lakes IL IN MI OH WI,2900.0,0,89.0,35.0
+144971,Eureka College,68.0,30900.0,Great Lakes IL IN MI OH WI,692.0,0,100.0,43.0
+145372,Greenville College,66.0,34641.0,Great Lakes IL IN MI OH WI,1135.0,0,98.0,38.0
+145600,University of Illinois at Chicago,71.0,41710.0,Great Lakes IL IN MI OH WI,16660.0,1,82.0,54.0
+145619,Benedictine University,69.0,37636.0,Great Lakes IL IN MI OH WI,3830.0,0,96.0,44.0
+145637,University of Illinois at Urbana-Champaign,62.0,43468.0,Great Lakes IL IN MI OH WI,32695.0,1,65.0,21.0
+145646,Illinois Wesleyan University,58.0,50352.0,Great Lakes IL IN MI OH WI,2009.0,0,99.0,22.0
+145691,Illinois College,61.0,39040.0,Great Lakes IL IN MI OH WI,1010.0,0,100.0,36.0
+145725,Illinois Institute of Technology,57.0,54677.0,Great Lakes IL IN MI OH WI,2926.0,0,100.0,34.0
+145813,Illinois State University,69.0,33699.0,Great Lakes IL IN MI OH WI,17667.0,1,79.0,27.0
+146339,Judson University,71.0,40020.0,Great Lakes IL IN MI OH WI,1058.0,0,100.0,24.0
+146427,Knox College,75.0,49252.0,Great Lakes IL IN MI OH WI,1424.0,0,98.0,27.0
+146481,Lake Forest College,57.0,52000.0,Great Lakes IL IN MI OH WI,1590.0,0,99.0,35.0
+146612,Lewis University,56.0,39335.0,Great Lakes IL IN MI OH WI,4613.0,0,99.0,35.0
+146676,Lincoln College,87.0,30014.0,Great Lakes IL IN MI OH WI,1101.0,0,89.0,78.0
+146719,Loyola University Chicago,91.0,51273.0,Great Lakes IL IN MI OH WI,10168.0,0,96.0,28.0
+146825,MacMurray College,75.0,32550.0,Great Lakes IL IN MI OH WI,451.0,0,100.0,66.0
+147013,McKendree University,63.0,38290.0,Great Lakes IL IN MI OH WI,2358.0,0,100.0,34.0
+147244,Millikin University,55.0,40694.0,Great Lakes IL IN MI OH WI,2154.0,0,100.0,39.0
+147341,Monmouth College,64.0,42050.0,Great Lakes IL IN MI OH WI,1252.0,0,100.0,52.0
+147660,North Central College,64.0,44769.0,Great Lakes IL IN MI OH WI,2797.0,0,99.0,23.0
+147679,North Park University,52.0,35050.0,Great Lakes IL IN MI OH WI,2205.0,0,99.0,41.0
+147703,Northern Illinois University,56.0,37438.0,Great Lakes IL IN MI OH WI,15814.0,1,96.0,50.0
+147767,Northwestern University,15.0,63193.0,Great Lakes IL IN MI OH WI,9358.0,0,63.0,14.0
+147828,Olivet Nazarene University,82.0,41490.0,Great Lakes IL IN MI OH WI,3349.0,0,100.0,36.0
+148131,Quincy University,89.0,39114.0,Great Lakes IL IN MI OH WI,1180.0,0,100.0,50.0
+148335,Robert Morris University Illinois,21.0,39114.0,Great Lakes IL IN MI OH WI,2780.0,0,97.0,64.0
+148405,Rockford University,41.0,38853.0,Great Lakes IL IN MI OH WI,972.0,0,100.0,49.0
+148487,Roosevelt University,79.0,44632.0,Great Lakes IL IN MI OH WI,3658.0,0,96.0,47.0
+148496,Dominican University,60.0,39918.0,Great Lakes IL IN MI OH WI,2069.0,0,100.0,59.0
+148584,University of St Francis,51.0,40290.0,Great Lakes IL IN MI OH WI,1780.0,0,100.0,41.0
+148627,Saint Xavier University,51.0,41772.0,Great Lakes IL IN MI OH WI,2932.0,0,100.0,57.0
+148654,University of Illinois at Springfield,60.0,29698.0,Great Lakes IL IN MI OH WI,3039.0,1,96.0,43.0
+149222,Southern Illinois University-Carbondale,79.0,38032.0,Great Lakes IL IN MI OH WI,13351.0,1,88.0,52.0
+149231,Southern Illinois University-Edwardsville,84.0,34013.0,Great Lakes IL IN MI OH WI,11229.0,1,86.0,36.0
+149505,Trinity Christian College,90.0,36820.0,Great Lakes IL IN MI OH WI,1333.0,0,96.0,32.0
+149514,Trinity International University-Illinois,94.0,39680.0,Great Lakes IL IN MI OH WI,923.0,0,100.0,45.0
+149772,Western Illinois University,59.0,29276.0,Great Lakes IL IN MI OH WI,9873.0,1,82.0,43.0
+149781,Wheaton College,69.0,42390.0,Great Lakes IL IN MI OH WI,2444.0,0,81.0,22.0
+150066,Anderson University,55.0,39390.0,Great Lakes IL IN MI OH WI,2016.0,0,100.0,33.0
+150136,Ball State University,61.0,37214.0,Great Lakes IL IN MI OH WI,16300.0,1,87.0,35.0
+150145,Bethel College-Indiana,72.0,35430.0,Great Lakes IL IN MI OH WI,1655.0,0,100.0,54.0
+150163,Butler University,66.0,49698.0,Great Lakes IL IN MI OH WI,4457.0,0,94.0,17.0
+150400,DePauw University,61.0,53290.0,Great Lakes IL IN MI OH WI,2305.0,0,98.0,21.0
+150455,Earlham College,64.0,52710.0,Great Lakes IL IN MI OH WI,1057.0,0,97.0,34.0
+150534,University of Evansville,84.0,44370.0,Great Lakes IL IN MI OH WI,2477.0,0,96.0,26.0
+150604,Franklin College,60.0,40035.0,Great Lakes IL IN MI OH WI,1016.0,0,100.0,42.0
+150668,Goshen College,55.0,40760.0,Great Lakes IL IN MI OH WI,828.0,0,100.0,32.0
+150677,Grace College and Theological Seminary,79.0,33940.0,Great Lakes IL IN MI OH WI,1615.0,0,100.0,42.0
+150756,Hanover College,67.0,44150.0,Great Lakes IL IN MI OH WI,1159.0,0,100.0,36.0
+150774,Holy Cross College,72.0,37484.0,Great Lakes IL IN MI OH WI,524.0,0,100.0,30.0
+150941,Huntington University,97.0,35520.0,Great Lakes IL IN MI OH WI,1055.0,0,99.0,36.0
+151102,Indiana University-Purdue University-Fort Wayne,83.0,33313.0,Great Lakes IL IN MI OH WI,12928.0,1,87.0,43.0
+151111,Indiana University-Purdue University-Indianapolis,70.0,42495.0,Great Lakes IL IN MI OH WI,22409.0,1,85.0,40.0
+151263,University of Indianapolis,84.0,38378.0,Great Lakes IL IN MI OH WI,4126.0,0,98.0,37.0
+151306,University of Southern Indiana,69.0,28423.0,Great Lakes IL IN MI OH WI,8913.0,1,88.0,36.0
+151324,Indiana State University,83.0,30355.0,Great Lakes IL IN MI OH WI,10268.0,1,92.0,53.0
+151342,Indiana University-South Bend,70.0,30042.0,Great Lakes IL IN MI OH WI,7512.0,1,86.0,48.0
+151351,Indiana University-Bloomington,72.0,45961.0,Great Lakes IL IN MI OH WI,36862.0,1,71.0,19.0
+151379,Indiana University-Southeast,79.0,30688.0,Great Lakes IL IN MI OH WI,6148.0,1,80.0,45.0
+151777,Manchester University,71.0,39742.0,Great Lakes IL IN MI OH WI,1188.0,0,100.0,37.0
+151786,Marian University,58.0,41219.0,Great Lakes IL IN MI OH WI,2203.0,0,99.0,42.0
+151801,Indiana Wesleyan University,95.0,34588.0,Great Lakes IL IN MI OH WI,10766.0,0,80.0,43.0
+152080,University of Notre Dame,22.0,60117.0,Great Lakes IL IN MI OH WI,8455.0,0,69.0,11.0
+152099,Oakland City University,73.0,30800.0,Great Lakes IL IN MI OH WI,2259.0,0,100.0,53.0
+152248,Purdue University-Calumet Campus,61.0,29563.0,Great Lakes IL IN MI OH WI,8390.0,1,66.0,44.0
+152336,University of Saint Francis-Fort Wayne,54.0,36492.0,Great Lakes IL IN MI OH WI,1980.0,0,100.0,42.0
+152363,Saint Josephs College,64.0,38050.0,Great Lakes IL IN MI OH WI,1087.0,0,100.0,41.0
+152381,Saint Mary-of-the-Woods College,98.0,42362.0,Great Lakes IL IN MI OH WI,706.0,0,100.0,51.0
+152390,Saint Mary's College,86.0,47660.0,Great Lakes IL IN MI OH WI,1479.0,0,98.0,21.0
+152530,Taylor University,88.0,39742.0,Great Lakes IL IN MI OH WI,2145.0,0,99.0,24.0
+152567,Trine University,72.0,45250.0,Great Lakes IL IN MI OH WI,1875.0,0,100.0,31.0
+152600,Valparaiso University,80.0,45860.0,Great Lakes IL IN MI OH WI,3251.0,0,92.0,26.0
+153001,Buena Vista University,70.0,40589.0,Plains IA KS MN MO NE ND SD,2293.0,0,98.0,41.0
+153108,Central College,66.0,45151.0,Plains IA KS MN MO NE ND SD,1386.0,0,100.0,30.0
+153126,Clarke University,78.0,40800.0,Plains IA KS MN MO NE ND SD,1011.0,0,99.0,34.0
+153144,Coe College,62.0,47260.0,Plains IA KS MN MO NE ND SD,1420.0,0,100.0,33.0
+153162,Cornell College,64.0,48905.0,Plains IA KS MN MO NE ND SD,1122.0,0,96.0,37.0
+153250,Dordt College,75.0,38800.0,Plains IA KS MN MO NE ND SD,1376.0,0,100.0,34.0
+153269,Drake University,66.0,44349.0,Plains IA KS MN MO NE ND SD,3383.0,0,99.0,16.0
+153278,University of Dubuque,77.0,35530.0,Plains IA KS MN MO NE ND SD,1695.0,0,94.0,52.0
+153366,Graceland University-Lamoni,50.0,35380.0,Plains IA KS MN MO NE ND SD,1559.0,0,100.0,45.0
+153375,Grand View University,95.0,33616.0,Plains IA KS MN MO NE ND SD,2096.0,0,100.0,42.0
+153384,Grinnell College,35.0,56354.0,Plains IA KS MN MO NE ND SD,1721.0,0,90.0,22.0
+153603,Iowa State University,83.0,31472.0,Plains IA KS MN MO NE ND SD,27659.0,1,88.0,21.0
+153621,Iowa Wesleyan College,60.0,38738.0,Plains IA KS MN MO NE ND SD,599.0,0,100.0,59.0
+153658,University of Iowa,80.0,39561.0,Plains IA KS MN MO NE ND SD,21974.0,1,83.0,20.0
+153825,Loras College,69.0,39077.0,Plains IA KS MN MO NE ND SD,1554.0,0,100.0,25.0
+153834,Luther College,72.0,48435.0,Plains IA KS MN MO NE ND SD,2466.0,0,100.0,18.0
+153861,Maharishi University of Management,42.0,38630.0,Plains IA KS MN MO NE ND SD,319.0,0,97.0,68.0
+154004,Morningside College,53.0,38308.0,Plains IA KS MN MO NE ND SD,1305.0,0,100.0,40.0
+154013,Mount Mercy University,68.0,39075.0,Plains IA KS MN MO NE ND SD,1476.0,0,85.0,26.0
+154095,University of Northern Iowa,83.0,29376.0,Plains IA KS MN MO NE ND SD,10380.0,1,87.0,25.0
+154101,Northwestern College,76.0,39236.0,Plains IA KS MN MO NE ND SD,1227.0,0,100.0,35.0
+154235,Saint Ambrose University,96.0,40146.0,Plains IA KS MN MO NE ND SD,2743.0,0,100.0,25.0
+154350,Simpson College,88.0,43350.0,Plains IA KS MN MO NE ND SD,1712.0,0,100.0,33.0
+154493,Upper Iowa University,58.0,35910.0,Plains IA KS MN MO NE ND SD,4632.0,0,85.0,36.0
+154527,Wartburg College,78.0,45305.0,Plains IA KS MN MO NE ND SD,1714.0,0,99.0,27.0
+154590,William Penn University,58.0,33706.0,Plains IA KS MN MO NE ND SD,1728.0,0,100.0,55.0
+154688,Baker University,87.0,39407.0,Plains IA KS MN MO NE ND SD,1897.0,0,100.0,26.0
+154712,Benedictine College,61.0,37855.0,Plains IA KS MN MO NE ND SD,2113.0,0,100.0,25.0
+154721,Bethany College,59.0,35205.0,Plains IA KS MN MO NE ND SD,665.0,0,98.0,45.0
+154749,Bethel College-North Newton,64.0,35170.0,Plains IA KS MN MO NE ND SD,482.0,0,100.0,48.0
+154855,Central Christian College of Kansas,50.0,24500.0,Plains IA KS MN MO NE ND SD,951.0,0,93.0,57.0
+155025,Emporia State University,61.0,29031.0,Plains IA KS MN MO NE ND SD,3873.0,1,96.0,41.0
+155061,Fort Hays State University,89.0,24873.0,Plains IA KS MN MO NE ND SD,11433.0,1,97.0,44.0
+155089,Friends University,59.0,36005.0,Plains IA KS MN MO NE ND SD,1609.0,0,100.0,44.0
+155317,University of Kansas,92.0,37043.0,Plains IA KS MN MO NE ND SD,19217.0,1,79.0,22.0
+155335,Newman University,45.0,34408.0,Plains IA KS MN MO NE ND SD,2795.0,0,99.0,34.0
+155399,Kansas State University,96.0,34276.0,Plains IA KS MN MO NE ND SD,20169.0,1,83.0,24.0
+155414,Kansas Wesleyan University,54.0,36400.0,Plains IA KS MN MO NE ND SD,684.0,0,99.0,33.0
+155511,McPherson College,87.0,35477.0,Plains IA KS MN MO NE ND SD,637.0,0,95.0,44.0
+155520,MidAmerica Nazarene University,72.0,33687.0,Plains IA KS MN MO NE ND SD,1393.0,0,99.0,43.0
+155627,Ottawa University-Ottawa,99.0,36482.0,Plains IA KS MN MO NE ND SD,541.0,0,100.0,37.0
+155681,Pittsburg State University,79.0,27176.0,Plains IA KS MN MO NE ND SD,6236.0,1,91.0,39.0
+155812,University of Saint Mary,47.0,34536.0,Plains IA KS MN MO NE ND SD,890.0,0,100.0,40.0
+155900,Southwestern College,90.0,37632.0,Plains IA KS MN MO NE ND SD,1358.0,0,100.0,43.0
+155937,Sterling College,44.0,30652.0,Plains IA KS MN MO NE ND SD,690.0,0,100.0,41.0
+155973,Tabor College,74.0,36750.0,Plains IA KS MN MO NE ND SD,725.0,0,100.0,43.0
+156125,Wichita State University,96.0,25431.0,Plains IA KS MN MO NE ND SD,11208.0,1,89.0,39.0
+156189,Alice Lloyd College,45.0,21800.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,631.0,0,100.0,65.0
+156213,Asbury University,66.0,35494.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,1532.0,0,99.0,48.0
+156286,Bellarmine University,95.0,52574.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,2593.0,0,100.0,27.0
+156295,Berea College,34.0,31870.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,1623.0,0,100.0,91.0
+156356,Brescia University,45.0,30390.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,932.0,0,100.0,45.0
+156365,Campbellsville University,68.0,33628.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,3093.0,0,95.0,57.0
+156408,Centre College,69.0,48020.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,1381.0,0,97.0,15.0
+156541,University of the Cumberlands,71.0,33500.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,2090.0,0,100.0,58.0
+156620,Eastern Kentucky University,60.0,28032.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,13910.0,1,97.0,48.0
+156745,Georgetown College,82.0,44110.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,1043.0,0,98.0,37.0
+157058,Kentucky State University,38.0,26302.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,2370.0,1,89.0,75.0
+157076,Kentucky Wesleyan College,67.0,32190.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,655.0,0,100.0,48.0
+157085,University of Kentucky,69.0,34814.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,21429.0,1,93.0,25.0
+157100,Kentucky Christian University,51.0,30256.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,557.0,0,100.0,52.0
+157289,University of Louisville,71.0,36684.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,15956.0,1,97.0,32.0
+157359,Mid-Continent University,70.0,26041.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,2078.0,0,95.0,83.0
+157377,Midway College,54.0,37650.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,1248.0,0,100.0,54.0
+157386,Morehead State University,84.0,30099.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,10077.0,1,99.0,52.0
+157401,Murray State University,82.0,31018.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,9144.0,1,99.0,38.0
+157447,Northern Kentucky University,47.0,27274.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,13170.0,1,95.0,38.0
+157535,University of Pikeville,100.0,33750.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,1736.0,0,100.0,65.0
+157757,Spalding University,81.0,37439.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,1339.0,0,99.0,54.0
+157809,Thomas More College,88.0,38621.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,1517.0,0,100.0,41.0
+157818,Transylvania University,96.0,43640.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,1084.0,0,100.0,30.0
+157863,Union College,74.0,33740.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,805.0,0,100.0,59.0
+157951,Western Kentucky University,92.0,32348.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,17419.0,1,93.0,44.0
+158477,Centenary College of Louisiana,66.0,44600.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,586.0,0,100.0,37.0
+158802,Dillard University,35.0,30358.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,1183.0,0,99.0,80.0
+159009,Grambling State University,44.0,31888.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,4155.0,1,96.0,83.0
+159382,Louisiana State University-Alexandria,61.0,21658.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,2215.0,1,92.0,59.0
+159391,Louisiana State University and Agricultural & Mechanical College,76.0,41144.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,24923.0,1,93.0,23.0
+159568,Louisiana College,74.0,23390.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,1106.0,0,96.0,41.0
+159647,Louisiana Tech University,67.0,30066.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,9215.0,1,94.0,32.0
+159656,Loyola University New Orleans,87.0,51760.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,2946.0,0,98.0,35.0
+159717,McNeese State University,62.0,28661.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,7501.0,1,95.0,39.0
+159939,University of New Orleans,50.0,32315.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,7144.0,1,90.0,44.0
+159966,Nicholls State University,87.0,28671.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,5892.0,1,95.0,44.0
+159993,University of Louisiana at Monroe,77.0,27822.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,7654.0,1,96.0,50.0
+160038,Northwestern State University of Louisiana,84.0,28556.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,7836.0,1,95.0,48.0
+160612,Southeastern Louisiana University,45.0,29168.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,13744.0,1,93.0,41.0
+160621,Southern University and A & M College,36.0,20526.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,5788.0,1,98.0,20.0
+160630,Southern University at New Orleans,49.0,16191.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,3662.0,1,58.0,58.0
+160658,University of Louisiana at Lafayette,59.0,28585.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,15053.0,1,94.0,37.0
+160755,Tulane University of Louisiana,26.0,61178.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,8290.0,0,79.0,10.0
+160904,Xavier University of Louisiana,54.0,31501.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,2351.0,0,99.0,60.0
+160959,College of the Atlantic,74.0,49890.0,New England CT ME MA NH RI VT,355.0,0,100.0,31.0
+160977,Bates College,24.0,61000.0,New England CT ME MA NH RI VT,1791.0,0,43.0,8.0
+161004,Bowdoin College,15.0,59900.0,New England CT ME MA NH RI VT,1795.0,0,50.0,14.0
+161086,Colby College,26.0,59110.0,New England CT ME MA NH RI VT,1820.0,0,47.0,12.0
+161165,Husson University,80.0,26286.0,New England CT ME MA NH RI VT,2293.0,0,79.0,29.0
+161226,University of Maine at Farmington,84.0,30513.0,New England CT ME MA NH RI VT,1901.0,1,96.0,49.0
+161235,University of Maine at Fort Kent,63.0,28755.0,New England CT ME MA NH RI VT,1209.0,1,97.0,52.0
+161244,University of Maine at Machias,85.0,30848.0,New England CT ME MA NH RI VT,892.0,1,98.0,60.0
+161253,University of Maine,81.0,41082.0,New England CT ME MA NH RI VT,9182.0,1,93.0,42.0
+161299,Maine Maritime Academy,65.0,34918.0,New England CT ME MA NH RI VT,994.0,1,72.0,22.0
+161457,University of New England,86.0,50295.0,New England CT ME MA NH RI VT,2653.0,0,100.0,27.0
+161518,Saint Joseph's College of Maine,78.0,45790.0,New England CT ME MA NH RI VT,3225.0,0,98.0,30.0
+161554,University of Southern Maine,83.0,36422.0,New England CT ME MA NH RI VT,7098.0,1,93.0,45.0
+161563,Thomas College,72.0,35494.0,New England CT ME MA NH RI VT,1339.0,0,98.0,55.0
+161572,Unity College,89.0,35864.0,New England CT ME MA NH RI VT,554.0,0,99.0,43.0
+162007,Bowie State University,52.0,30674.0,Mid East DE DC MD NJ NY PA,4358.0,1,90.0,52.0
+162210,Washington Adventist University,33.0,31220.0,Mid East DE DC MD NJ NY PA,1011.0,0,98.0,53.0
+162283,Coppin State University,36.0,24025.0,Mid East DE DC MD NJ NY PA,2920.0,1,95.0,72.0
+162584,Frostburg State University,59.0,30694.0,Mid East DE DC MD NJ NY PA,4703.0,1,83.0,36.0
+162654,Goucher College,72.0,52908.0,Mid East DE DC MD NJ NY PA,1449.0,0,91.0,26.0
+162760,Hood College,81.0,48830.0,Mid East DE DC MD NJ NY PA,1387.0,0,98.0,27.0
+162928,Johns Hopkins University,18.0,61502.0,Mid East DE DC MD NJ NY PA,6117.0,0,61.0,15.0
+163046,Loyola University Maryland,58.0,58578.0,Mid East DE DC MD NJ NY PA,4004.0,0,81.0,15.0
+163268,University of Maryland-Baltimore County,63.0,36336.0,Mid East DE DC MD NJ NY PA,11136.0,1,77.0,21.0
+163286,University of Maryland-College Park,47.0,42920.0,Mid East DE DC MD NJ NY PA,26658.0,1,73.0,15.0
+163338,University of Maryland Eastern Shore,55.0,29960.0,Mid East DE DC MD NJ NY PA,3530.0,1,93.0,58.0
+163453,Morgan State University,58.0,31683.0,Mid East DE DC MD NJ NY PA,6252.0,1,95.0,60.0
+163462,Mount St Mary's University,67.0,48858.0,Mid East DE DC MD NJ NY PA,1741.0,0,100.0,20.0
+163578,Notre Dame of Maryland University,50.0,45650.0,Mid East DE DC MD NJ NY PA,1234.0,0,99.0,58.0
+163851,Salisbury University,55.0,30714.0,Mid East DE DC MD NJ NY PA,8004.0,1,88.0,16.0
+163912,St Mary's College of Maryland,72.0,43399.0,Mid East DE DC MD NJ NY PA,1820.0,1,72.0,12.0
+163976,St John's College,81.0,58630.0,Mid East DE DC MD NJ NY PA,441.0,0,75.0,21.0
+164076,Towson University,60.0,34844.0,Mid East DE DC MD NJ NY PA,18779.0,1,75.0,22.0
+164173,Stevenson University,60.0,43556.0,Mid East DE DC MD NJ NY PA,3826.0,0,99.0,33.0
+164216,Washington College,67.0,54312.0,Mid East DE DC MD NJ NY PA,1483.0,0,93.0,15.0
+164270,McDaniel College,76.0,48300.0,Mid East DE DC MD NJ NY PA,1692.0,0,99.0,32.0
+164447,American International College,68.0,44900.0,New England CT ME MA NH RI VT,1534.0,0,100.0,51.0
+164465,Amherst College,14.0,61544.0,New England CT ME MA NH RI VT,1787.0,0,65.0,17.0
+164492,Anna Maria College,78.0,48146.0,New England CT ME MA NH RI VT,1143.0,0,100.0,50.0
+164562,Assumption College,74.0,48521.0,New England CT ME MA NH RI VT,2178.0,0,99.0,24.0
+164632,Bay Path College,58.0,44559.0,New England CT ME MA NH RI VT,1420.0,0,100.0,52.0
+164720,Becker College,63.0,47160.0,New England CT ME MA NH RI VT,1902.0,0,100.0,36.0
+164739,Bentley University,44.0,56930.0,New England CT ME MA NH RI VT,4248.0,0,77.0,17.0
+164924,Boston College,32.0,60706.0,New England CT ME MA NH RI VT,9601.0,0,59.0,15.0
+164988,Boston University,46.0,61446.0,New England CT ME MA NH RI VT,18164.0,0,62.0,15.0
+165015,Brandeis University,37.0,61070.0,New England CT ME MA NH RI VT,3614.0,0,65.0,18.0
+165024,Bridgewater State University,79.0,28893.0,New England CT ME MA NH RI VT,9615.0,1,79.0,29.0
+165334,Clark University,62.0,48770.0,New England CT ME MA NH RI VT,2380.0,0,89.0,24.0
+165529,Curry College,67.0,50845.0,New England CT ME MA NH RI VT,2837.0,0,95.0,32.0
+165644,Eastern Nazarene College,56.0,38522.0,New England CT ME MA NH RI VT,1321.0,0,100.0,47.0
+165662,Emerson College,48.0,53554.0,New England CT ME MA NH RI VT,3756.0,0,72.0,15.0
+165671,Emmanuel College,60.0,51363.0,New England CT ME MA NH RI VT,2171.0,0,99.0,26.0
+165699,Endicott College,72.0,45536.0,New England CT ME MA NH RI VT,2670.0,0,94.0,17.0
+165802,Fisher College,63.0,46840.0,New England CT ME MA NH RI VT,1930.0,0,86.0,64.0
+165820,Fitchburg State University,72.0,26770.0,New England CT ME MA NH RI VT,4079.0,1,90.0,38.0
+165866,Framingham State University,52.0,28884.0,New England CT ME MA NH RI VT,4585.0,1,93.0,30.0
+165936,Gordon College,41.0,44860.0,New England CT ME MA NH RI VT,1707.0,0,99.0,25.0
+166018,Hampshire College,64.0,60155.0,New England CT ME MA NH RI VT,1468.0,0,88.0,15.0
+166027,Harvard University,6.0,59950.0,New England CT ME MA NH RI VT,10542.0,0,75.0,15.0
+166124,College of the Holy Cross,33.0,57832.0,New England CT ME MA NH RI VT,2912.0,0,72.0,15.0
+166391,Lasell College,76.0,46000.0,New England CT ME MA NH RI VT,1687.0,0,98.0,30.0
+166452,Lesley University,67.0,49765.0,New England CT ME MA NH RI VT,1905.0,0,97.0,26.0
+166513,University of Massachusetts-Lowell,64.0,39010.0,New England CT ME MA NH RI VT,12713.0,1,90.0,30.0
+166629,University of Massachusetts-Amherst,63.0,40998.0,New England CT ME MA NH RI VT,22134.0,1,88.0,22.0
+166683,Massachusetts Institute of Technology,8.0,59020.0,New England CT ME MA NH RI VT,4528.0,0,87.0,16.0
+166692,Massachusetts Maritime Academy,77.0,36979.0,New England CT ME MA NH RI VT,1380.0,1,89.0,19.0
+166850,Merrimack College,79.0,49685.0,New England CT ME MA NH RI VT,2752.0,0,96.0,21.0
+166939,Mount Holyoke College,47.0,55496.0,New England CT ME MA NH RI VT,2183.0,0,79.0,13.0
+166948,Mount Ida College,61.0,44945.0,New England CT ME MA NH RI VT,1261.0,0,98.0,48.0
+167251,Newbury College,60.0,44550.0,New England CT ME MA NH RI VT,962.0,0,98.0,55.0
+167260,Nichols College,80.0,46690.0,New England CT ME MA NH RI VT,1325.0,0,91.0,33.0
+167288,Massachusetts College of Liberal Arts,67.0,30308.0,New England CT ME MA NH RI VT,1538.0,1,97.0,48.0
+167358,Northeastern University,32.0,58096.0,New England CT ME MA NH RI VT,13223.0,0,77.0,15.0
+167394,College of Our Lady of the Elms,75.0,44612.0,New England CT ME MA NH RI VT,1347.0,0,100.0,49.0
+167455,Pine Manor College,64.0,40870.0,New England CT ME MA NH RI VT,322.0,0,77.0,52.0
+167729,Salem State University,69.0,28224.0,New England CT ME MA NH RI VT,7667.0,1,88.0,40.0
+167783,Simmons College,49.0,52610.0,New England CT ME MA NH RI VT,1730.0,0,97.0,25.0
+167792,Bard College at Simon's Rock,92.0,61403.0,New England CT ME MA NH RI VT,349.0,0,84.0,28.0
+167835,Smith College,43.0,60167.0,New England CT ME MA NH RI VT,2606.0,0,73.0,21.0
+167899,Springfield College,70.0,46480.0,New England CT ME MA NH RI VT,2204.0,0,99.0,24.0
+167987,University of Massachusetts-Dartmouth,72.0,37830.0,New England CT ME MA NH RI VT,7437.0,1,90.0,40.0
+167996,Stonehill College,71.0,52370.0,New England CT ME MA NH RI VT,2481.0,0,92.0,17.0
+168005,Suffolk University,83.0,49979.0,New England CT ME MA NH RI VT,5779.0,0,80.0,35.0
+168148,Tufts University,19.0,61000.0,New England CT ME MA NH RI VT,5245.0,0,44.0,10.0
+168218,Wellesley College,29.0,59092.0,New England CT ME MA NH RI VT,2345.0,0,68.0,19.0
+168227,Wentworth Institute of Technology,58.0,46750.0,New England CT ME MA NH RI VT,4012.0,0,99.0,31.0
+168254,Western New England University,82.0,48890.0,New England CT ME MA NH RI VT,2648.0,0,97.0,29.0
+168263,Westfield State University,75.0,27376.0,New England CT ME MA NH RI VT,5716.0,1,88.0,32.0
+168281,Wheaton College,67.0,58574.0,New England CT ME MA NH RI VT,1640.0,0,93.0,16.0
+168290,Wheelock College,73.0,47870.0,New England CT ME MA NH RI VT,879.0,0,100.0,31.0
+168342,Williams College,17.0,61850.0,New England CT ME MA NH RI VT,2097.0,0,65.0,19.0
+168421,Worcester Polytechnic Institute,52.0,58060.0,New England CT ME MA NH RI VT,4134.0,0,98.0,14.0
+168430,Worcester State University,61.0,28798.0,New England CT ME MA NH RI VT,5556.0,1,88.0,33.0
+168528,Adrian College,56.0,42740.0,Great Lakes IL IN MI OH WI,1641.0,0,98.0,50.0
+168546,Albion College,56.0,48195.0,Great Lakes IL IN MI OH WI,1307.0,0,99.0,24.0
+168591,Alma College,68.0,44287.0,Great Lakes IL IN MI OH WI,1419.0,0,100.0,33.0
+168740,Andrews University,38.0,35538.0,Great Lakes IL IN MI OH WI,1905.0,0,100.0,35.0
+168786,Aquinas College,71.0,38012.0,Great Lakes IL IN MI OH WI,1863.0,0,99.0,31.0
+169080,Calvin College,70.0,41195.0,Great Lakes IL IN MI OH WI,3959.0,0,100.0,24.0
+169248,Central Michigan University,63.0,34454.0,Great Lakes IL IN MI OH WI,20534.0,1,92.0,35.0
+169363,Concordia University-Ann Arbor,54.0,35693.0,Great Lakes IL IN MI OH WI,584.0,0,100.0,47.0
+169479,Davenport University,92.0,26872.0,Great Lakes IL IN MI OH WI,7356.0,0,95.0,47.0
+169716,University of Detroit Mercy,61.0,52400.0,Great Lakes IL IN MI OH WI,2800.0,0,99.0,33.0
+169798,Eastern Michigan University,64.0,36301.0,Great Lakes IL IN MI OH WI,19084.0,1,97.0,52.0
+169910,Ferris State University,76.0,28134.0,Great Lakes IL IN MI OH WI,13469.0,1,96.0,46.0
+169983,Kettering University,62.0,51277.0,Great Lakes IL IN MI OH WI,1690.0,0,100.0,30.0
+170000,Grace Bible College,75.0,21949.0,Great Lakes IL IN MI OH WI,506.0,0,100.0,71.0
+170037,Cornerstone University,68.0,35922.0,Great Lakes IL IN MI OH WI,2200.0,0,98.0,40.0
+170082,Grand Valley State University,83.0,27104.0,Great Lakes IL IN MI OH WI,21235.0,1,88.0,34.0
+170301,Hope College,73.0,40050.0,Great Lakes IL IN MI OH WI,3388.0,0,94.0,21.0
+170532,Kalamazoo College,67.0,50800.0,Great Lakes IL IN MI OH WI,1456.0,0,100.0,22.0
+170639,Lake Superior State University,92.0,26708.0,Great Lakes IL IN MI OH WI,2364.0,1,97.0,45.0
+170675,Lawrence Technological University,44.0,43061.0,Great Lakes IL IN MI OH WI,3055.0,0,86.0,31.0
+170806,Madonna University,61.0,27944.0,Great Lakes IL IN MI OH WI,3371.0,0,92.0,34.0
+170842,Marygrove College,94.0,30730.0,Great Lakes IL IN MI OH WI,1041.0,0,99.0,81.0
+170967,Rochester College,66.0,28890.0,Great Lakes IL IN MI OH WI,1117.0,0,100.0,43.0
+170976,University of Michigan-Ann Arbor,33.0,53490.0,Great Lakes IL IN MI OH WI,28283.0,1,63.0,14.0
+171100,Michigan State University,69.0,45536.0,Great Lakes IL IN MI OH WI,37988.0,1,63.0,21.0
+171128,Michigan Technological University,77.0,41255.0,Great Lakes IL IN MI OH WI,5613.0,1,97.0,28.0
+171146,University of Michigan-Flint,78.0,31908.0,Great Lakes IL IN MI OH WI,7143.0,1,84.0,38.0
+171456,Northern Michigan University,73.0,25349.0,Great Lakes IL IN MI OH WI,8233.0,1,90.0,44.0
+171571,Oakland University,66.0,35011.0,Great Lakes IL IN MI OH WI,16594.0,1,92.0,33.0
+171599,Olivet College,51.0,34181.0,Great Lakes IL IN MI OH WI,1102.0,0,99.0,52.0
+171881,Kuyper College,68.0,27970.0,Great Lakes IL IN MI OH WI,287.0,0,99.0,57.0
+172051,Saginaw Valley State University,79.0,30534.0,Great Lakes IL IN MI OH WI,9168.0,1,94.0,42.0
+172264,Siena Heights University,68.0,34014.0,Great Lakes IL IN MI OH WI,2424.0,0,100.0,45.0
+172334,Spring Arbor University,65.0,34046.0,Great Lakes IL IN MI OH WI,2968.0,0,100.0,49.0
+172440,Finlandia University,59.0,32220.0,Great Lakes IL IN MI OH WI,525.0,0,97.0,69.0
+172644,Wayne State University,76.0,36206.0,Great Lakes IL IN MI OH WI,18602.0,1,89.0,52.0
+172699,Western Michigan University,83.0,36004.0,Great Lakes IL IN MI OH WI,19198.0,1,84.0,36.0
+173045,Augsburg College,61.0,45465.0,Plains IA KS MN MO NE ND SD,2700.0,0,99.0,46.0
+173124,Bemidji State University,67.0,18940.0,Plains IA KS MN MO NE ND SD,4729.0,1,90.0,35.0
+173142,Bethany Lutheran College,75.0,34150.0,Plains IA KS MN MO NE ND SD,579.0,0,100.0,39.0
+173160,Bethel University,95.0,44300.0,Plains IA KS MN MO NE ND SD,3178.0,0,100.0,25.0
+173258,Carleton College,21.0,60425.0,Plains IA KS MN MO NE ND SD,2045.0,0,77.0,11.0
+173300,Concordia College at Moorhead,80.0,42964.0,Plains IA KS MN MO NE ND SD,2531.0,0,100.0,26.0
+173328,Concordia University-Saint Paul,52.0,30850.0,Plains IA KS MN MO NE ND SD,2171.0,0,99.0,49.0
+173452,Martin Luther College,96.0,21560.0,Plains IA KS MN MO NE ND SD,768.0,0,97.0,38.0
+173647,Gustavus Adolphus College,63.0,50110.0,Plains IA KS MN MO NE ND SD,2455.0,0,99.0,24.0
+173665,Hamline University,66.0,46398.0,Plains IA KS MN MO NE ND SD,2164.0,0,100.0,41.0
+173902,Macalester College,34.0,57478.0,Plains IA KS MN MO NE ND SD,2039.0,0,81.0,17.0
+173920,Minnesota State University-Mankato,66.0,25041.0,Plains IA KS MN MO NE ND SD,13461.0,1,85.0,32.0
+174066,University of Minnesota-Twin Cities,44.0,31531.0,Plains IA KS MN MO NE ND SD,34449.0,1,77.0,21.0
+174075,University of Minnesota-Crookston,69.0,22722.0,Plains IA KS MN MO NE ND SD,2839.0,1,92.0,42.0
+174233,University of Minnesota-Duluth,78.0,27020.0,Plains IA KS MN MO NE ND SD,10079.0,1,83.0,25.0
+174251,University of Minnesota-Morris,58.0,23206.0,Plains IA KS MN MO NE ND SD,1946.0,1,93.0,34.0
+174358,Minnesota State University-Moorhead,89.0,25898.0,Plains IA KS MN MO NE ND SD,6158.0,1,86.0,31.0
+174437,North Central University,95.0,30248.0,Plains IA KS MN MO NE ND SD,1301.0,0,100.0,46.0
+174491,University of Northwestern-St Paul,69.0,40120.0,Plains IA KS MN MO NE ND SD,3091.0,0,99.0,38.0
+174747,College of Saint Benedict,76.0,49970.0,Plains IA KS MN MO NE ND SD,2051.0,0,100.0,29.0
+174783,Saint Cloud State University,87.0,26644.0,Plains IA KS MN MO NE ND SD,14641.0,1,86.0,39.0
+174792,Saint Johns University,75.0,48546.0,Plains IA KS MN MO NE ND SD,1871.0,0,100.0,18.0
+174817,Saint Mary's University of Minnesota,75.0,39750.0,Plains IA KS MN MO NE ND SD,1932.0,0,99.0,37.0
+174844,St Olaf College,59.0,51860.0,Plains IA KS MN MO NE ND SD,3125.0,0,93.0,15.0
+174862,Crown College,55.0,35080.0,Plains IA KS MN MO NE ND SD,1139.0,0,96.0,42.0
+174899,The College of Saint Scholastica,73.0,43008.0,Plains IA KS MN MO NE ND SD,2936.0,0,100.0,27.0
+174914,University of St Thomas,86.0,48400.0,Plains IA KS MN MO NE ND SD,6275.0,0,97.0,19.0
+175005,St Catherine University,61.0,47012.0,Plains IA KS MN MO NE ND SD,3559.0,0,100.0,45.0
+175078,Southwest Minnesota State University,65.0,19576.0,Plains IA KS MN MO NE ND SD,6233.0,1,95.0,40.0
+175272,Winona State University,61.0,26290.0,Plains IA KS MN MO NE ND SD,8276.0,1,88.0,25.0
+175342,Alcorn State University,83.0,20984.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,3157.0,1,77.0,67.0
+175421,Belhaven University,48.0,34472.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,2498.0,0,100.0,44.0
+175430,Blue Mountain College,56.0,17550.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,516.0,0,97.0,46.0
+175616,Delta State University,89.0,18887.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,2638.0,1,94.0,53.0
+175856,Jackson State University,65.0,29844.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,5799.0,1,93.0,73.0
+175980,Millsaps College,47.0,46680.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,744.0,0,100.0,23.0
+176017,University of Mississippi,59.0,33412.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,16677.0,1,83.0,26.0
+176035,Mississippi University for Women,43.0,26543.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,2429.0,1,99.0,58.0
+176044,Mississippi Valley State University,23.0,18552.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,1926.0,1,96.0,88.0
+176053,Mississippi College,67.0,27611.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,2895.0,0,99.0,31.0
+176080,Mississippi State University,65.0,31858.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,16399.0,1,93.0,32.0
+176318,Rust College,14.0,15400.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,936.0,0,99.0,94.0
+176372,University of Southern Mississippi,66.0,28174.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,12475.0,1,96.0,50.0
+176406,Tougaloo College,36.0,20757.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,878.0,0,94.0,70.0
+176479,William Carey University,49.0,25500.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,2254.0,0,92.0,67.0
+176628,Avila University,61.0,36414.0,Plains IA KS MN MO NE ND SD,1401.0,0,100.0,42.0
+176947,Central Methodist University-College of Liberal Arts and Sciences,65.0,32970.0,Plains IA KS MN MO NE ND SD,1107.0,0,100.0,44.0
+176965,University of Central Missouri,81.0,25193.0,Plains IA KS MN MO NE ND SD,9974.0,1,94.0,43.0
+177144,Culver-Stockton College,59.0,34952.0,Plains IA KS MN MO NE ND SD,830.0,0,100.0,57.0
+177214,Drury University,81.0,34719.0,Plains IA KS MN MO NE ND SD,4231.0,0,84.0,63.0
+177339,Evangel University,64.0,32183.0,Plains IA KS MN MO NE ND SD,2077.0,0,98.0,42.0
+177418,Fontbonne University,65.0,33896.0,Plains IA KS MN MO NE ND SD,1328.0,0,92.0,24.0
+177542,Hannibal-LaGrange University,68.0,29258.0,Plains IA KS MN MO NE ND SD,1020.0,0,93.0,46.0
+177968,Lindenwood University,66.0,31140.0,Plains IA KS MN MO NE ND SD,8453.0,0,95.0,30.0
+178059,Maryville University of Saint Louis,76.0,41918.0,Plains IA KS MN MO NE ND SD,2829.0,0,99.0,27.0
+178244,Missouri Baptist University,61.0,33313.0,Plains IA KS MN MO NE ND SD,3950.0,0,100.0,44.0
+178341,Missouri Southern State University,97.0,20219.0,Plains IA KS MN MO NE ND SD,5587.0,1,93.0,55.0
+178369,Missouri Valley College,22.0,30000.0,Plains IA KS MN MO NE ND SD,1716.0,0,100.0,63.0
+178396,University of Missouri-Columbia,79.0,37292.0,Plains IA KS MN MO NE ND SD,26928.0,1,84.0,23.0
+178402,University of Missouri-Kansas City,33.0,41143.0,Plains IA KS MN MO NE ND SD,10227.0,1,92.0,41.0
+178411,Missouri University of Science and Technology,82.0,36963.0,Plains IA KS MN MO NE ND SD,6145.0,1,97.0,24.0
+178420,University of Missouri-St Louis,74.0,39277.0,Plains IA KS MN MO NE ND SD,13569.0,1,95.0,43.0
+178615,Truman State University,72.0,25440.0,Plains IA KS MN MO NE ND SD,5898.0,1,99.0,23.0
+178624,Northwest Missouri State University,72.0,22377.0,Plains IA KS MN MO NE ND SD,5542.0,1,95.0,39.0
+178697,College of the Ozarks,13.0,27276.0,Plains IA KS MN MO NE ND SD,1535.0,0,100.0,67.0
+178721,Park University,96.0,23248.0,Plains IA KS MN MO NE ND SD,10247.0,0,91.0,47.0
+179043,Rockhurst University,75.0,45235.0,Plains IA KS MN MO NE ND SD,2241.0,0,100.0,21.0
+179159,Saint Louis University,64.0,53438.0,Plains IA KS MN MO NE ND SD,12568.0,0,93.0,19.0
+179326,Southwest Baptist University,90.0,30340.0,Plains IA KS MN MO NE ND SD,2962.0,0,97.0,48.0
+179548,Stephens College,68.0,42424.0,Plains IA KS MN MO NE ND SD,659.0,0,100.0,55.0
+179557,Southeast Missouri State University,85.0,24543.0,Plains IA KS MN MO NE ND SD,10593.0,1,93.0,40.0
+179566,Missouri State University-Springfield,85.0,25731.0,Plains IA KS MN MO NE ND SD,18027.0,1,89.0,36.0
+179867,Washington University in St Louis,16.0,61808.0,Plains IA KS MN MO NE ND SD,7395.0,0,55.0,5.0
+179894,Webster University,58.0,41918.0,Plains IA KS MN MO NE ND SD,3490.0,0,97.0,37.0
+179946,Westminster College,72.0,34800.0,Plains IA KS MN MO NE ND SD,1039.0,0,100.0,32.0
+179955,William Jewell College,58.0,43820.0,Plains IA KS MN MO NE ND SD,1043.0,0,100.0,30.0
+179964,William Woods University,75.0,35250.0,Plains IA KS MN MO NE ND SD,931.0,0,100.0,40.0
+180106,Carroll College,53.0,40918.0,Rocky Mountains CO ID MT UT WY,1431.0,0,100.0,21.0
+180258,University of Great Falls,73.0,32654.0,Rocky Mountains CO ID MT UT WY,1027.0,0,97.0,46.0
+180416,Montana Tech of the University of Montana,89.0,30866.0,Rocky Mountains CO ID MT UT WY,1844.0,1,89.0,30.0
+180461,Montana State University,84.0,33417.0,Rocky Mountains CO ID MT UT WY,13174.0,1,87.0,25.0
+180489,The University of Montana,94.0,34780.0,Rocky Mountains CO ID MT UT WY,12254.0,1,89.0,40.0
+180522,Montana State University-Northern,100.0,29212.0,Rocky Mountains CO ID MT UT WY,1250.0,1,88.0,49.0
+180595,Rocky Mountain College,67.0,35488.0,Rocky Mountains CO ID MT UT WY,988.0,0,100.0,35.0
+180984,Concordia University-Nebraska,72.0,34550.0,Plains IA KS MN MO NE ND SD,1457.0,0,100.0,28.0
+181002,Creighton University,77.0,48058.0,Plains IA KS MN MO NE ND SD,4076.0,0,100.0,19.0
+181020,Doane College-Crete,72.0,38380.0,Plains IA KS MN MO NE ND SD,1113.0,0,100.0,34.0
+181093,Grace University,58.0,28958.0,Plains IA KS MN MO NE ND SD,410.0,0,100.0,44.0
+181127,Hastings College,74.0,37152.0,Plains IA KS MN MO NE ND SD,1118.0,0,100.0,32.0
+181215,University of Nebraska at Kearney,85.0,25838.0,Plains IA KS MN MO NE ND SD,5502.0,1,87.0,35.0
+181330,Midland University,68.0,37780.0,Plains IA KS MN MO NE ND SD,1192.0,0,100.0,42.0
+181394,University of Nebraska at Omaha,71.0,29590.0,Plains IA KS MN MO NE ND SD,12335.0,1,88.0,36.0
+181446,Nebraska Wesleyan University,77.0,39492.0,Plains IA KS MN MO NE ND SD,1927.0,0,100.0,26.0
+181464,University of Nebraska-Lincoln,64.0,35574.0,Plains IA KS MN MO NE ND SD,19376.0,1,87.0,24.0
+181604,College of Saint Mary,57.0,36252.0,Plains IA KS MN MO NE ND SD,731.0,0,100.0,32.0
+181738,Union College,52.0,31990.0,Plains IA KS MN MO NE ND SD,821.0,0,100.0,42.0
+181853,York College,49.0,26250.0,Plains IA KS MN MO NE ND SD,467.0,0,91.0,46.0
+182281,University of Nevada-Las Vegas,85.0,36105.0,Far West AK CA HI NV OR WA,23099.0,1,92.0,40.0
+182290,University of Nevada-Reno,84.0,36510.0,Far West AK CA HI NV OR WA,15694.0,1,94.0,31.0
+182634,Colby-Sawyer College,83.0,52800.0,New England CT ME MA NH RI VT,1415.0,0,99.0,40.0
+182670,Dartmouth College,10.0,63279.0,New England CT ME MA NH RI VT,4276.0,0,61.0,12.0
+182795,Franklin Pierce University,85.0,45898.0,New England CT ME MA NH RI VT,1671.0,0,100.0,30.0
+182980,New England College,90.0,48430.0,New England CT ME MA NH RI VT,1483.0,0,95.0,53.0
+183026,Southern New Hampshire University,79.0,43056.0,New England CT ME MA NH RI VT,16709.0,0,94.0,38.0
+183044,University of New Hampshire-Main Campus,78.0,43020.0,New England CT ME MA NH RI VT,12534.0,1,84.0,23.0
+183062,Keene State College,82.0,32469.0,New England CT ME MA NH RI VT,4802.0,1,96.0,26.0
+183080,Plymouth State University,77.0,33975.0,New England CT ME MA NH RI VT,4065.0,1,89.0,31.0
+183211,Rivier University,89.0,43227.0,New England CT ME MA NH RI VT,1591.0,0,100.0,33.0
+183239,Saint Anselm College,74.0,50394.0,New England CT ME MA NH RI VT,1923.0,0,98.0,14.0
+183822,Bloomfield College,55.0,41130.0,Mid East DE DC MD NJ NY PA,2042.0,0,96.0,80.0
+183910,Caldwell College,64.0,43800.0,Mid East DE DC MD NJ NY PA,1577.0,0,98.0,51.0
+183974,Centenary College,91.0,43435.0,Mid East DE DC MD NJ NY PA,1708.0,0,100.0,38.0
+184348,Drew University,77.0,59362.0,Mid East DE DC MD NJ NY PA,1493.0,0,97.0,31.0
+184603,Fairleigh Dickinson University-Metropolitan Campus,73.0,52036.0,Mid East DE DC MD NJ NY PA,6116.0,0,95.0,54.0
+184612,Felician College,88.0,45800.0,Mid East DE DC MD NJ NY PA,1606.0,0,100.0,69.0
+184694,Fairleigh Dickinson University-College at Florham,78.0,54502.0,Mid East DE DC MD NJ NY PA,2437.0,0,99.0,39.0
+184773,Georgian Court University,78.0,43276.0,Mid East DE DC MD NJ NY PA,1567.0,0,99.0,60.0
+184782,Rowan University,59.0,34776.0,Mid East DE DC MD NJ NY PA,10951.0,1,83.0,30.0
+185129,New Jersey City University,41.0,34275.0,Mid East DE DC MD NJ NY PA,6438.0,1,90.0,73.0
+185262,Kean University,80.0,32847.0,Mid East DE DC MD NJ NY PA,12078.0,1,78.0,45.0
+185572,Monmouth University,78.0,46152.0,Mid East DE DC MD NJ NY PA,4557.0,0,100.0,25.0
+185590,Montclair State University,65.0,36906.0,Mid East DE DC MD NJ NY PA,15431.0,1,77.0,41.0
+185828,New Jersey Institute of Technology,65.0,44540.0,Mid East DE DC MD NJ NY PA,7281.0,1,87.0,35.0
+186131,Princeton University,7.0,55832.0,Mid East DE DC MD NJ NY PA,5248.0,0,60.0,14.0
+186201,Ramapo College of New Jersey,55.0,37811.0,Mid East DE DC MD NJ NY PA,5397.0,1,78.0,23.0
+186283,Rider University,72.0,51670.0,Mid East DE DC MD NJ NY PA,4419.0,0,98.0,28.0
+186371,Rutgers University-Camden,59.0,42205.0,Mid East DE DC MD NJ NY PA,4852.0,1,85.0,40.0
+186380,Rutgers University-New Brunswick,60.0,43492.0,Mid East DE DC MD NJ NY PA,30742.0,1,76.0,29.0
+186399,Rutgers University-Newark,54.0,43792.0,Mid East DE DC MD NJ NY PA,7756.0,1,80.0,49.0
+186432,Saint Peter's University,54.0,47842.0,Mid East DE DC MD NJ NY PA,2472.0,0,100.0,64.0
+186584,Seton Hall University,79.0,50318.0,Mid East DE DC MD NJ NY PA,5839.0,0,98.0,26.0
+186618,College of Saint Elizabeth,48.0,47147.0,Mid East DE DC MD NJ NY PA,987.0,0,99.0,72.0
+186867,Stevens Institute of Technology,38.0,60554.0,Mid East DE DC MD NJ NY PA,2691.0,0,98.0,21.0
+186876,The Richard Stockton College of New Jersey,62.0,34322.0,Mid East DE DC MD NJ NY PA,7539.0,1,87.0,32.0
+187134,The College of New Jersey,43.0,40057.0,Mid East DE DC MD NJ NY PA,6653.0,1,83.0,19.0
+187444,William Paterson University of New Jersey,68.0,35120.0,Mid East DE DC MD NJ NY PA,10027.0,1,87.0,40.0
+187648,Eastern New Mexico University-Main Campus,63.0,21660.0,Southwest AZ NM OK TX,4567.0,1,99.0,55.0
+187967,New Mexico Institute of Mining and Technology,41.0,30121.0,Southwest AZ NM OK TX,1604.0,1,96.0,32.0
+187985,University of New Mexico-Main Campus,65.0,33936.0,Southwest AZ NM OK TX,20852.0,1,98.0,38.0
+188030,New Mexico State University-Main Campus,85.0,31679.0,Southwest AZ NM OK TX,13582.0,1,97.0,46.0
+188340,Vaughn College of Aeronautics and Technology,77.0,43726.0,Mid East DE DC MD NJ NY PA,1773.0,0,94.0,75.0
+188429,Adelphi University,68.0,47110.0,Mid East DE DC MD NJ NY PA,5040.0,0,96.0,32.0
+188641,Alfred University,70.0,39948.0,Mid East DE DC MD NJ NY PA,1960.0,0,100.0,40.0
+189088,Bard College,38.0,62572.0,Mid East DE DC MD NJ NY PA,2004.0,0,75.0,23.0
+189097,Barnard College,21.0,61512.0,Mid East DE DC MD NJ NY PA,2489.0,0,49.0,18.0
+189705,Canisius College,73.0,48102.0,Mid East DE DC MD NJ NY PA,3084.0,0,99.0,37.0
+189848,Cazenovia College,78.0,43290.0,Mid East DE DC MD NJ NY PA,1077.0,0,100.0,47.0
+190044,Clarkson University,64.0,57514.0,Mid East DE DC MD NJ NY PA,3110.0,0,100.0,29.0
+190099,Colgate University,26.0,60050.0,Mid East DE DC MD NJ NY PA,2890.0,0,41.0,12.0
+190150,Columbia University in the City of New York,7.0,64144.0,Mid East DE DC MD NJ NY PA,7970.0,0,57.0,15.0
+190248,Concordia College-New York,67.0,41175.0,Mid East DE DC MD NJ NY PA,887.0,0,94.0,58.0
+190372,Cooper Union for the Advancement of Science and Art,8.0,60075.0,Mid East DE DC MD NJ NY PA,852.0,0,100.0,15.0
+190415,Cornell University,16.0,61618.0,Mid East DE DC MD NJ NY PA,14393.0,0,64.0,15.0
+190512,CUNY Bernard M Baruch College,25.0,34072.0,Mid East DE DC MD NJ NY PA,14049.0,1,70.0,46.0
+190549,CUNY Brooklyn College,32.0,31416.0,Mid East DE DC MD NJ NY PA,13287.0,1,70.0,52.0
+190558,College of Staten Island CUNY,100.0,31342.0,Mid East DE DC MD NJ NY PA,13436.0,1,71.0,55.0
+190567,CUNY City College,34.0,33141.0,Mid East DE DC MD NJ NY PA,12627.0,1,79.0,63.0
+190594,CUNY Hunter College,30.0,26691.0,Mid East DE DC MD NJ NY PA,16630.0,1,69.0,50.0
+190600,CUNY John Jay College of Criminal Justice,34.0,37395.0,Mid East DE DC MD NJ NY PA,13421.0,1,77.0,64.0
+190637,CUNY Lehman College,23.0,30980.0,Mid East DE DC MD NJ NY PA,9643.0,1,86.0,74.0
+190664,CUNY Queens College,37.0,32689.0,Mid East DE DC MD NJ NY PA,15345.0,1,61.0,46.0
+190716,D'Youville College,79.0,37570.0,Mid East DE DC MD NJ NY PA,2000.0,0,100.0,38.0
+190725,Daemen College,49.0,37690.0,Mid East DE DC MD NJ NY PA,2156.0,0,100.0,41.0
+190761,Dominican College of Blauvelt,72.0,39890.0,Mid East DE DC MD NJ NY PA,1527.0,0,99.0,50.0
+190770,Dowling College,78.0,43962.0,Mid East DE DC MD NJ NY PA,2100.0,0,93.0,45.0
+190983,Elmira College,80.0,50800.0,Mid East DE DC MD NJ NY PA,1408.0,0,99.0,33.0
+191126,Fashion Institute of Technology,45.0,30623.0,Mid East DE DC MD NJ NY PA,9531.0,1,69.0,33.0
+191241,Fordham University,47.0,63438.0,Mid East DE DC MD NJ NY PA,8345.0,0,92.0,20.0
+191515,Hamilton College,27.0,59590.0,Mid East DE DC MD NJ NY PA,1926.0,0,58.0,18.0
+191533,Hartwick College,84.0,50815.0,Mid East DE DC MD NJ NY PA,1615.0,0,100.0,36.0
+191621,Hilbert College,81.0,30140.0,Mid East DE DC MD NJ NY PA,1007.0,0,98.0,57.0
+191630,Hobart William Smith Colleges,49.0,59850.0,Mid East DE DC MD NJ NY PA,2344.0,0,81.0,17.0
+191649,Hofstra University,59.0,54289.0,Mid East DE DC MD NJ NY PA,6848.0,0,96.0,23.0
+191676,Houghton College,91.0,39590.0,Mid East DE DC MD NJ NY PA,1005.0,0,100.0,44.0
+191931,Iona College,92.0,49295.0,Mid East DE DC MD NJ NY PA,3539.0,0,98.0,31.0
+191968,Ithaca College,67.0,55587.0,Mid East DE DC MD NJ NY PA,6234.0,0,92.0,19.0
+192192,Keuka College,88.0,43005.0,Mid East DE DC MD NJ NY PA,1829.0,0,100.0,46.0
+192323,Le Moyne College,62.0,44900.0,Mid East DE DC MD NJ NY PA,2785.0,0,100.0,34.0
+192439,LIU Brooklyn,87.0,50514.0,Mid East DE DC MD NJ NY PA,5011.0,0,97.0,71.0
+192448,LIU Post,81.0,50934.0,Mid East DE DC MD NJ NY PA,7985.0,0,96.0,38.0
+192703,Manhattan College,66.0,52005.0,Mid East DE DC MD NJ NY PA,3403.0,0,92.0,31.0
+192749,Manhattanville College,77.0,52240.0,Mid East DE DC MD NJ NY PA,1737.0,0,99.0,39.0
+192819,Marist College,37.0,48390.0,Mid East DE DC MD NJ NY PA,5566.0,0,88.0,14.0
+192864,Marymount Manhattan College,75.0,48740.0,Mid East DE DC MD NJ NY PA,1833.0,0,92.0,30.0
+192925,Medaille College,54.0,37312.0,Mid East DE DC MD NJ NY PA,1728.0,0,92.0,60.0
+193016,Mercy College,57.0,34278.0,Mid East DE DC MD NJ NY PA,8192.0,0,95.0,71.0
+193292,Molloy College,73.0,43718.0,Mid East DE DC MD NJ NY PA,3375.0,0,97.0,30.0
+193353,Mount Saint Mary College,86.0,42290.0,Mid East DE DC MD NJ NY PA,2203.0,0,99.0,32.0
+193399,College of Mount Saint Vincent,73.0,44835.0,Mid East DE DC MD NJ NY PA,1702.0,0,100.0,62.0
+193584,Nazareth College,68.0,44290.0,Mid East DE DC MD NJ NY PA,2034.0,0,100.0,31.0
+193645,The College of New Rochelle,57.0,47550.0,Mid East DE DC MD NJ NY PA,3210.0,0,100.0,89.0
+193654,The New School,67.0,59691.0,Mid East DE DC MD NJ NY PA,6634.0,0,95.0,26.0
+193900,New York University,26.0,63540.0,Mid East DE DC MD NJ NY PA,22566.0,0,55.0,20.0
+193973,Niagara University,66.0,42350.0,Mid East DE DC MD NJ NY PA,3225.0,0,98.0,38.0
+194091,New York Institute of Technology,74.0,48552.0,Mid East DE DC MD NJ NY PA,4510.0,0,97.0,42.0
+194161,Nyack College,97.0,36532.0,Mid East DE DC MD NJ NY PA,1831.0,0,100.0,58.0
+194310,Pace University-New York,77.0,56999.0,Mid East DE DC MD NJ NY PA,8289.0,0,99.0,42.0
+194392,Paul Smiths College of Arts and Science,75.0,40021.0,Mid East DE DC MD NJ NY PA,982.0,0,99.0,48.0
+194541,Polytechnic Institute of New York University,75.0,59570.0,Mid East DE DC MD NJ NY PA,2155.0,0,94.0,42.0
+194824,Rensselaer Polytechnic Institute,41.0,61820.0,Mid East DE DC MD NJ NY PA,5379.0,0,95.0,15.0
+194958,Roberts Wesleyan College,73.0,40888.0,Mid East DE DC MD NJ NY PA,1314.0,0,100.0,44.0
+195003,Rochester Institute of Technology,60.0,47627.0,Mid East DE DC MD NJ NY PA,13880.0,0,95.0,31.0
+195030,University of Rochester,36.0,61340.0,Mid East DE DC MD NJ NY PA,6177.0,0,89.0,18.0
+195128,The Sage Colleges,57.0,42470.0,Mid East DE DC MD NJ NY PA,1704.0,0,98.0,60.0
+195164,St Bonaventure University,80.0,42359.0,Mid East DE DC MD NJ NY PA,1826.0,0,99.0,29.0
+195173,St Francis College,64.0,43200.0,Mid East DE DC MD NJ NY PA,2819.0,0,98.0,46.0
+195216,St Lawrence University,46.0,59550.0,Mid East DE DC MD NJ NY PA,2414.0,0,95.0,20.0
+195234,The College of Saint Rose,78.0,42234.0,Mid East DE DC MD NJ NY PA,2891.0,0,99.0,38.0
+195243,St Thomas Aquinas College,82.0,41120.0,Mid East DE DC MD NJ NY PA,1801.0,0,97.0,36.0
+195304,Sarah Lawrence College,62.0,64122.0,Mid East DE DC MD NJ NY PA,1483.0,0,78.0,14.0
+195474,Siena College,68.0,47265.0,Mid East DE DC MD NJ NY PA,3161.0,0,98.0,24.0
+195526,Skidmore College,35.0,60900.0,Mid East DE DC MD NJ NY PA,2684.0,0,57.0,13.0
+195720,Saint John Fisher College,63.0,41370.0,Mid East DE DC MD NJ NY PA,2959.0,0,100.0,29.0
+195809,St John's University-New York,53.0,56971.0,Mid East DE DC MD NJ NY PA,15773.0,0,98.0,43.0
+196006,SUNY College of Technology at Alfred,55.0,29899.0,Mid East DE DC MD NJ NY PA,3549.0,1,94.0,55.0
+196015,SUNY College of Technology at Canton,78.0,25586.0,Mid East DE DC MD NJ NY PA,3520.0,1,96.0,66.0
+196024,SUNY College of Technology at Delhi,59.0,25260.0,Mid East DE DC MD NJ NY PA,3375.0,1,91.0,59.0
+196033,SUNY College of Agriculture and Technology at Cobleskill,73.0,32111.0,Mid East DE DC MD NJ NY PA,2470.0,1,90.0,54.0
+196042,Farmingdale State College,53.0,31635.0,Mid East DE DC MD NJ NY PA,8162.0,1,68.0,33.0
+196051,Morrisville State College,59.0,32802.0,Mid East DE DC MD NJ NY PA,3026.0,1,94.0,65.0
+196060,SUNY at Albany,55.0,32739.0,Mid East DE DC MD NJ NY PA,12816.0,1,79.0,36.0
+196079,SUNY at Binghamton,43.0,33152.0,Mid East DE DC MD NJ NY PA,13010.0,1,61.0,24.0
+196088,University at Buffalo,57.0,35256.0,Mid East DE DC MD NJ NY PA,19881.0,1,75.0,31.0
+196097,Stony Brook University,39.0,34067.0,Mid East DE DC MD NJ NY PA,16047.0,1,80.0,34.0
+196103,SUNY College of Environmental Science and Forestry,51.0,33543.0,Mid East DE DC MD NJ NY PA,1722.0,1,90.0,23.0
+196112,SUNY Institute of Technology at Utica-Rome,48.0,32515.0,Mid East DE DC MD NJ NY PA,1533.0,1,92.0,45.0
+196121,SUNY College at Brockport,48.0,30402.0,Mid East DE DC MD NJ NY PA,7090.0,1,87.0,38.0
+196130,Buffalo State SUNY,49.0,30853.0,Mid East DE DC MD NJ NY PA,9355.0,1,87.0,50.0
+196149,SUNY College at Cortland,47.0,32084.0,Mid East DE DC MD NJ NY PA,6405.0,1,84.0,26.0
+196158,SUNY at Fredonia,52.0,31088.0,Mid East DE DC MD NJ NY PA,5103.0,1,87.0,35.0
+196167,SUNY College at Geneseo,46.0,31122.0,Mid East DE DC MD NJ NY PA,5236.0,1,59.0,18.0
+196176,State University of New York at New Paltz,44.0,30853.0,Mid East DE DC MD NJ NY PA,6551.0,1,73.0,29.0
+196185,SUNY Oneonta,51.0,31130.0,Mid East DE DC MD NJ NY PA,5820.0,1,79.0,27.0
+196194,SUNY College at Oswego,49.0,31441.0,Mid East DE DC MD NJ NY PA,7306.0,1,91.0,40.0
+196200,SUNY College at Potsdam,68.0,30559.0,Mid East DE DC MD NJ NY PA,3707.0,1,91.0,46.0
+196219,SUNY at Purchase College,33.0,34122.0,Mid East DE DC MD NJ NY PA,4017.0,1,82.0,34.0
+196237,SUNY College at Old Westbury,58.0,28534.0,Mid East DE DC MD NJ NY PA,4158.0,1,77.0,52.0
+196246,SUNY College at Plattsburgh,46.0,30759.0,Mid East DE DC MD NJ NY PA,5639.0,1,91.0,34.0
+196291,SUNY Maritime College,64.0,32064.0,Mid East DE DC MD NJ NY PA,1603.0,1,76.0,20.0
+196413,Syracuse University,49.0,57450.0,Mid East DE DC MD NJ NY PA,15097.0,0,74.0,26.0
+196592,Touro College,59.0,28472.0,Mid East DE DC MD NJ NY PA,6609.0,0,84.0,61.0
+196866,Union College,37.0,60150.0,Mid East DE DC MD NJ NY PA,2246.0,0,81.0,14.0
+197045,Utica College,85.0,48650.0,Mid East DE DC MD NJ NY PA,2875.0,0,99.0,47.0
+197133,Vassar College,24.0,61320.0,Mid East DE DC MD NJ NY PA,2477.0,0,71.0,23.0
+197197,Wagner College,70.0,53924.0,Mid East DE DC MD NJ NY PA,1826.0,0,99.0,21.0
+197230,Wells College,60.0,49800.0,Mid East DE DC MD NJ NY PA,534.0,0,100.0,56.0
+197708,Yeshiva University,82.0,55075.0,Mid East DE DC MD NJ NY PA,2850.0,0,84.0,17.0
+197869,Appalachian State University,63.0,31266.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,15841.0,1,67.0,24.0
+197911,Barton College,42.0,39254.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,1065.0,0,100.0,52.0
+197984,Belmont Abbey College,68.0,32564.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,1647.0,0,100.0,36.0
+197993,Bennett College,83.0,31035.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,680.0,0,100.0,84.0
+198066,Brevard College,45.0,37000.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,701.0,0,99.0,44.0
+198136,Campbell University,70.0,42580.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,4451.0,0,100.0,38.0
+198215,Catawba College,41.0,40743.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,1298.0,0,99.0,41.0
+198303,Chowan University,62.0,31780.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,1361.0,0,100.0,74.0
+198385,Davidson College,26.0,57458.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,1788.0,0,62.0,13.0
+198419,Duke University,13.0,61748.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,6620.0,0,64.0,14.0
+198464,East Carolina University,62.0,34944.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,21507.0,1,73.0,32.0
+198507,Elizabeth City State University,57.0,24018.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,2336.0,1,97.0,77.0
+198516,Elon University,54.0,43546.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,5599.0,0,68.0,7.0
+198543,Fayetteville State University,55.0,25650.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,5476.0,1,96.0,78.0
+198561,Gardner-Webb University,48.0,37620.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,2572.0,0,100.0,39.0
+198598,Greensboro College,78.0,39376.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,801.0,0,100.0,46.0
+198613,Guilford College,68.0,45395.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,2302.0,0,99.0,38.0
+198695,High Point University,64.0,43900.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,3999.0,0,73.0,11.0
+198756,Johnson C Smith University,37.0,32136.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,1387.0,0,89.0,61.0
+198808,Lees-McRae College,66.0,39250.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,890.0,0,100.0,38.0
+198835,Lenoir-Rhyne University,68.0,43360.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,1409.0,0,99.0,45.0
+198862,Livingstone College,71.0,25920.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,1175.0,0,98.0,86.0
+198899,Mars Hill University,64.0,38224.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,1009.0,0,99.0,58.0
+198950,Meredith College,62.0,41878.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,1562.0,0,100.0,35.0
+198969,Methodist University,61.0,47311.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,2243.0,0,99.0,41.0
+199032,Montreat College,54.0,35690.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,745.0,0,100.0,43.0
+199069,Mount Olive College,50.0,27850.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,3414.0,0,100.0,40.0
+199102,North Carolina A & T State University,70.0,27010.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,8830.0,1,95.0,62.0
+199111,University of North Carolina at Asheville,64.0,32587.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,3588.0,1,77.0,26.0
+199120,University of North Carolina at Chapel Hill,28.0,45806.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,18370.0,1,68.0,20.0
+199139,University of North Carolina at Charlotte,69.0,31609.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,21503.0,1,75.0,37.0
+199148,University of North Carolina at Greensboro,60.0,32970.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,14592.0,1,80.0,48.0
+199157,North Carolina Central University,50.0,29120.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,6151.0,1,97.0,76.0
+199193,North Carolina State University at Raleigh,50.0,35639.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,24772.0,1,71.0,21.0
+199209,North Carolina Wesleyan College,47.0,37812.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,1557.0,0,84.0,55.0
+199218,University of North Carolina Wilmington,54.0,32738.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,12428.0,1,69.0,21.0
+199272,William Peace University,91.0,38900.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,1081.0,0,100.0,67.0
+199281,University of North Carolina at Pembroke,72.0,26829.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,5429.0,1,92.0,59.0
+199306,Pfeiffer University,96.0,37140.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,948.0,0,100.0,50.0
+199412,Queens University of Charlotte,77.0,44124.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,1734.0,0,97.0,35.0
+199458,Mid-Atlantic Christian University,41.0,25090.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,162.0,0,100.0,58.0
+199582,Saint Augustine's University,67.0,31642.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,1299.0,0,85.0,68.0
+199607,Salem College,58.0,41600.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,951.0,0,99.0,51.0
+199643,Shaw University,54.0,29378.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,1925.0,0,98.0,86.0
+199698,St Andrews University,64.0,40000.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,597.0,0,100.0,42.0
+199847,Wake Forest University,35.0,60242.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,4823.0,0,81.0,17.0
+199865,Warren Wilson College,70.0,43000.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,830.0,0,90.0,39.0
+199962,Wingate University,79.0,37740.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,2009.0,0,99.0,35.0
+199999,Winston-Salem State University,56.0,25521.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,4990.0,1,96.0,74.0
+200004,Western Carolina University,38.0,28196.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,8448.0,1,83.0,39.0
+200059,Dickinson State University,49.0,18396.0,Plains IA KS MN MO NE ND SD,1449.0,1,82.0,29.0
+200156,University of Jamestown,57.0,28738.0,Plains IA KS MN MO NE ND SD,937.0,0,100.0,38.0
+200217,University of Mary,83.0,24121.0,Plains IA KS MN MO NE ND SD,1594.0,0,100.0,20.0
+200253,Minot State University,57.0,16196.0,Plains IA KS MN MO NE ND SD,3254.0,1,91.0,22.0
+200280,University of North Dakota,74.0,31448.0,Plains IA KS MN MO NE ND SD,11724.0,1,88.0,21.0
+200332,North Dakota State University-Main Campus,84.0,30042.0,Plains IA KS MN MO NE ND SD,11948.0,1,88.0,21.0
+200572,Valley City State University,83.0,25066.0,Plains IA KS MN MO NE ND SD,1211.0,1,99.0,37.0
+200800,University of Akron Main Campus,96.0,32320.0,Great Lakes IL IN MI OH WI,19016.0,1,90.0,47.0
+201104,Ashland University,74.0,42833.0,Great Lakes IL IN MI OH WI,3198.0,0,97.0,37.0
+201195,Baldwin Wallace University,64.0,39230.0,Great Lakes IL IN MI OH WI,3425.0,0,100.0,41.0
+201371,Bluffton University,53.0,41864.0,Great Lakes IL IN MI OH WI,1053.0,0,100.0,41.0
+201441,Bowling Green State University-Main Campus,72.0,30814.0,Great Lakes IL IN MI OH WI,14477.0,1,96.0,36.0
+201548,Capital University,76.0,44350.0,Great Lakes IL IN MI OH WI,2788.0,0,100.0,36.0
+201645,Case Western Reserve University,42.0,57798.0,Great Lakes IL IN MI OH WI,4661.0,0,88.0,20.0
+201654,Cedarville University,74.0,35020.0,Great Lakes IL IN MI OH WI,3241.0,0,97.0,20.0
+201690,Central State University,33.0,25256.0,Great Lakes IL IN MI OH WI,2036.0,1,91.0,81.0
+201885,University of Cincinnati-Main Campus,73.0,42466.0,Great Lakes IL IN MI OH WI,23706.0,1,83.0,23.0
+201964,Ohio Christian University,97.0,33418.0,Great Lakes IL IN MI OH WI,3528.0,0,61.0,48.0
+202134,Cleveland State University,63.0,28496.0,Great Lakes IL IN MI OH WI,12376.0,1,92.0,53.0
+202480,University of Dayton,53.0,49540.0,Great Lakes IL IN MI OH WI,7974.0,0,98.0,12.0
+202514,Defiance College,72.0,41700.0,Great Lakes IL IN MI OH WI,892.0,0,100.0,49.0
+202523,Denison University,46.0,56520.0,Great Lakes IL IN MI OH WI,2274.0,0,100.0,19.0
+202763,The University of Findlay,68.0,41306.0,Great Lakes IL IN MI OH WI,3872.0,0,100.0,28.0
+203128,Hiram College,57.0,43145.0,Great Lakes IL IN MI OH WI,1283.0,0,100.0,45.0
+203368,John Carroll University,83.0,48310.0,Great Lakes IL IN MI OH WI,3052.0,0,100.0,26.0
+203517,Kent State University at Kent,83.0,32886.0,Great Lakes IL IN MI OH WI,22968.0,1,91.0,36.0
+203535,Kenyon College,38.0,60070.0,Great Lakes IL IN MI OH WI,1699.0,0,64.0,10.0
+203580,Lake Erie College,56.0,40364.0,Great Lakes IL IN MI OH WI,913.0,0,100.0,41.0
+203757,Lourdes University,69.0,31157.0,Great Lakes IL IN MI OH WI,1460.0,0,98.0,60.0
+203775,Malone University,72.0,37934.0,Great Lakes IL IN MI OH WI,1656.0,0,100.0,44.0
+203845,Marietta College,64.0,44362.0,Great Lakes IL IN MI OH WI,1413.0,0,99.0,37.0
+204024,Miami University-Oxford,67.0,45491.0,Great Lakes IL IN MI OH WI,15462.0,1,77.0,13.0
+204185,University of Mount Union,71.0,38895.0,Great Lakes IL IN MI OH WI,2096.0,0,95.0,34.0
+204194,Mount Vernon Nazarene University,63.0,35020.0,Great Lakes IL IN MI OH WI,1829.0,0,100.0,37.0
+204200,College of Mount St Joseph,88.0,35880.0,Great Lakes IL IN MI OH WI,1655.0,0,100.0,34.0
+204264,Muskingum University,76.0,35694.0,Great Lakes IL IN MI OH WI,1681.0,0,100.0,52.0
+204468,Notre Dame College,90.0,38502.0,Great Lakes IL IN MI OH WI,1794.0,0,100.0,48.0
+204501,Oberlin College,30.0,62132.0,Great Lakes IL IN MI OH WI,2894.0,0,88.0,10.0
+204617,Ohio Dominican University,49.0,42087.0,Great Lakes IL IN MI OH WI,2005.0,0,100.0,49.0
+204635,Ohio Northern University,68.0,50960.0,Great Lakes IL IN MI OH WI,2702.0,0,99.0,29.0
+204796,Ohio State University-Main Campus,56.0,41199.0,Great Lakes IL IN MI OH WI,44201.0,1,83.0,19.0
+204857,Ohio University-Main Campus,73.0,33360.0,Great Lakes IL IN MI OH WI,23317.0,1,79.0,25.0
+204909,Ohio Wesleyan University,75.0,55690.0,Great Lakes IL IN MI OH WI,1840.0,0,99.0,24.0
+204936,Otterbein University,74.0,44276.0,Great Lakes IL IN MI OH WI,2479.0,0,100.0,32.0
+205957,Franciscan University of Steubenville,76.0,34490.0,Great Lakes IL IN MI OH WI,2112.0,0,97.0,25.0
+206048,Tiffin University,39.0,36481.0,Great Lakes IL IN MI OH WI,3303.0,0,98.0,63.0
+206084,University of Toledo,91.0,33229.0,Great Lakes IL IN MI OH WI,16192.0,1,96.0,46.0
+206349,Ursuline College,58.0,38344.0,Great Lakes IL IN MI OH WI,803.0,0,100.0,58.0
+206437,Walsh University,77.0,39390.0,Great Lakes IL IN MI OH WI,2385.0,0,100.0,34.0
+206491,Wilberforce University,58.0,26890.0,Great Lakes IL IN MI OH WI,460.0,0,100.0,100.0
+206507,Wilmington College,46.0,40057.0,Great Lakes IL IN MI OH WI,1192.0,0,100.0,51.0
+206525,Wittenberg University,89.0,50766.0,Great Lakes IL IN MI OH WI,1410.0,0,99.0,29.0
+206589,The College of Wooster,56.0,53500.0,Great Lakes IL IN MI OH WI,2116.0,0,99.0,25.0
+206622,Xavier University,70.0,46520.0,Great Lakes IL IN MI OH WI,4652.0,0,100.0,16.0
+206817,Bacone College,72.0,28010.0,Southwest AZ NM OK TX,957.0,0,88.0,83.0
+206835,Oklahoma Wesleyan University,49.0,34960.0,Southwest AZ NM OK TX,1109.0,0,100.0,45.0
+206941,University of Central Oklahoma,84.0,25407.0,Southwest AZ NM OK TX,15367.0,1,76.0,41.0
+207041,East Central University,98.0,20465.0,Southwest AZ NM OK TX,3757.0,1,85.0,50.0
+207263,Northeastern State University,73.0,21318.0,Southwest AZ NM OK TX,7431.0,1,94.0,58.0
+207306,Northwestern Oklahoma State University,60.0,20644.0,Southwest AZ NM OK TX,2107.0,1,96.0,45.0
+207324,Oklahoma Christian University,63.0,29825.0,Southwest AZ NM OK TX,1966.0,0,99.0,28.0
+207351,Oklahoma Panhandle State University,48.0,15888.0,Southwest AZ NM OK TX,1391.0,1,92.0,53.0
+207388,Oklahoma State University-Main Campus,76.0,34427.0,Southwest AZ NM OK TX,20260.0,1,87.0,27.0
+207403,Oklahoma Baptist University,56.0,33400.0,Southwest AZ NM OK TX,2029.0,0,99.0,39.0
+207458,Oklahoma City University,72.0,44356.0,Southwest AZ NM OK TX,1984.0,0,96.0,23.0
+207500,University of Oklahoma-Norman Campus,80.0,35630.0,Southwest AZ NM OK TX,20996.0,1,74.0,23.0
+207582,Oral Roberts University,44.0,36950.0,Southwest AZ NM OK TX,2782.0,0,98.0,37.0
+207661,Rogers State University,54.0,25105.0,Southwest AZ NM OK TX,4257.0,1,88.0,56.0
+207689,Saint Gregory's University,95.0,33389.0,Southwest AZ NM OK TX,636.0,0,95.0,55.0
+207722,University of Science and Arts of Oklahoma,62.0,19538.0,Southwest AZ NM OK TX,912.0,1,95.0,40.0
+207847,Southeastern Oklahoma State University,80.0,23170.0,Southwest AZ NM OK TX,3440.0,1,96.0,58.0
+207856,Southwestern Christian University,88.0,26470.0,Southwest AZ NM OK TX,801.0,0,93.0,67.0
+207865,Southwestern Oklahoma State University,90.0,23973.0,Southwest AZ NM OK TX,4238.0,1,95.0,44.0
+207971,University of Tulsa,41.0,51035.0,Southwest AZ NM OK TX,3428.0,0,88.0,13.0
+208488,Concordia University-Portland,56.0,39022.0,Far West AK CA HI NV OR WA,1388.0,0,99.0,37.0
+208646,Eastern Oregon University,67.0,30315.0,Far West AK CA HI NV OR WA,3754.0,1,94.0,52.0
+208822,George Fox University,75.0,43800.0,Far West AK CA HI NV OR WA,2358.0,0,99.0,35.0
+209056,Lewis & Clark College,63.0,55666.0,Far West AK CA HI NV OR WA,2126.0,0,90.0,21.0
+209065,Linfield College-McMinnville Campus,92.0,48182.0,Far West AK CA HI NV OR WA,1671.0,0,99.0,27.0
+209409,Northwest Christian University,70.0,37470.0,Far West AK CA HI NV OR WA,484.0,0,100.0,49.0
+209506,Oregon Institute of Technology,71.0,34803.0,Far West AK CA HI NV OR WA,3974.0,1,89.0,40.0
+209542,Oregon State University,79.0,38751.0,Far West AK CA HI NV OR WA,22022.0,1,86.0,31.0
+209551,University of Oregon,74.0,44377.0,Far West AK CA HI NV OR WA,20811.0,1,68.0,23.0
+209612,Pacific University,86.0,50486.0,Far West AK CA HI NV OR WA,1793.0,0,99.0,29.0
+209807,Portland State University,61.0,38738.0,Far West AK CA HI NV OR WA,22553.0,1,76.0,39.0
+209825,University of Portland,67.0,53958.0,Far West AK CA HI NV OR WA,3494.0,0,97.0,23.0
+209922,Reed College,49.0,59630.0,Far West AK CA HI NV OR WA,1437.0,0,53.0,18.0
+210146,Southern Oregon University,73.0,33829.0,Far West AK CA HI NV OR WA,4986.0,1,85.0,40.0
+210304,Warner Pacific College,53.0,32166.0,Far West AK CA HI NV OR WA,503.0,0,93.0,57.0
+210331,Corban University,32.0,40407.0,Far West AK CA HI NV OR WA,885.0,0,100.0,39.0
+210401,Willamette University,58.0,54813.0,Far West AK CA HI NV OR WA,1966.0,0,98.0,19.0
+210429,Western Oregon University,88.0,35706.0,Far West AK CA HI NV OR WA,5266.0,1,88.0,47.0
+210492,Bryn Athyn College of the New Church,52.0,29734.0,Mid East DE DC MD NJ NY PA,264.0,0,100.0,39.0
+210571,Albright College,62.0,49160.0,Mid East DE DC MD NJ NY PA,2383.0,0,99.0,50.0
+210669,Allegheny College,65.0,52020.0,Mid East DE DC MD NJ NY PA,2161.0,0,100.0,26.0
+210739,DeSales University,76.0,48398.0,Mid East DE DC MD NJ NY PA,2482.0,0,99.0,23.0
+210775,Alvernia University,78.0,43250.0,Mid East DE DC MD NJ NY PA,2383.0,0,100.0,36.0
+211088,Arcadia University,60.0,51970.0,Mid East DE DC MD NJ NY PA,2453.0,0,100.0,36.0
+211158,Bloomsburg University of Pennsylvania,89.0,32306.0,Mid East DE DC MD NJ NY PA,9416.0,1,84.0,32.0
+211273,Bryn Mawr College,40.0,59760.0,Mid East DE DC MD NJ NY PA,1320.0,0,79.0,16.0
+211291,Bucknell University,30.0,61060.0,Mid East DE DC MD NJ NY PA,3532.0,0,55.0,11.0
+211352,Cabrini College,74.0,45322.0,Mid East DE DC MD NJ NY PA,1337.0,0,99.0,44.0
+211361,California University of Pennsylvania,93.0,28712.0,Mid East DE DC MD NJ NY PA,6450.0,1,89.0,38.0
+211431,Carlow University,95.0,38450.0,Mid East DE DC MD NJ NY PA,1392.0,0,100.0,57.0
+211440,Carnegie Mellon University,25.0,62032.0,Mid East DE DC MD NJ NY PA,5917.0,0,70.0,13.0
+211468,Cedar Crest College,59.0,45021.0,Mid East DE DC MD NJ NY PA,1286.0,0,100.0,51.0
+211556,Chatham University,61.0,46162.0,Mid East DE DC MD NJ NY PA,973.0,0,100.0,48.0
+211583,Chestnut Hill College,58.0,44378.0,Mid East DE DC MD NJ NY PA,1490.0,0,98.0,41.0
+211644,Clarion University of Pennsylvania,93.0,25953.0,Mid East DE DC MD NJ NY PA,4599.0,1,91.0,43.0
+211981,Delaware Valley College,68.0,47467.0,Mid East DE DC MD NJ NY PA,1807.0,0,100.0,33.0
+212009,Dickinson College,44.0,60183.0,Mid East DE DC MD NJ NY PA,2396.0,0,72.0,11.0
+212054,Drexel University,81.0,57870.0,Mid East DE DC MD NJ NY PA,16616.0,0,94.0,18.0
+212106,Duquesne University,74.0,44567.0,Mid East DE DC MD NJ NY PA,5970.0,0,100.0,20.0
+212115,East Stroudsburg University of Pennsylvania,78.0,30990.0,Mid East DE DC MD NJ NY PA,6186.0,1,83.0,30.0
+212133,Eastern University,64.0,42192.0,Mid East DE DC MD NJ NY PA,2650.0,0,100.0,38.0
+212160,Edinboro University of Pennsylvania,87.0,24139.0,Mid East DE DC MD NJ NY PA,5864.0,1,91.0,47.0
+212197,Elizabethtown College,70.0,49650.0,Mid East DE DC MD NJ NY PA,1844.0,0,99.0,23.0
+212577,Franklin and Marshall College,39.0,60765.0,Mid East DE DC MD NJ NY PA,2309.0,0,61.0,17.0
+212601,Gannon University,80.0,41820.0,Mid East DE DC MD NJ NY PA,3111.0,0,100.0,36.0
+212656,Geneva College,68.0,36520.0,Mid East DE DC MD NJ NY PA,1534.0,0,100.0,34.0
+212674,Gettysburg College,42.0,58320.0,Mid East DE DC MD NJ NY PA,2526.0,0,74.0,14.0
+212832,Gwynedd Mercy University,66.0,42030.0,Mid East DE DC MD NJ NY PA,2062.0,0,100.0,35.0
+212911,Haverford College,23.0,61898.0,Mid East DE DC MD NJ NY PA,1187.0,0,57.0,16.0
+212984,Holy Family University,76.0,41960.0,Mid East DE DC MD NJ NY PA,2182.0,0,100.0,39.0
+213011,Immaculata University,80.0,49130.0,Mid East DE DC MD NJ NY PA,2560.0,0,100.0,27.0
+213020,Indiana University of Pennsylvania-Main Campus,90.0,35056.0,Mid East DE DC MD NJ NY PA,12471.0,1,88.0,40.0
+213251,Juniata College,74.0,49220.0,Mid East DE DC MD NJ NY PA,1625.0,0,100.0,25.0
+213303,Keystone College,72.0,35500.0,Mid East DE DC MD NJ NY PA,1574.0,0,98.0,54.0
+213321,King's College,72.0,45468.0,Mid East DE DC MD NJ NY PA,2144.0,0,100.0,32.0
+213349,Kutztown University of Pennsylvania,82.0,32389.0,Mid East DE DC MD NJ NY PA,8815.0,1,87.0,34.0
+213358,La Roche College,56.0,38434.0,Mid East DE DC MD NJ NY PA,1363.0,0,91.0,45.0
+213367,La Salle University,80.0,51770.0,Mid East DE DC MD NJ NY PA,4409.0,0,99.0,44.0
+213385,Lafayette College,34.0,59750.0,Mid East DE DC MD NJ NY PA,2486.0,0,63.0,9.0
+213507,Lebanon Valley College,67.0,48630.0,Mid East DE DC MD NJ NY PA,1766.0,0,100.0,25.0
+213543,Lehigh University,31.0,57145.0,Mid East DE DC MD NJ NY PA,4931.0,0,68.0,17.0
+213598,Lincoln University of Pennsylvania,61.0,28519.0,Mid East DE DC MD NJ NY PA,1624.0,1,99.0,65.0
+213613,Lock Haven University,88.0,29998.0,Mid East DE DC MD NJ NY PA,4855.0,1,91.0,41.0
+213668,Lycoming College,72.0,46707.0,Mid East DE DC MD NJ NY PA,1307.0,0,100.0,34.0
+213783,Mansfield University of Pennsylvania,92.0,32558.0,Mid East DE DC MD NJ NY PA,2717.0,1,94.0,47.0
+213826,Marywood University,71.0,46556.0,Mid East DE DC MD NJ NY PA,2148.0,0,100.0,34.0
+213987,Mercyhurst University,75.0,44838.0,Mid East DE DC MD NJ NY PA,2725.0,0,100.0,30.0
+213996,Messiah College,66.0,42990.0,Mid East DE DC MD NJ NY PA,2772.0,0,100.0,22.0
+214041,Millersville University of Pennsylvania,72.0,31433.0,Mid East DE DC MD NJ NY PA,7388.0,1,86.0,33.0
+214069,Misericordia University,65.0,41940.0,Mid East DE DC MD NJ NY PA,2417.0,0,100.0,25.0
+214157,Moravian College,80.0,49090.0,Mid East DE DC MD NJ NY PA,1555.0,0,99.0,35.0
+214166,Mount Aloysius College,69.0,34598.0,Mid East DE DC MD NJ NY PA,1593.0,0,100.0,50.0
+214175,Muhlenberg College,46.0,55370.0,Mid East DE DC MD NJ NY PA,2449.0,0,91.0,9.0
+214272,Neumann University,55.0,39475.0,Mid East DE DC MD NJ NY PA,2573.0,0,100.0,49.0
+214591,Pennsylvania State University-Penn State Erie-Behrend College,84.0,37902.0,Mid East DE DC MD NJ NY PA,4065.0,1,83.0,33.0
+214689,Pennsylvania State University-Penn State Altoona,85.0,37902.0,Mid East DE DC MD NJ NY PA,3863.0,1,83.0,32.0
+214698,Pennsylvania State University-Penn State Beaver,87.0,36676.0,Mid East DE DC MD NJ NY PA,759.0,1,92.0,41.0
+214704,Pennsylvania State University-Penn State Berks,83.0,37902.0,Mid East DE DC MD NJ NY PA,2743.0,1,81.0,34.0
+214713,Pennsylvania State University-Penn State Harrisburg,80.0,37902.0,Mid East DE DC MD NJ NY PA,3426.0,1,75.0,33.0
+214768,Pennsylvania State University-Penn State Hazleton,86.0,36826.0,Mid East DE DC MD NJ NY PA,1060.0,1,94.0,46.0
+214777,Pennsylvania State University-Main Campus,54.0,46166.0,Mid East DE DC MD NJ NY PA,39192.0,1,68.0,14.0
+214786,Pennsylvania State University-Penn State Greater Allegheny,80.0,36670.0,Mid East DE DC MD NJ NY PA,635.0,1,92.0,51.0
+214795,Pennsylvania State University-Penn State Mont Alto,83.0,36676.0,Mid East DE DC MD NJ NY PA,1106.0,1,95.0,41.0
+214810,Pennsylvania State University-Penn State Schuylkill,81.0,36826.0,Mid East DE DC MD NJ NY PA,867.0,1,93.0,62.0
+215062,University of Pennsylvania,12.0,61800.0,Mid East DE DC MD NJ NY PA,11525.0,0,62.0,15.0
+215099,Philadelphia University,64.0,49426.0,Mid East DE DC MD NJ NY PA,2827.0,0,98.0,29.0
+215114,Cairn University-Langhorne,51.0,34090.0,Mid East DE DC MD NJ NY PA,844.0,0,100.0,43.0
+215266,University of Pittsburgh-Bradford,85.0,36246.0,Mid East DE DC MD NJ NY PA,1481.0,1,97.0,41.0
+215275,University of Pittsburgh-Greensburg,93.0,37318.0,Mid East DE DC MD NJ NY PA,1677.0,1,91.0,34.0
+215284,University of Pittsburgh-Johnstown,90.0,36866.0,Mid East DE DC MD NJ NY PA,2840.0,1,91.0,30.0
+215293,University of Pittsburgh-Pittsburgh Campus,56.0,42132.0,Mid East DE DC MD NJ NY PA,18615.0,1,76.0,16.0
+215442,Point Park University,74.0,39800.0,Mid East DE DC MD NJ NY PA,3226.0,0,99.0,39.0
+215655,Robert Morris University,81.0,40755.0,Mid East DE DC MD NJ NY PA,4495.0,0,100.0,34.0
+215691,Rosemont College,58.0,46305.0,Mid East DE DC MD NJ NY PA,519.0,0,100.0,52.0
+215743,Saint Francis University,76.0,45038.0,Mid East DE DC MD NJ NY PA,1711.0,0,98.0,28.0
+215770,Saint Joseph's University,79.0,54772.0,Mid East DE DC MD NJ NY PA,5374.0,0,97.0,11.0
+215798,Saint Vincent College,69.0,42838.0,Mid East DE DC MD NJ NY PA,1596.0,0,100.0,31.0
+215929,University of Scranton,75.0,55008.0,Mid East DE DC MD NJ NY PA,3942.0,0,95.0,21.0
+215947,Seton Hill University,65.0,43900.0,Mid East DE DC MD NJ NY PA,1633.0,0,100.0,40.0
+216010,Shippensburg University of Pennsylvania,83.0,32514.0,Mid East DE DC MD NJ NY PA,6493.0,1,87.0,31.0
+216038,Slippery Rock University of Pennsylvania,67.0,25634.0,Mid East DE DC MD NJ NY PA,7595.0,1,89.0,32.0
+216278,Susquehanna University,72.0,51400.0,Mid East DE DC MD NJ NY PA,2187.0,0,98.0,25.0
+216287,Swarthmore College,14.0,60671.0,Mid East DE DC MD NJ NY PA,1534.0,0,59.0,13.0
+216339,Temple University,64.0,39658.0,Mid East DE DC MD NJ NY PA,28068.0,1,89.0,27.0
+216357,Thiel College,66.0,41078.0,Mid East DE DC MD NJ NY PA,1100.0,0,92.0,47.0
+216524,Ursinus College,66.0,58880.0,Mid East DE DC MD NJ NY PA,1596.0,0,100.0,23.0
+216542,Valley Forge Christian College,66.0,31026.0,Mid East DE DC MD NJ NY PA,968.0,0,98.0,48.0
+216597,Villanova University,49.0,58736.0,Mid East DE DC MD NJ NY PA,7042.0,0,66.0,14.0
+216667,Washington & Jefferson College,40.0,51690.0,Mid East DE DC MD NJ NY PA,1328.0,0,100.0,23.0
+216694,Waynesburg University,75.0,31500.0,Mid East DE DC MD NJ NY PA,1621.0,0,96.0,39.0
+216764,West Chester University of Pennsylvania,52.0,35814.0,Mid East DE DC MD NJ NY PA,13711.0,1,79.0,22.0
+216807,Westminster College,73.0,43805.0,Mid East DE DC MD NJ NY PA,1268.0,0,100.0,34.0
+216852,Widener University-Main Campus,67.0,54019.0,Mid East DE DC MD NJ NY PA,3424.0,0,99.0,27.0
+216931,Wilkes University,76.0,46786.0,Mid East DE DC MD NJ NY PA,2388.0,0,96.0,33.0
+217013,Wilson College,53.0,41963.0,Mid East DE DC MD NJ NY PA,571.0,0,95.0,45.0
+217059,York College Pennsylvania,74.0,29790.0,Mid East DE DC MD NJ NY PA,5008.0,0,98.0,24.0
+217156,Brown University,9.0,60460.0,New England CT ME MA NH RI VT,6190.0,0,64.0,17.0
+217165,Bryant University,77.0,53598.0,New England CT ME MA NH RI VT,3287.0,0,89.0,16.0
+217235,Johnson & Wales University-Providence,76.0,41461.0,New England CT ME MA NH RI VT,9401.0,0,99.0,39.0
+217402,Providence College,60.0,57625.0,New England CT ME MA NH RI VT,4255.0,0,81.0,15.0
+217420,Rhode Island College,69.0,30751.0,New England CT ME MA NH RI VT,7505.0,1,86.0,43.0
+217484,University of Rhode Island,79.0,42448.0,New England CT ME MA NH RI VT,13008.0,1,91.0,26.0
+217518,Roger Williams University,81.0,49394.0,New England CT ME MA NH RI VT,4411.0,0,91.0,13.0
+217536,Salve Regina University,67.0,49950.0,New England CT ME MA NH RI VT,2026.0,0,92.0,26.0
+217633,Anderson University,65.0,37014.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,2651.0,0,100.0,29.0
+217688,Charleston Southern University,69.0,35740.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,2922.0,0,100.0,45.0
+217776,Southern Wesleyan University,94.0,33750.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,1333.0,0,97.0,57.0
+217819,College of Charleston,70.0,43120.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,10488.0,1,75.0,20.0
+217864,Citadel Military College of South Carolina,80.0,44243.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,2694.0,1,85.0,21.0
+217873,Claflin University,53.0,32300.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,1836.0,0,98.0,92.0
+217882,Clemson University,58.0,45936.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,16950.0,1,91.0,16.0
+217907,Coker College,53.0,34689.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,1179.0,0,100.0,59.0
+217925,Columbia International University,63.0,32130.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,584.0,0,93.0,42.0
+217934,Columbia College,65.0,39316.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,1012.0,0,98.0,51.0
+217961,Converse College,52.0,42094.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,744.0,0,98.0,44.0
+217998,Erskine College,70.0,47610.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,587.0,0,100.0,45.0
+218061,Francis Marion University,57.0,29901.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,3714.0,1,99.0,65.0
+218070,Furman University,64.0,57276.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,2817.0,0,86.0,14.0
+218229,Lander University,42.0,31336.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,2794.0,1,99.0,51.0
+218238,Limestone College,53.0,36416.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,3097.0,0,100.0,47.0
+218414,Newberry College,59.0,40365.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,1040.0,0,100.0,56.0
+218441,North Greenville University,58.0,30000.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,2263.0,0,100.0,40.0
+218539,Presbyterian College,66.0,46378.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,1123.0,0,100.0,27.0
+218645,University of South Carolina-Aiken,51.0,30733.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,3175.0,1,97.0,49.0
+218654,University of South Carolina-Beaufort,73.0,31248.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,1715.0,1,91.0,42.0
+218663,University of South Carolina-Columbia,61.0,42516.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,24185.0,1,90.0,19.0
+218724,Coastal Carolina University,74.0,35666.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,8740.0,1,91.0,39.0
+218733,South Carolina State University,51.0,35378.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,2945.0,1,98.0,79.0
+218742,University of South Carolina-Upstate,64.0,32832.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,5237.0,1,97.0,50.0
+218919,Voorhees College,51.0,19876.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,536.0,0,99.0,92.0
+218964,Winthrop University,72.0,38020.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,5048.0,1,99.0,45.0
+218973,Wofford College,69.0,49449.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,1615.0,0,92.0,17.0
+219000,Augustana College,68.0,38200.0,Plains IA KS MN MO NE ND SD,1697.0,0,100.0,20.0
+219046,Black Hills State University,89.0,19862.0,Plains IA KS MN MO NE ND SD,4002.0,1,92.0,39.0
+219082,Dakota State University,83.0,20048.0,Plains IA KS MN MO NE ND SD,2876.0,1,94.0,40.0
+219091,Dakota Wesleyan University,70.0,33060.0,Plains IA KS MN MO NE ND SD,754.0,0,100.0,37.0
+219198,Mount Marty College,72.0,34802.0,Plains IA KS MN MO NE ND SD,1068.0,0,99.0,39.0
+219259,Northern State University,93.0,20920.0,Plains IA KS MN MO NE ND SD,2924.0,1,97.0,37.0
+219295,Presentation College,66.0,28914.0,Plains IA KS MN MO NE ND SD,791.0,0,99.0,45.0
+219356,South Dakota State University,92.0,21528.0,Plains IA KS MN MO NE ND SD,10998.0,1,92.0,30.0
+219383,University of Sioux Falls,97.0,35780.0,Plains IA KS MN MO NE ND SD,1100.0,0,100.0,29.0
+219471,University of South Dakota,88.0,22265.0,Plains IA KS MN MO NE ND SD,7633.0,1,93.0,29.0
+219578,Aquinas College,52.0,35933.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,505.0,0,100.0,50.0
+219602,Austin Peay State University,86.0,36009.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,8225.0,1,99.0,56.0
+219709,Belmont University,80.0,43030.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,5506.0,0,87.0,15.0
+219718,Bethel University,51.0,30196.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,4406.0,0,94.0,76.0
+219790,Bryan College-Dayton,38.0,31075.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,1579.0,0,91.0,39.0
+219806,Carson-Newman University,67.0,34100.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,1713.0,0,100.0,51.0
+219833,Christian Brothers University,47.0,38113.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,1171.0,0,100.0,49.0
+219949,Cumberland University,47.0,34130.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,1269.0,0,100.0,47.0
+219976,Lipscomb University,53.0,40448.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,2890.0,0,100.0,26.0
+220075,East Tennessee State University,86.0,38919.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,11399.0,1,94.0,46.0
+220181,Fisk University,40.0,35899.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,611.0,0,98.0,62.0
+220215,Freed-Hardeman University,92.0,32908.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,1385.0,0,100.0,31.0
+220516,King University,64.0,37758.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,2196.0,0,92.0,48.0
+220598,Lane College,49.0,18900.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,1554.0,0,99.0,94.0
+220604,Le Moyne-Owen College,23.0,18540.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,1023.0,0,94.0,85.0
+220613,Lee University,92.0,26100.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,4550.0,0,94.0,37.0
+220631,Lincoln Memorial University,70.0,32620.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,1713.0,0,87.0,43.0
+220710,Maryville College,73.0,44472.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,1168.0,0,100.0,48.0
+220862,University of Memphis,68.0,38247.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,17223.0,1,97.0,48.0
+220978,Middle Tennessee State University,70.0,36274.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,21162.0,1,99.0,51.0
+221014,Milligan College,68.0,38266.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,973.0,0,98.0,32.0
+221351,Rhodes College,58.0,53422.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,2027.0,0,95.0,15.0
+221519,Sewanee-The University of the South,60.0,47970.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,1598.0,0,77.0,20.0
+221661,Southern Adventist University,38.0,30874.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,2825.0,0,99.0,38.0
+221731,Tennessee Wesleyan College,71.0,31400.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,1065.0,0,95.0,51.0
+221740,The University of Tennessee-Chattanooga,78.0,35736.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,10297.0,1,96.0,35.0
+221759,The University of Tennessee-Knoxville,72.0,45940.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,21182.0,1,96.0,30.0
+221768,The University of Tennessee-Martin,77.0,32453.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,7025.0,1,96.0,53.0
+221847,Tennessee Technological University,93.0,37963.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,10052.0,1,98.0,36.0
+221892,Trevecca Nazarene University,77.0,33322.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,1492.0,0,99.0,40.0
+221953,Tusculum College,72.0,35702.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,1849.0,0,99.0,67.0
+221971,Union University,74.0,44220.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,2829.0,0,100.0,33.0
+221999,Vanderbilt University,13.0,61112.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,6835.0,0,65.0,13.0
+222178,Abilene Christian University,49.0,41800.0,Southwest AZ NM OK TX,3727.0,0,99.0,23.0
+222831,Angelo State University,80.0,27411.0,Southwest AZ NM OK TX,5546.0,1,93.0,47.0
+222983,Austin College,59.0,47625.0,Southwest AZ NM OK TX,1212.0,0,99.0,30.0
+223232,Baylor University,57.0,53886.0,Southwest AZ NM OK TX,13292.0,0,96.0,18.0
+224004,Concordia University-Texas,47.0,38420.0,Southwest AZ NM OK TX,1531.0,0,97.0,38.0
+224147,Texas A & M University-Corpus Christi,93.0,29107.0,Southwest AZ NM OK TX,9307.0,1,74.0,46.0
+224226,Dallas Baptist University,42.0,34176.0,Southwest AZ NM OK TX,3435.0,0,95.0,25.0
+224323,University of Dallas,90.0,48710.0,Southwest AZ NM OK TX,1380.0,0,100.0,23.0
+224527,East Texas Baptist University,74.0,32160.0,Southwest AZ NM OK TX,1196.0,0,100.0,55.0
+224545,Texas A & M University-Texarkana,37.0,24502.0,Southwest AZ NM OK TX,1401.0,1,98.0,50.0
+224554,Texas A & M University-Commerce,68.0,25487.0,Southwest AZ NM OK TX,6975.0,1,93.0,57.0
+225247,Hardin-Simmons University,38.0,33626.0,Southwest AZ NM OK TX,1790.0,0,98.0,34.0
+225399,Houston Baptist University,73.0,39001.0,Southwest AZ NM OK TX,2171.0,0,100.0,51.0
+225502,University of Houston-Victoria,51.0,28738.0,Southwest AZ NM OK TX,2889.0,1,96.0,67.0
+225511,University of Houston,58.0,30959.0,Southwest AZ NM OK TX,31588.0,1,87.0,41.0
+225548,Howard Payne University,54.0,33853.0,Southwest AZ NM OK TX,1100.0,0,99.0,45.0
+225575,Huston-Tillotson University,46.0,27044.0,Southwest AZ NM OK TX,926.0,0,97.0,74.0
+225627,University of the Incarnate Word,93.0,39124.0,Southwest AZ NM OK TX,6420.0,0,100.0,48.0
+226091,Lamar University,77.0,30265.0,Southwest AZ NM OK TX,9382.0,1,81.0,53.0
+226152,Texas A & M International University,48.0,25862.0,Southwest AZ NM OK TX,6586.0,1,99.0,78.0
+226231,LeTourneau University,41.0,38775.0,Southwest AZ NM OK TX,2305.0,0,99.0,33.0
+226383,Lubbock Christian University,95.0,30966.0,Southwest AZ NM OK TX,1531.0,0,99.0,37.0
+226471,University of Mary Hardin-Baylor,85.0,36180.0,Southwest AZ NM OK TX,3056.0,0,96.0,42.0
+226587,McMurry University,59.0,36421.0,Southwest AZ NM OK TX,1213.0,0,99.0,50.0
+226833,Midwestern State University,72.0,19854.0,Southwest AZ NM OK TX,5193.0,1,90.0,40.0
+227216,University of North Texas,60.0,28728.0,Southwest AZ NM OK TX,30851.0,1,89.0,39.0
+227331,Our Lady of the Lake University,66.0,37078.0,Southwest AZ NM OK TX,1555.0,0,97.0,67.0
+227368,The University of Texas-Pan American,62.0,24741.0,Southwest AZ NM OK TX,17230.0,1,90.0,70.0
+227429,Paul Quinn College,99.0,26300.0,Southwest AZ NM OK TX,243.0,0,71.0,59.0
+227526,Prairie View A & M University,42.0,26178.0,Southwest AZ NM OK TX,6731.0,1,97.0,74.0
+227757,Rice University,17.0,54291.0,Southwest AZ NM OK TX,3965.0,0,75.0,19.0
+227845,Saint Edward's University,79.0,47500.0,Southwest AZ NM OK TX,4089.0,0,90.0,35.0
+227863,University of St Thomas,77.0,41486.0,Southwest AZ NM OK TX,1572.0,0,92.0,38.0
+227881,Sam Houston State University,65.0,28520.0,Southwest AZ NM OK TX,16259.0,1,87.0,46.0
+228042,Schreiner University,93.0,35509.0,Southwest AZ NM OK TX,1065.0,0,100.0,44.0
+228149,St Mary's University,58.0,38192.0,Southwest AZ NM OK TX,2393.0,0,98.0,53.0
+228246,Southern Methodist University,51.0,61355.0,Southwest AZ NM OK TX,6357.0,0,76.0,13.0
+228325,Southwestern Assemblies of God University,35.0,31802.0,Southwest AZ NM OK TX,1669.0,0,99.0,49.0
+228343,Southwestern University,52.0,48080.0,Southwest AZ NM OK TX,1535.0,0,100.0,27.0
+228431,Stephen F Austin State University,57.0,33568.0,Southwest AZ NM OK TX,11006.0,1,86.0,46.0
+228459,Texas State University,75.0,28824.0,Southwest AZ NM OK TX,31032.0,1,75.0,36.0
+228468,Southwestern Adventist University,54.0,29602.0,Southwest AZ NM OK TX,790.0,0,100.0,54.0
+228501,Sul Ross State University,52.0,27052.0,Southwest AZ NM OK TX,1701.0,1,94.0,63.0
+228529,Tarleton State University,57.0,26460.0,Southwest AZ NM OK TX,9562.0,1,86.0,41.0
+228705,Texas A & M University-Kingsville,88.0,31043.0,Southwest AZ NM OK TX,9454.0,1,95.0,59.0
+228723,Texas A & M University-College Station,69.0,37671.0,Southwest AZ NM OK TX,44073.0,1,79.0,26.0
+228769,The University of Texas at Arlington,60.0,30730.0,Southwest AZ NM OK TX,25690.0,1,79.0,44.0
+228778,The University of Texas at Austin,40.0,50200.0,Southwest AZ NM OK TX,39979.0,1,63.0,26.0
+228787,The University of Texas at Dallas,59.0,39958.0,Southwest AZ NM OK TX,13041.0,1,84.0,26.0
+228796,The University of Texas at El Paso,100.0,33319.0,Southwest AZ NM OK TX,19696.0,1,86.0,67.0
+228802,The University of Texas at Tyler,82.0,31842.0,Southwest AZ NM OK TX,5720.0,1,83.0,33.0
+228875,Texas Christian University,47.0,50720.0,Southwest AZ NM OK TX,8640.0,0,75.0,10.0
+228981,Texas Lutheran University,51.0,37620.0,Southwest AZ NM OK TX,1329.0,0,100.0,41.0
+229018,The University of Texas of the Permian Basin,84.0,25173.0,Southwest AZ NM OK TX,4260.0,1,92.0,26.0
+229027,The University of Texas at San Antonio,73.0,29172.0,Southwest AZ NM OK TX,24341.0,1,84.0,43.0
+229063,Texas Southern University,45.0,35186.0,Southwest AZ NM OK TX,6292.0,1,95.0,78.0
+229115,Texas Tech University,66.0,30097.0,Southwest AZ NM OK TX,27044.0,1,75.0,24.0
+229160,Texas Wesleyan University,30.0,35454.0,Southwest AZ NM OK TX,1941.0,0,98.0,39.0
+229179,Texas Woman's University,86.0,28885.0,Southwest AZ NM OK TX,8554.0,1,93.0,59.0
+229267,Trinity University,64.0,48630.0,Southwest AZ NM OK TX,2153.0,0,94.0,18.0
+229780,Wayland Baptist University,99.0,23410.0,Southwest AZ NM OK TX,4515.0,0,96.0,53.0
+229814,West Texas A & M University,74.0,19874.0,Southwest AZ NM OK TX,6907.0,1,90.0,41.0
+230038,Brigham Young University-Provo,49.0,17496.0,Rocky Mountains CO ID MT UT WY,27765.0,0,67.0,17.0
+230047,Brigham Young University-Hawaii,36.0,16564.0,Far West AK CA HI NV OR WA,2901.0,0,78.0,22.0
+230603,Southern Utah University,57.0,31060.0,Rocky Mountains CO ID MT UT WY,7017.0,1,88.0,36.0
+230728,Utah State University,97.0,29240.0,Rocky Mountains CO ID MT UT WY,24385.0,1,81.0,31.0
+230764,University of Utah,82.0,38199.0,Rocky Mountains CO ID MT UT WY,24492.0,1,64.0,24.0
+230807,Westminster College,75.0,42108.0,Rocky Mountains CO ID MT UT WY,2295.0,0,96.0,27.0
+230816,Bennington College,65.0,61920.0,New England CT ME MA NH RI VT,620.0,0,95.0,19.0
+230825,Burlington College,83.0,35500.0,New England CT ME MA NH RI VT,219.0,0,86.0,50.0
+230834,Castleton State College,92.0,35556.0,New England CT ME MA NH RI VT,2067.0,1,90.0,34.0
+230852,Champlain College,71.0,46850.0,New England CT ME MA NH RI VT,2871.0,0,93.0,25.0
+230889,Goddard College,100.0,17018.0,New England CT ME MA NH RI VT,207.0,0,57.0,57.0
+230898,Green Mountain College,76.0,45988.0,New England CT ME MA NH RI VT,595.0,0,98.0,41.0
+230913,Johnson State College,97.0,33438.0,New England CT ME MA NH RI VT,1486.0,1,92.0,48.0
+230931,Lyndon State College,99.0,32400.0,New England CT ME MA NH RI VT,1415.0,1,96.0,47.0
+230940,Marlboro College,76.0,51590.0,New England CT ME MA NH RI VT,271.0,0,98.0,23.0
+230959,Middlebury College,17.0,59470.0,New England CT ME MA NH RI VT,2495.0,0,45.0,12.0
+230995,Norwich University,63.0,49655.0,New England CT ME MA NH RI VT,2264.0,0,100.0,28.0
+231059,Saint Michael's College,75.0,50920.0,New England CT ME MA NH RI VT,1971.0,0,99.0,22.0
+231077,College of St Joseph,68.0,33700.0,New England CT ME MA NH RI VT,176.0,0,96.0,75.0
+231086,Southern Vermont College,99.0,35500.0,New England CT ME MA NH RI VT,471.0,0,99.0,46.0
+231095,Sterling College,94.0,41092.0,New England CT ME MA NH RI VT,113.0,0,100.0,63.0
+231165,Vermont Technical College,83.0,34794.0,New England CT ME MA NH RI VT,1543.0,1,94.0,50.0
+231174,University of Vermont,78.0,49814.0,New England CT ME MA NH RI VT,10912.0,1,94.0,20.0
+231420,Averett University,63.0,39124.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,879.0,0,100.0,53.0
+231554,Bluefield College,57.0,35560.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,813.0,0,100.0,50.0
+231581,Bridgewater College,55.0,43310.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,1848.0,0,100.0,30.0
+231624,College of William and Mary,33.0,51306.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,6271.0,1,53.0,11.0
+231651,Regent University,85.0,28368.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,2399.0,0,100.0,41.0
+231712,Christopher Newport University,59.0,35708.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,5094.0,1,75.0,15.0
+232025,Emory & Henry College,66.0,41866.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,936.0,0,100.0,40.0
+232043,Eastern Mennonite University,65.0,41500.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,1184.0,0,99.0,34.0
+232089,Ferrum College,74.0,40627.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,1479.0,0,100.0,63.0
+232186,George Mason University,62.0,44019.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,21990.0,1,66.0,24.0
+232256,Hampden-Sydney College,55.0,51577.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,1069.0,0,100.0,24.0
+232265,Hampton University,36.0,33854.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,3742.0,0,90.0,40.0
+232308,Hollins University,69.0,48180.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,580.0,0,100.0,34.0
+232423,James Madison University,64.0,37218.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,18434.0,1,60.0,12.0
+232557,Liberty University,22.0,33544.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,48977.0,0,95.0,40.0
+232566,Longwood University,81.0,36594.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,4515.0,1,69.0,23.0
+232609,Lynchburg College,64.0,44695.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,2178.0,0,100.0,33.0
+232672,Mary Baldwin College,88.0,40420.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,1445.0,0,100.0,57.0
+232681,University of Mary Washington,81.0,36946.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,4322.0,1,68.0,14.0
+232706,Marymount University,83.0,41160.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,2394.0,0,95.0,29.0
+232937,Norfolk State University,65.0,34006.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,6048.0,1,97.0,66.0
+232982,Old Dominion University,77.0,37927.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,19819.0,1,82.0,37.0
+233277,Radford University,78.0,32865.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,8913.0,1,75.0,26.0
+233295,Randolph-Macon College,64.0,47740.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,1315.0,0,100.0,26.0
+233301,Randolph College,83.0,46060.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,665.0,0,100.0,33.0
+233374,University of Richmond,31.0,57630.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,3252.0,0,63.0,16.0
+233426,Roanoke College,73.0,51371.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,2029.0,0,100.0,24.0
+233541,Shenandoah University,85.0,43598.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,2180.0,0,100.0,27.0
+233611,Southern Virginia University,100.0,30300.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,662.0,0,100.0,39.0
+233718,Sweet Briar College,84.0,49105.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,703.0,0,100.0,38.0
+233897,The University of Virginia's College at Wise,74.0,36623.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,2291.0,1,93.0,55.0
+233912,Virginia Intermont College,96.0,39891.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,373.0,0,90.0,46.0
+233921,Virginia Polytechnic Institute and State University,70.0,41921.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,24034.0,1,73.0,15.0
+234030,Virginia Commonwealth University,69.0,45768.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,23356.0,1,79.0,29.0
+234076,University of Virginia-Main Campus,30.0,53461.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,15885.0,1,54.0,11.0
+234085,Virginia Military Institute,47.0,46630.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,1675.0,1,82.0,13.0
+234155,Virginia State University,95.0,30175.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,5073.0,1,92.0,67.0
+234164,Virginia Union University,58.0,27932.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,1359.0,0,99.0,73.0
+234173,Virginia Wesleyan College,93.0,44190.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,1459.0,0,98.0,40.0
+234207,Washington and Lee University,18.0,58575.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,1847.0,0,63.0,10.0
+234827,Central Washington University,82.0,34695.0,Far West AK CA HI NV OR WA,10245.0,1,85.0,36.0
+235097,Eastern Washington University,80.0,33277.0,Far West AK CA HI NV OR WA,11678.0,1,88.0,43.0
+235167,The Evergreen State College,97.0,34728.0,Far West AK CA HI NV OR WA,4087.0,1,85.0,32.0
+235316,Gonzaga University,67.0,48530.0,Far West AK CA HI NV OR WA,4900.0,0,99.0,15.0
+235769,Trinity Lutheran College,96.0,38142.0,Far West AK CA HI NV OR WA,199.0,0,100.0,41.0
+236133,Northwest University,97.0,36174.0,Far West AK CA HI NV OR WA,1489.0,0,99.0,57.0
+236230,Pacific Lutheran University,77.0,48308.0,Far West AK CA HI NV OR WA,2414.0,0,99.0,29.0
+236328,University of Puget Sound,85.0,55948.0,Far West AK CA HI NV OR WA,2541.0,0,97.0,16.0
+236452,Saint Martin's University,88.0,44038.0,Far West AK CA HI NV OR WA,1375.0,0,95.0,39.0
+236577,Seattle Pacific University,72.0,47674.0,Far West AK CA HI NV OR WA,3366.0,0,97.0,32.0
+236595,Seattle University,73.0,52605.0,Far West AK CA HI NV OR WA,4666.0,0,96.0,19.0
+236896,Walla Walla University,93.0,35670.0,Far West AK CA HI NV OR WA,1689.0,0,100.0,30.0
+236939,Washington State University,82.0,40779.0,Far West AK CA HI NV OR WA,23070.0,1,79.0,32.0
+236948,University of Washington-Seattle Campus,55.0,46608.0,Far West AK CA HI NV OR WA,30148.0,1,55.0,22.0
+237011,Western Washington University,84.0,33560.0,Far West AK CA HI NV OR WA,14026.0,1,73.0,23.0
+237057,Whitman College,57.0,56600.0,Far West AK CA HI NV OR WA,1541.0,0,91.0,9.0
+237066,Whitworth University,65.0,48055.0,Far West AK CA HI NV OR WA,2358.0,0,98.0,22.0
+237118,Alderson Broaddus University,43.0,33296.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,1052.0,0,100.0,51.0
+237181,Bethany College,49.0,39082.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,693.0,0,100.0,51.0
+237312,University of Charleston,69.0,32850.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,1386.0,0,100.0,43.0
+237330,Concord University,46.0,25050.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,2474.0,1,98.0,50.0
+237358,Davis & Elkins College,57.0,36442.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,874.0,0,100.0,47.0
+237367,Fairmont State University,66.0,23774.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,4211.0,1,93.0,49.0
+237385,Glenville State College,74.0,29316.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,1850.0,1,96.0,64.0
+237525,Marshall University,79.0,27146.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,9762.0,1,94.0,47.0
+237640,Ohio Valley University,36.0,28850.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,418.0,0,99.0,46.0
+237792,Shepherd University,81.0,28895.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,3904.0,1,91.0,36.0
+237899,West Virginia State University,45.0,26073.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,2622.0,1,87.0,53.0
+237932,West Liberty University,71.0,27340.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,2647.0,1,97.0,50.0
+237950,West Virginia University Institute of Technology,51.0,26481.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,1222.0,1,96.0,55.0
+237969,West Virginia Wesleyan College,77.0,40534.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,1367.0,0,100.0,40.0
+238032,West Virginia University,85.0,31551.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,22765.0,1,89.0,26.0
+238078,Wheeling Jesuit University,69.0,36070.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,1141.0,0,100.0,26.0
+238193,Alverno College,79.0,34889.0,Great Lakes IL IN MI OH WI,1862.0,0,100.0,71.0
+238333,Beloit College,68.0,50406.0,Great Lakes IL IN MI OH WI,1306.0,0,96.0,18.0
+238430,Cardinal Stritch University,84.0,39369.0,Great Lakes IL IN MI OH WI,2693.0,0,100.0,45.0
+238458,Carroll University,81.0,40168.0,Great Lakes IL IN MI OH WI,3124.0,0,100.0,29.0
+238476,Carthage College,70.0,48050.0,Great Lakes IL IN MI OH WI,2902.0,0,100.0,28.0
+238616,Concordia University-Wisconsin,70.0,38440.0,Great Lakes IL IN MI OH WI,4363.0,0,99.0,28.0
+238661,Edgewood College,77.0,37304.0,Great Lakes IL IN MI OH WI,1998.0,0,100.0,34.0
+238980,Lakeland College,66.0,35460.0,Great Lakes IL IN MI OH WI,3035.0,0,99.0,49.0
+239017,Lawrence University,73.0,51897.0,Great Lakes IL IN MI OH WI,1553.0,0,99.0,25.0
+239071,Maranatha Baptist University,71.0,24712.0,Great Lakes IL IN MI OH WI,923.0,0,81.0,50.0
+239080,Marian University,76.0,35200.0,Great Lakes IL IN MI OH WI,1662.0,0,100.0,43.0
+239105,Marquette University,57.0,48669.0,Great Lakes IL IN MI OH WI,8365.0,0,100.0,17.0
+239318,Milwaukee School of Engineering,68.0,46220.0,Great Lakes IL IN MI OH WI,2459.0,0,97.0,27.0
+239390,Mount Mary University,54.0,37512.0,Great Lakes IL IN MI OH WI,920.0,0,100.0,62.0
+239512,Northland College,59.0,40950.0,Great Lakes IL IN MI OH WI,553.0,0,100.0,47.0
+239628,Ripon College,75.0,42769.0,Great Lakes IL IN MI OH WI,904.0,0,100.0,36.0
+239716,Saint Norbert College,82.0,42042.0,Great Lakes IL IN MI OH WI,2160.0,0,99.0,22.0
+239743,Silver Lake College of the Holy Family,60.0,36020.0,Great Lakes IL IN MI OH WI,503.0,0,100.0,57.0
+240107,Viterbo University,71.0,34540.0,Great Lakes IL IN MI OH WI,2079.0,0,99.0,28.0
+240189,University of Wisconsin-Whitewater,85.0,24651.0,Great Lakes IL IN MI OH WI,10849.0,1,80.0,29.0
+240268,University of Wisconsin-Eau Claire,76.0,26078.0,Great Lakes IL IN MI OH WI,10331.0,1,82.0,26.0
+240277,University of Wisconsin-Green Bay,85.0,25541.0,Great Lakes IL IN MI OH WI,6308.0,1,89.0,32.0
+240329,University of Wisconsin-La Crosse,72.0,25566.0,Great Lakes IL IN MI OH WI,9582.0,1,81.0,20.0
+240338,Wisconsin Lutheran College,64.0,36330.0,Great Lakes IL IN MI OH WI,1070.0,0,100.0,36.0
+240365,University of Wisconsin-Oshkosh,81.0,25134.0,Great Lakes IL IN MI OH WI,12397.0,1,83.0,31.0
+240374,University of Wisconsin-Parkside,75.0,26119.0,Great Lakes IL IN MI OH WI,4491.0,1,83.0,43.0
+240417,University of Wisconsin-Stout,89.0,26464.0,Great Lakes IL IN MI OH WI,8161.0,1,87.0,28.0
+240426,University of Wisconsin-Superior,89.0,25739.0,Great Lakes IL IN MI OH WI,2546.0,1,88.0,37.0
+240444,University of Wisconsin-Madison,68.0,40181.0,Great Lakes IL IN MI OH WI,30941.0,1,64.0,13.0
+240453,University of Wisconsin-Milwaukee,86.0,31871.0,Great Lakes IL IN MI OH WI,23032.0,1,81.0,38.0
+240462,University of Wisconsin-Platteville,96.0,25257.0,Great Lakes IL IN MI OH WI,7906.0,1,86.0,30.0
+240471,University of Wisconsin-River Falls,87.0,25251.0,Great Lakes IL IN MI OH WI,5750.0,1,84.0,33.0
+240480,University of Wisconsin-Stevens Point,83.0,24289.0,Great Lakes IL IN MI OH WI,9290.0,1,84.0,31.0
+240727,University of Wyoming,96.0,27865.0,Rocky Mountains CO ID MT UT WY,10117.0,1,92.0,20.0
+243744,Stanford University,6.0,60749.0,Far West AK CA HI NV OR WA,7061.0,0,66.0,14.0
+243780,Purdue University-Main Campus,60.0,42044.0,Great Lakes IL IN MI OH WI,30458.0,1,66.0,19.0
+245652,St John's College,82.0,59732.0,Southwest AZ NM OK TX,343.0,0,86.0,39.0
+262129,New College of Florida,61.0,43095.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,793.0,1,100.0,25.0
+366711,California State University-San Marcos,63.0,34322.0,Far West AK CA HI NV OR WA,10733.0,1,73.0,45.0
+377555,University of Washington-Bothell Campus,76.0,47232.0,Far West AK CA HI NV OR WA,4106.0,1,69.0,39.0
+377564,University of Washington-Tacoma Campus,85.0,47223.0,Far West AK CA HI NV OR WA,3641.0,1,83.0,48.0
+384254,Beacon College,65.0,45968.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,190.0,0,59.0,26.0
+399911,Soka University of America,43.0,43128.0,Far West AK CA HI NV OR WA,412.0,0,100.0,26.0
+409698,California State University-Monterey Bay,44.0,30370.0,Far West AK CA HI NV OR WA,5310.0,1,78.0,49.0
+414823,Johnson & Wales University-North Miami,65.0,41461.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,1952.0,0,98.0,63.0
+433660,Florida Gulf Coast University,66.0,38424.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,13109.0,1,81.0,35.0
+439288,Johnson & Wales University-Denver,78.0,41461.0,Rocky Mountains CO ID MT UT WY,1506.0,0,99.0,41.0
+441937,California State University-Channel Islands,64.0,36167.0,Far West AK CA HI NV OR WA,4929.0,1,70.0,45.0
+445708,Johnson & Wales University-Charlotte,60.0,41663.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,2325.0,0,100.0,57.0
+446048,Ave Maria University,60.0,36860.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,903.0,0,100.0,31.0
+448840,University of South Florida-St Petersburg,44.0,31086.0,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,4324.0,1,98.0,44.0
+454184,The King’s College,71.0,48717.0,Mid East DE DC MD NJ NY PA,504.0,0,100.0,34.0
+455770,Providence Christian College,53.0,38602.0,Far West AK CA HI NV OR WA,68.0,0,100.0,50.0

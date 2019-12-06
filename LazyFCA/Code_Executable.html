@@ -1,0 +1,51 @@
+<!-- HTML generated using hilite.me --><div style="background: #ffffff; overflow:auto;width:auto;border:solid gray;border-width:.1em .1em .1em .8em;padding:.2em .6em;"><pre style="margin: 0; line-height: 125%"><span style="color: #888888"># Test of Implication Test by Threshold</span>
+
+<span style="color: #008800; font-weight: bold">import</span> <span style="color: #0e84b5; font-weight: bold">sys</span>
+<span style="color: #008800; font-weight: bold">from</span> <span style="color: #0e84b5; font-weight: bold">datetime</span> <span style="color: #008800; font-weight: bold">import</span> datetime
+<span style="color: #888888">#max_index = sys.argv[1]</span>
+
+max_files <span style="color: #333333">=</span> <span style="color: #0000DD; font-weight: bold">11</span>
+ithr_min  <span style="color: #333333">=</span> <span style="color: #0000DD; font-weight: bold">10</span>         <span style="color: #888888"># min Threshold * 10</span>
+ithr_max  <span style="color: #333333">=</span> <span style="color: #0000DD; font-weight: bold">11</span>         <span style="color: #888888"># max Threshold * 10</span>
+
+max_index <span style="color: #333333">=</span> max_files
+accuracy  <span style="color: #333333">=</span> {}          <span style="color: #888888"># Accuracy for different Threshold</span>
+accuracyf <span style="color: #333333">=</span> {}          <span style="color: #888888"># Accuracy for different number of files</span>
+acc_max   <span style="color: #333333">=</span> <span style="color: #0000DD; font-weight: bold">0</span>           <span style="color: #888888"># best Accuracy for different Threshold</span>
+acc_maxf  <span style="color: #333333">=</span> <span style="color: #0000DD; font-weight: bold">0</span>           <span style="color: #888888"># best Accuracy for different number of files</span>
+ithr_best <span style="color: #333333">=</span> ithr_min    <span style="color: #888888"># index of best Accuracy for different Threshold</span>
+imax_best <span style="color: #333333">=</span> <span style="color: #0000DD; font-weight: bold">1</span>           <span style="color: #888888"># index of best Accuracy for different number of files</span>
+totalf    <span style="color: #333333">=</span> {}           <span style="color: #888888"># total number of examples through all files</span>
+
+startTime <span style="color: #333333">=</span> datetime<span style="color: #333333">.</span>now()
+
+<span style="color: #888888">#Check all files</span>
+
+    <span style="color: #888888">#threshold = 1.0   # just disregard this</span>
+<span style="color: #007020">execfile</span>(<span style="background-color: #fff0f0">&quot;test_impl.py&quot;</span>)
+    
+accuracyf[max_index] <span style="color: #333333">=</span> cv_res_p[<span style="background-color: #fff0f0">&quot;positive_positive&quot;</span>] <span style="color: #333333">+</span> cv_res_p[<span style="background-color: #fff0f0">&quot;negative_negative&quot;</span>]    <span style="color: #888888"># Accuracy</span>
+<span style="color: #008800; font-weight: bold">if</span> accuracyf[max_index] <span style="color: #333333">&gt;</span> acc_maxf :
+    acc_maxf  <span style="color: #333333">=</span> accuracyf[max_index]
+    imax_best <span style="color: #333333">=</span> max_index
+totalf[max_index] <span style="color: #333333">=</span> cv_res[<span style="background-color: #fff0f0">&quot;total&quot;</span>]
+
+<span style="color: #008800; font-weight: bold">print</span> <span style="background-color: #fff0f0">&#39;Number of Files =&#39;</span>, max_index<span style="color: #333333">-</span><span style="color: #0000DD; font-weight: bold">1</span>, <span style="background-color: #fff0f0">&#39;</span><span style="color: #666666; font-weight: bold; background-color: #fff0f0">\t</span><span style="background-color: #fff0f0">Accuracy =&#39;</span>, accuracyf[max_index]
+<span style="color: #008800; font-weight: bold">print</span> <span style="background-color: #fff0f0">&#39;True  Positive :</span><span style="color: #666666; font-weight: bold; background-color: #fff0f0">\t</span><span style="background-color: #fff0f0">&#39;</span>, cv_res[<span style="background-color: #fff0f0">&quot;positive_positive&quot;</span>], <span style="background-color: #fff0f0">&#39;</span><span style="color: #666666; font-weight: bold; background-color: #fff0f0">\t</span><span style="background-color: #fff0f0">&#39;</span>, cv_res_p[<span style="background-color: #fff0f0">&quot;positive_positive&quot;</span>]
+<span style="color: #008800; font-weight: bold">print</span> <span style="background-color: #fff0f0">&#39;True  Negative :</span><span style="color: #666666; font-weight: bold; background-color: #fff0f0">\t</span><span style="background-color: #fff0f0">&#39;</span>, cv_res[<span style="background-color: #fff0f0">&quot;negative_negative&quot;</span>], <span style="background-color: #fff0f0">&#39;</span><span style="color: #666666; font-weight: bold; background-color: #fff0f0">\t</span><span style="background-color: #fff0f0">&#39;</span>, cv_res_p[<span style="background-color: #fff0f0">&quot;negative_negative&quot;</span>]
+<span style="color: #008800; font-weight: bold">print</span> <span style="background-color: #fff0f0">&#39;False Positive :</span><span style="color: #666666; font-weight: bold; background-color: #fff0f0">\t</span><span style="background-color: #fff0f0">&#39;</span>, cv_res[<span style="background-color: #fff0f0">&quot;negative_positive&quot;</span>], <span style="background-color: #fff0f0">&#39;</span><span style="color: #666666; font-weight: bold; background-color: #fff0f0">\t</span><span style="background-color: #fff0f0">&#39;</span>, cv_res_p[<span style="background-color: #fff0f0">&quot;negative_positive&quot;</span>]
+<span style="color: #008800; font-weight: bold">print</span> <span style="background-color: #fff0f0">&#39;False Negative :</span><span style="color: #666666; font-weight: bold; background-color: #fff0f0">\t</span><span style="background-color: #fff0f0">&#39;</span>, cv_res[<span style="background-color: #fff0f0">&quot;positive_negative&quot;</span>], <span style="background-color: #fff0f0">&#39;</span><span style="color: #666666; font-weight: bold; background-color: #fff0f0">\t</span><span style="background-color: #fff0f0">&#39;</span>, cv_res_p[<span style="background-color: #fff0f0">&quot;positive_negative&quot;</span>]
+<span style="color: #008800; font-weight: bold">print</span> <span style="background-color: #fff0f0">&#39;Unclassified   :</span><span style="color: #666666; font-weight: bold; background-color: #fff0f0">\t</span><span style="background-color: #fff0f0">&#39;</span>, cv_res[<span style="background-color: #fff0f0">&quot;contradictory&quot;</span>], <span style="background-color: #fff0f0">&#39;</span><span style="color: #666666; font-weight: bold; background-color: #fff0f0">\t</span><span style="background-color: #fff0f0">&#39;</span>, cv_res_p[<span style="background-color: #fff0f0">&quot;contradictory&quot;</span>]
+<span style="color: #008800; font-weight: bold">print</span> <span style="background-color: #fff0f0">&#39;Total          :</span><span style="color: #666666; font-weight: bold; background-color: #fff0f0">\t</span><span style="background-color: #fff0f0">&#39;</span>, cv_res[<span style="background-color: #fff0f0">&quot;total&quot;</span>], <span style="background-color: #fff0f0">&#39;</span><span style="color: #666666; font-weight: bold; background-color: #fff0f0">\t</span><span style="background-color: #fff0f0">&#39;</span>, cv_res_p[<span style="background-color: #fff0f0">&quot;total&quot;</span>]
+<span style="color: #008800; font-weight: bold">print</span> <span style="background-color: #fff0f0">&#39;========================================================&#39;</span>
+
+
+<span style="color: #888888">#print &#39;========================================================&#39;</span>
+<span style="color: #888888">#print datetime.now() - startTime</span>
+<span style="color: #888888">#print &quot;Files  \t\tExamples \tAccuracy&quot;</span>
+<span style="color: #888888">#print &quot;-------\t\t-------- \t--------------&quot;</span>
+<span style="color: #888888">#print max_index-1, &quot;\t\t&quot;, totalf[max_index], &quot;\t\t&quot;, accuracyf[max_index], &quot;\t&quot;</span>
+
+<span style="color: #008800; font-weight: bold">print</span> <span style="background-color: #fff0f0">&#39;========================================================&#39;</span>
+<span style="color: #008800; font-weight: bold">print</span> <span style="background-color: #fff0f0">&#39;Runtime:&#39;</span> <span style="color: #333333">+</span> <span style="color: #007020">str</span>(datetime<span style="color: #333333">.</span>now() <span style="color: #333333">-</span> startTime)
+</pre></div>

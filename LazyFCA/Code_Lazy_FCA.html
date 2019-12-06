@@ -1,0 +1,154 @@
+<!-- HTML generated using hilite.me --><div style="background: #ffffff; overflow:auto;width:auto;border:solid gray;border-width:.1em .1em .1em .8em;padding:.2em .6em;"><pre style="margin: 0; line-height: 125%"><span style="color: #008800; font-weight: bold">import</span> <span style="color: #0e84b5; font-weight: bold">copy</span>
+<span style="color: #008800; font-weight: bold">from</span> <span style="color: #0e84b5; font-weight: bold">datetime</span> <span style="color: #008800; font-weight: bold">import</span> datetime
+
+<span style="color: #888888">#user settings</span>
+print_debug <span style="color: #333333">=</span> <span style="color: #007020">True</span>
+advanced_scoring <span style="color: #333333">=</span> <span style="color: #007020">True</span>
+
+cv_res <span style="color: #333333">=</span> {
+    <span style="background-color: #fff0f0">&quot;positive_positive&quot;</span>: <span style="color: #0000DD; font-weight: bold">0</span>,
+    <span style="background-color: #fff0f0">&quot;positive_negative&quot;</span>: <span style="color: #0000DD; font-weight: bold">0</span>,
+    <span style="background-color: #fff0f0">&quot;negative_positive&quot;</span>: <span style="color: #0000DD; font-weight: bold">0</span>,
+    <span style="background-color: #fff0f0">&quot;negative_negative&quot;</span>: <span style="color: #0000DD; font-weight: bold">0</span>,
+    <span style="background-color: #fff0f0">&quot;contradictory&quot;</span>: <span style="color: #0000DD; font-weight: bold">0</span>,
+    <span style="background-color: #fff0f0">&quot;total&quot;</span>: <span style="color: #0000DD; font-weight: bold">0</span>,
+}
+
+<span style="color: #888888">#Compares two objects and generates their intersect</span>
+<span style="color: #888888">#Intersect is a tuple of matching features</span>
+<span style="color: #888888">#Each matching feature is a tuple of an ordered pair (matching_index,matching value)</span>
+<span style="color: #008800; font-weight: bold">def</span> <span style="color: #0066BB; font-weight: bold">compare</span>(obj1, obj2):
+    tup <span style="color: #333333">=</span> <span style="color: #007020">zip</span>(obj1,obj2)
+    tup<span style="color: #333333">.</span>pop() <span style="color: #888888">#Last feature = target feature. Written this way to save time.</span>
+    intersect <span style="color: #333333">=</span> []
+    <span style="color: #008800; font-weight: bold">for</span> i <span style="color: #000000; font-weight: bold">in</span> <span style="color: #007020">range</span>(<span style="color: #007020">len</span>(tup)):
+        <span style="color: #008800; font-weight: bold">if</span> tup[i][<span style="color: #0000DD; font-weight: bold">0</span>]<span style="color: #333333">==</span>tup[i][<span style="color: #0000DD; font-weight: bold">1</span>]:
+            intersect<span style="color: #333333">.</span>append((i,tup[i][<span style="color: #0000DD; font-weight: bold">0</span>]))
+    <span style="color: #008800; font-weight: bold">return</span> <span style="color: #007020">tuple</span>(intersect)
+
+<span style="color: #008800; font-weight: bold">def</span> <span style="color: #0066BB; font-weight: bold">score</span>(pos, neg):
+    <span style="color: #008800; font-weight: bold">return</span> pos<span style="color: #333333">-</span>neg
+
+<span style="color: #008800; font-weight: bold">def</span> <span style="color: #0066BB; font-weight: bold">calculate_hypothesis_and_add</span>(intersect, hypotheses, context_plus, context_minus ):
+    total_positive_cases <span style="color: #333333">=</span> <span style="color: #0000DD; font-weight: bold">0</span>;
+    total_negative_cases <span style="color: #333333">=</span> <span style="color: #0000DD; font-weight: bold">0</span>;
+
+    <span style="color: #008800; font-weight: bold">for</span> j <span style="color: #000000; font-weight: bold">in</span> context_plus:
+        <span style="color: #008800; font-weight: bold">if</span> is_intersect_subset(intersect,j):
+            total_positive_cases<span style="color: #333333">+=</span><span style="color: #0000DD; font-weight: bold">1</span>
+    <span style="color: #008800; font-weight: bold">for</span> k <span style="color: #000000; font-weight: bold">in</span> context_minus:
+        <span style="color: #008800; font-weight: bold">if</span> is_intersect_subset(intersect,k):
+            total_negative_cases<span style="color: #333333">+=</span><span style="color: #0000DD; font-weight: bold">1</span>
+
+    hypotheses[intersect] <span style="color: #333333">=</span> (total_positive_cases,total_negative_cases)
+    <span style="color: #008800; font-weight: bold">return</span> hypotheses
+
+<span style="color: #888888">#Loop over all items in intersect and see if they are in list.</span>
+<span style="color: #008800; font-weight: bold">def</span> <span style="color: #0066BB; font-weight: bold">is_intersect_subset</span>(intersect,<span style="color: #007020">list</span>):
+    <span style="color: #008800; font-weight: bold">for</span> i <span style="color: #000000; font-weight: bold">in</span> <span style="color: #007020">range</span>(<span style="color: #007020">len</span>(intersect)):
+        index <span style="color: #333333">=</span> intersect[i][<span style="color: #0000DD; font-weight: bold">0</span>]
+        value <span style="color: #333333">=</span> intersect[i][<span style="color: #0000DD; font-weight: bold">1</span>]
+        <span style="color: #008800; font-weight: bold">if</span> <span style="color: #007020">list</span>[index] <span style="color: #333333">!=</span> value:
+            <span style="color: #008800; font-weight: bold">return</span> <span style="color: #007020">False</span>
+    <span style="color: #008800; font-weight: bold">return</span> <span style="color: #007020">True</span>
+
+
+<span style="color: #888888">#Obviously this is not the most efficient way of going about things, but there was no demand on efficiency.</span>
+<span style="color: #DD4422">&#39;&#39;&#39;Prompt: for each object from C+  you have to calculate intersection with the description of the object to classify </span>
+<span style="color: #DD4422">(g&#39;); and check, whether this description is presented in any example from C- do the same thing vice versa for C- - </span>
+<span style="color: #DD4422">for each object description from C- calculate intersection and check whether this intersection is common with any </span>
+<span style="color: #DD4422">object description from C+ You will have to explore possible step functions for classification. </span>
+
+<span style="color: #DD4422">For instance: you classify object as +, if for intersection with examples from C+ you have no more than x </span>
+<span style="color: #DD4422">counter-examples; and for descriptions with no counterexamples the size of intersection (cardinality) is at least </span>
+<span style="color: #DD4422">min_cardinality &#39;&#39;&#39;</span>
+<span style="color: #008800; font-weight: bold">def</span> <span style="color: #0066BB; font-weight: bold">check_intersect</span>(context_plus, context_minus, example, hypotheses):
+    <span style="color: #008800; font-weight: bold">global</span> cv_res
+    pos <span style="color: #333333">=</span> <span style="color: #6600EE; font-weight: bold">0.00</span>
+    neg <span style="color: #333333">=</span> <span style="color: #6600EE; font-weight: bold">0.00</span>
+
+    <span style="color: #008800; font-weight: bold">for</span> j <span style="color: #000000; font-weight: bold">in</span> context_plus:
+        intersect <span style="color: #333333">=</span> compare(example,j)
+        <span style="color: #008800; font-weight: bold">if</span> intersect <span style="color: #000000; font-weight: bold">not</span> <span style="color: #000000; font-weight: bold">in</span> hypotheses<span style="color: #333333">.</span>keys():
+            hypotheses <span style="color: #333333">=</span> calculate_hypothesis_and_add(intersect, hypotheses, context_plus, context_minus)
+        <span style="color: #008800; font-weight: bold">if</span> (hypotheses[intersect][<span style="color: #0000DD; font-weight: bold">0</span>] <span style="color: #333333">&gt;</span> hypotheses[intersect][<span style="color: #0000DD; font-weight: bold">1</span>]):
+            <span style="color: #008800; font-weight: bold">if</span> advanced_scoring:
+                <span style="color: #008800; font-weight: bold">if</span>(<span style="color: #007020">len</span>(intersect) <span style="color: #333333">&gt;</span> <span style="color: #0000DD; font-weight: bold">4</span>):
+                    pos <span style="color: #333333">+=</span> <span style="color: #007020">len</span>(intersect)<span style="color: #333333">*</span><span style="color: #007020">len</span>(intersect) <span style="color: #888888">#* (hypotheses[intersect][0]-hypotheses[intersect][1])</span>
+            <span style="color: #008800; font-weight: bold">else</span>:
+                pos <span style="color: #333333">+=</span> <span style="color: #0000DD; font-weight: bold">1</span>
+    <span style="color: #008800; font-weight: bold">for</span> k <span style="color: #000000; font-weight: bold">in</span> context_minus:
+        intersect <span style="color: #333333">=</span> compare(example,k)
+        <span style="color: #008800; font-weight: bold">if</span> intersect <span style="color: #000000; font-weight: bold">not</span> <span style="color: #000000; font-weight: bold">in</span> hypotheses<span style="color: #333333">.</span>keys():
+            hypotheses <span style="color: #333333">=</span> calculate_hypothesis_and_add(intersect, hypotheses, context_plus, context_minus)
+        <span style="color: #008800; font-weight: bold">if</span>(hypotheses[intersect][<span style="color: #0000DD; font-weight: bold">1</span>]<span style="color: #333333">&gt;</span>hypotheses[intersect][<span style="color: #0000DD; font-weight: bold">0</span>]):
+            <span style="color: #008800; font-weight: bold">if</span> advanced_scoring:
+                <span style="color: #008800; font-weight: bold">if</span>(<span style="color: #007020">len</span>(intersect) <span style="color: #333333">&gt;</span> <span style="color: #0000DD; font-weight: bold">4</span>):
+                    neg <span style="color: #333333">+=</span> <span style="color: #007020">len</span>(intersect)<span style="color: #333333">*</span><span style="color: #007020">len</span>(intersect) <span style="color: #888888">#* (hypotheses[intersect][1]-hypotheses[intersect][0])</span>
+            <span style="color: #008800; font-weight: bold">else</span>:
+                neg <span style="color: #333333">+=</span> <span style="color: #0000DD; font-weight: bold">1</span>
+
+    pos<span style="color: #333333">=</span>pos<span style="color: #333333">/</span><span style="color: #007020">len</span>(context_plus)
+    neg<span style="color: #333333">=</span>neg<span style="color: #333333">/</span><span style="color: #007020">len</span>(context_minus)
+
+    <span style="color: #008800; font-weight: bold">if</span> score(pos, neg) <span style="color: #333333">&gt;</span> <span style="color: #0000DD; font-weight: bold">0</span>:
+        <span style="color: #008800; font-weight: bold">if</span> example[<span style="color: #333333">-</span><span style="color: #0000DD; font-weight: bold">1</span>] <span style="color: #333333">==</span> <span style="background-color: #fff0f0">&#39;positive&#39;</span>:
+            cv_res[<span style="background-color: #fff0f0">&#39;positive_positive&#39;</span>] <span style="color: #333333">+=</span> <span style="color: #0000DD; font-weight: bold">1</span>
+        <span style="color: #008800; font-weight: bold">else</span>:
+            cv_res[<span style="background-color: #fff0f0">&#39;negative_positive&#39;</span>] <span style="color: #333333">+=</span> <span style="color: #0000DD; font-weight: bold">1</span>
+    <span style="color: #008800; font-weight: bold">elif</span> score(neg, pos) <span style="color: #333333">&gt;</span> <span style="color: #0000DD; font-weight: bold">0</span>:
+        <span style="color: #008800; font-weight: bold">if</span> example[<span style="color: #333333">-</span><span style="color: #0000DD; font-weight: bold">1</span>] <span style="color: #333333">==</span> <span style="background-color: #fff0f0">&#39;positive&#39;</span>:
+            cv_res[<span style="background-color: #fff0f0">&#39;positive_negative&#39;</span>] <span style="color: #333333">+=</span> <span style="color: #0000DD; font-weight: bold">1</span>
+        <span style="color: #008800; font-weight: bold">else</span>:
+            cv_res[<span style="background-color: #fff0f0">&#39;negative_negative&#39;</span>] <span style="color: #333333">+=</span> <span style="color: #0000DD; font-weight: bold">1</span>
+    <span style="color: #008800; font-weight: bold">else</span>:
+        cv_res[<span style="background-color: #fff0f0">&#39;contradictory&#39;</span>] <span style="color: #333333">+=</span> <span style="color: #0000DD; font-weight: bold">1</span>
+<span style="color: #888888"># Get data from train and test files</span>
+<span style="color: #888888">#max_index = sys.argv[1]</span>
+my_code <span style="color: #333333">=</span> <span style="color: #007020">True</span>
+
+<span style="color: #008800; font-weight: bold">for</span> index <span style="color: #000000; font-weight: bold">in</span> <span style="color: #007020">xrange</span>(<span style="color: #0000DD; font-weight: bold">1</span>, <span style="color: #007020">int</span>(max_index)):
+    index <span style="color: #333333">=</span> <span style="color: #007020">str</span>(index)
+
+    <span style="color: #008800; font-weight: bold">if</span> my_code:
+        q <span style="color: #333333">=</span> <span style="color: #007020">open</span>(<span style="background-color: #fff0f0">&quot;IPEDS_Train_&quot;</span> <span style="color: #333333">+</span> index <span style="color: #333333">+</span> <span style="background-color: #fff0f0">&quot;.csv&quot;</span>, <span style="background-color: #fff0f0">&quot;r&quot;</span>)
+        <span style="color: #007020">next</span>(q) <span style="color: #888888">#skip header row, probably needed for original too</span>
+    <span style="color: #008800; font-weight: bold">else</span>:
+        q <span style="color: #333333">=</span> <span style="color: #007020">open</span>(<span style="background-color: #fff0f0">&quot;train&quot;</span> <span style="color: #333333">+</span> index <span style="color: #333333">+</span> <span style="background-color: #fff0f0">&quot;.csv&quot;</span>, <span style="background-color: #fff0f0">&quot;r&quot;</span>)
+
+    train <span style="color: #333333">=</span> [a<span style="color: #333333">.</span>strip()<span style="color: #333333">.</span>split(<span style="background-color: #fff0f0">&quot;,&quot;</span>) <span style="color: #008800; font-weight: bold">for</span> a <span style="color: #000000; font-weight: bold">in</span> q]
+    plus  <span style="color: #333333">=</span> [a <span style="color: #008800; font-weight: bold">for</span> a <span style="color: #000000; font-weight: bold">in</span> train <span style="color: #008800; font-weight: bold">if</span> a[<span style="color: #333333">-</span><span style="color: #0000DD; font-weight: bold">1</span>] <span style="color: #333333">==</span> <span style="background-color: #fff0f0">&quot;positive&quot;</span>]
+    minus <span style="color: #333333">=</span> [a <span style="color: #008800; font-weight: bold">for</span> a <span style="color: #000000; font-weight: bold">in</span> train <span style="color: #008800; font-weight: bold">if</span> a[<span style="color: #333333">-</span><span style="color: #0000DD; font-weight: bold">1</span>] <span style="color: #333333">==</span> <span style="background-color: #fff0f0">&quot;negative&quot;</span>]
+    q<span style="color: #333333">.</span>close()
+    <span style="color: #008800; font-weight: bold">if</span> my_code:
+        w <span style="color: #333333">=</span> <span style="color: #007020">open</span>(<span style="background-color: #fff0f0">&quot;IPEDS_Test_&quot;</span> <span style="color: #333333">+</span> index <span style="color: #333333">+</span> <span style="background-color: #fff0f0">&quot;.csv&quot;</span>, <span style="background-color: #fff0f0">&quot;r&quot;</span>)
+        <span style="color: #007020">next</span>(w) <span style="color: #888888">#skip header row. probably needed for original too</span>
+    <span style="color: #008800; font-weight: bold">else</span>:
+        w <span style="color: #333333">=</span> <span style="color: #007020">open</span>(<span style="background-color: #fff0f0">&quot;test&quot;</span> <span style="color: #333333">+</span> index <span style="color: #333333">+</span> <span style="background-color: #fff0f0">&quot;.csv&quot;</span>, <span style="background-color: #fff0f0">&quot;r&quot;</span>)
+
+    unknown <span style="color: #333333">=</span> [a<span style="color: #333333">.</span>strip()<span style="color: #333333">.</span>split(<span style="background-color: #fff0f0">&quot;,&quot;</span>) <span style="color: #008800; font-weight: bold">for</span> a <span style="color: #000000; font-weight: bold">in</span> w]
+    w<span style="color: #333333">.</span>close()
+
+    starttime <span style="color: #333333">=</span> datetime<span style="color: #333333">.</span>now()
+    <span style="color: #888888">#Dictionary of Hypotheses:</span>
+    <span style="color: #888888">#Key = list of tuples indicating the hypothesis</span>
+    <span style="color: #888888">#Values = tuple containing positive and negative support (not normalized)</span>
+    <span style="color: #888888">#It turns out that the dictionary doesn&#39;t save much runtime overall (~1:22 -&gt; 1:06) even with so many hypotheses.</span>
+    hypotheses <span style="color: #333333">=</span> <span style="color: #007020">dict</span>()
+    <span style="color: #008800; font-weight: bold">for</span> elem <span style="color: #000000; font-weight: bold">in</span> unknown:
+        cv_res[<span style="background-color: #fff0f0">&#39;total&#39;</span>] <span style="color: #333333">+=</span> <span style="color: #0000DD; font-weight: bold">1</span>
+        check_intersect(plus, minus, elem, hypotheses)
+        <span style="color: #008800; font-weight: bold">if</span> cv_res[<span style="background-color: #fff0f0">&#39;total&#39;</span>] <span style="color: #333333">%</span> <span style="color: #0000DD; font-weight: bold">100</span> <span style="color: #333333">==</span> <span style="color: #0000DD; font-weight: bold">0</span>:
+            <span style="color: #008800; font-weight: bold">if</span> print_debug:
+                <span style="color: #008800; font-weight: bold">print</span> <span style="background-color: #fff0f0">&#39;Hypotheses: &#39;</span> <span style="color: #333333">+</span> <span style="color: #007020">str</span>(<span style="color: #007020">len</span>(hypotheses))
+                <span style="color: #008800; font-weight: bold">print</span> (<span style="color: #007020">str</span>(datetime<span style="color: #333333">.</span>now()<span style="color: #333333">-</span>starttime))
+    <span style="color: #008800; font-weight: bold">print</span> <span style="background-color: #fff0f0">&#39;Duration of Test &#39;</span> <span style="color: #333333">+</span> <span style="color: #007020">str</span>(index) <span style="color: #333333">+</span> <span style="background-color: #fff0f0">&#39;: &#39;</span> <span style="color: #333333">+</span> <span style="color: #007020">str</span>(datetime<span style="color: #333333">.</span>now()<span style="color: #333333">-</span>starttime)
+    <span style="color: #008800; font-weight: bold">print</span> <span style="background-color: #fff0f0">&#39;Total Hypotheses: &#39;</span> <span style="color: #333333">+</span> <span style="color: #007020">str</span>(<span style="color: #007020">len</span>(hypotheses))
+cv_res_p <span style="color: #333333">=</span> copy<span style="color: #333333">.</span>copy(cv_res)
+total <span style="color: #333333">=</span> cv_res_p[<span style="background-color: #fff0f0">&quot;total&quot;</span>]
+<span style="color: #008800; font-weight: bold">for</span> k, v <span style="color: #000000; font-weight: bold">in</span> cv_res_p<span style="color: #333333">.</span>iteritems():
+    cv_res_p[k] <span style="color: #333333">=</span> v <span style="color: #333333">*</span> <span style="color: #6600EE; font-weight: bold">1.</span> <span style="color: #333333">/</span> total    <span style="color: #888888"># part of 1.0</span>
+    
+<span style="color: #008800; font-weight: bold">print</span> <span style="background-color: #fff0f0">&quot;Number of datasets done = </span><span style="background-color: #eeeeee">%s</span><span style="background-color: #fff0f0">&quot;</span> <span style="color: #333333">%</span> index
+<span style="color: #888888">#print cv_res</span>
+</pre></div>
