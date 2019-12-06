@@ -194,7 +194,7 @@ False Discovery Rate                     & 0.112      & 0.007                & 0
 \end{table}
 \FloatBarrier
 (We note that nothing was classified when setting minimum hypothesis length to be $\geq$ 8)
-It appears that considering hypothesis of exactly length 7 is extremely useful (we had 98.6\% accuracy). We further note in the appendix that the given code is biased and should only have achieved 66\% accuracy.
+It appears that considering hypothesis of exactly length 7 is extremely useful (we had 98.6\% accuracy). We further note in the appendix that the initial evaluation code is biased and should only have achieved 60\% accuracy.
 \section*{8. Conclusion}
 \textbf{We are able to predict with about 80\% accuracy, whether a particular school's tuition will be above or below \$38,000. }\\
 While having a minimum hypothesis length improves our accuracy, tuning it seems to give lackluster results. Requiring it to be too high will also cause us to have un-classifiable data. Also, because we chose to split near the median, our accuracy is not as high as possible, but other indicators of predictive value are reasonable. Our predictor is about as accurate as the random forest predictor, so our results are expected.\\
@@ -207,7 +207,7 @@ While having a minimum hypothesis length improves our accuracy, tuning it seems 
 \section*{Appendix}
 \subsection*{A final note on 'bias' in the original code}
 We believe the original code attempts to do something similar (perhaps with a simpler comparison) to our code. However, we point out that the code has bugs and 'cheats'. We provide code comments as to how this is the case, but also claim the following:\\
-The main bug is that we think the variable 't' in 'test\_ impl.py' is some quasi-hypothesis made from the example, but it does not look like a hypothesis but rather a subset of [0,1,'positive','negative'].\\
+The main bug is that we think the variable 't' in 'test\_ impl.py' is some quasi-hypothesis made from the example, but it does not look like a hypothesis but rather a subset of [o,x,b,'positive','negative'].\\
 The main 'cheating' is that this when this 't' contains 'positive' or 'negative', counterexamples will never be found and examples are way more likely to be found.\\
 We demonstrate this fact by discarding (removing) 'positive' and 'negative' from t. We cannot think of a scenario where it should be in this set. Rerunning the algorithm gives an approximately 60\% accuracy.
 \subsection*{A manual look at Pell data}
@@ -236,6 +236,7 @@ Southeast       & 223       & 122        & 0.646            \\
 Southwest       & 69        & 24         & 0.742           
 \end{tabular}
 \end{table}
+\FloatBarrier
 \textit{One way to interpret this is that given a school is in New England, we would be able to guess with 74.4\% accuracy that tuition costs 38,000 or more}
 \subsection*{Sanity Check: Random Forest Classifier}
 Using a very naive random forest classifier, we have accuracy of about 80\%, which informs us that our methods are probably reasonable.
