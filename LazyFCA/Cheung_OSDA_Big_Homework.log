@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7200 64-bit) (preloaded format=pdflatex 2019.10.13)  7 DEC 2019 01:52
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7200 64-bit) (preloaded format=pdflatex 2019.10.13)  14 DEC 2019 17:37
 entering extended mode
 **./Cheung_OSDA_Big_Homework.tex
 (Cheung_OSDA_Big_Homework.tex
@@ -1066,86 +1066,116 @@ Overfull \hbox (69.49727pt too wide) in paragraph at lines 90--109
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 113--119
+Overfull \hbox (47.05771pt too wide) in paragraph at lines 113--120
+\T2A/cmr/bx/it/12 It may happen in our code that we labeled intersections and h
+ypotheses interchangeably.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 113--120
 
  []
 
 [3]
-Underfull \hbox (badness 10000) in paragraph at lines 122--126
+Underfull \hbox (badness 10000) in paragraph at lines 125--127
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 131--133
+Underfull \hbox (badness 10000) in paragraph at lines 129--131
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 148--149
+Underfull \hbox (badness 10000) in paragraph at lines 133--135
+
+ []
+
+LaTeX Font Info:    Trying to load font information for U+bbm on input line 136
+.
+("C:\Program Files\MiKTeX 2.9\tex/latex/bbm\ubbm.fd"
+File: ubbm.fd 1999/03/15 V 1.2 Font definition for bbm font - TH
+)
+Underfull \hbox (badness 10000) in paragraph at lines 137--140
 
  []
 
 
-Overfull \hbox (56.05804pt too wide) in paragraph at lines 155--156
+Underfull \hbox (badness 10000) in paragraph at lines 145--147
+
+ []
+
+[4]
+Underfull \hbox (badness 10000) in paragraph at lines 152--154
+
+ []
+
+
+Overfull \hbox (56.05804pt too wide) in paragraph at lines 166--167
 \T2A/cmr/m/n/12 source of 10 'contradictions'), and some other minor things. La
 stly, we note that "contradictory"scores
  []
 
-[4]
-Underfull \hbox (badness 10000) in paragraph at lines 199--201
+[5]
+Underfull \hbox (badness 10000) in paragraph at lines 210--212
 
  []
 
-[5]
-Overfull \hbox (14.7076pt too wide) in paragraph at lines 209--213
+
+Overfull \hbox (14.7076pt too wide) in paragraph at lines 220--224
 \T2A/cmr/m/n/12 The main 'cheating' is that this when this 't' contains 'positi
 ve' or 'negative', counterexamples
  []
 
-[6]
+[6] [7]
 LaTeX Font Info:    Trying to load font information for T2A+cmtt on input line 
-261.
+273.
  ("C:\Program Files\MiKTeX 2.9\tex/latex/cyrillic\t2acmtt.fd"
 File: t2acmtt.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
-) [7]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 273.
+)
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 285.
  [8]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 273.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 285.
 
 (Cheung_OSDA_Big_Homework.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 273.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 273.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 285.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 285.
 Package rerunfilecheck Info: File `Cheung_OSDA_Big_Homework.out' has not change
 d.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 273.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 285.
  ) 
 Here is how much of TeX's memory you used:
- 9171 strings out of 492452
- 128554 string characters out of 3129780
- 227291 words of memory out of 3000000
- 13341 multiletter control sequences out of 15000+200000
- 16801 words of font info for 43 fonts, out of 3000000 for 9000
+ 9197 strings out of 492452
+ 129286 string characters out of 3129780
+ 228291 words of memory out of 3000000
+ 13356 multiletter control sequences out of 15000+200000
+ 18086 words of font info for 47 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 31i,16n,45p,577b,460s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 31i,14n,45p,577b,345s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\HLC-2017-AB350\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/
 dpi600\latt1200.pk> <C:\Users\HLC-2017-AB350\AppData\Local\MiKTeX\2.9\fonts/pk/
-ljfour/lh/lh-t2a/dpi600\labx1440.pk> <C:\Users\HLC-2017-AB350\AppData\Local\MiK
-TeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1200.pk> <C:\Users\HLC-2017-AB350\
-AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1728.pk> <C:\User
-s\HLC-2017-AB350\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600\lati
-1200.pk> <C:\Users\HLC-2017-AB350\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/l
-h-t2a/dpi600\larm1200.pk> <C:\Users\HLC-2017-AB350\AppData\Local\MiKTeX\2.9\fon
-ts/pk/ljfour/lh/lh-t2a/dpi600\larm1728.pk><C:/Program Files/MiKTeX 2.9/fonts/ty
-pe1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/publ
-ic/amsfonts/cm/cmmi12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfo
-nts/cm/cmmi8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cm
-r12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C
-:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Progra
-m Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on Cheung_OSDA_Big_Homework.pdf (8 pages, 230421 bytes).
+ljfour/public/bbm/dpi600\bbm12.pk> <C:\Users\HLC-2017-AB350\AppData\Local\MiKTe
+X\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1440.pk> <C:\Users\HLC-2017-AB350\Ap
+pData\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600\labi1200.pk> <C:\Users\
+HLC-2017-AB350\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx12
+00.pk> <C:\Users\HLC-2017-AB350\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-
+t2a/dpi600\labx1728.pk> <C:\Users\HLC-2017-AB350\AppData\Local\MiKTeX\2.9\fonts
+/pk/ljfour/lh/lh-t2a/dpi600\lati1200.pk> <C:\Users\HLC-2017-AB350\AppData\Local
+\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1200.pk> <C:\Users\HLC-2017-AB
+350\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1728.pk><C:/P
+rogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program F
+iles/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files/MiK
+TeX 2.9/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Program Files/MiKTeX 2.9/f
+onts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type
+1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/
+amsfonts/cm/cmr6.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/c
+m/cmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.p
+fb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Pr
+ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
+Output written on Cheung_OSDA_Big_Homework.pdf (8 pages, 268910 bytes).
 PDF statistics:
- 472 PDF objects out of 1000 (max. 8388607)
- 37 named destinations out of 1000 (max. 500000)
+ 520 PDF objects out of 1000 (max. 8388607)
+ 41 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 

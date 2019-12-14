@@ -85,7 +85,7 @@ Public & 850    & 476
 \includegraphics[width = 1.0\textwidth]{Region_Pie_Chart.png}
 \FloatBarrier
 \section*{5. Scaling}
-All of our features (numeric, categorical) required scaling. In general, to keep the weight of each feature the same in the case that the size of the intersect matters, we scaled each feature to 2-3 new binary features. After scaling, we have about 20 features. We list them below:\\
+All of our features (numeric, categorical) required scaling. In general, to keep the weight of each feature the same in the case that the size of the intersect matters, we scaled each feature to 2-3 new binary attributes. After scaling, we have about 20 attributes on 5 features. In general, we scaled our numerical data \textbf{ordinally}, and our categorical data to better categories when dealing with tuition. (For example, we know that New England schools usually charge high tuition) We list our attributes below:\\
 \begin{table}[htbp]
 \begin{tabular}{ll}
 Public                    & School is public                                                                  \\
@@ -114,47 +114,58 @@ In general, we translated into code the task prescribed by Fedor Strok and kept 
 We remove unnecessary functions for this task.\\
 Because we use different scoring, we remove threshold testing.\\
 We report on all of our test files at once.\\
-We rewrote infrastructure to track hypotheses.\\
+We rewrote infrastructure to make intersections and track common intersections.\\
+\textbf{\textit{It may happen in our code that we labeled intersections and hypotheses interchangeably. This final report should always use the term 'intersection' to reduce ambiguity.}}
 We add our own scoring system.\\
 \subsection*{Intersection Scoring}
-We have simple intersection scoring and more advanced scoring. If the hypothesis from the intersection is valid (more support than counter-support), then we give one vote to the respective score (positive or negative). This is regardless of the length of the hypothesis or other factors. For advanced scoring, we considered taking the square of the hypothesis (intersect) length and requiring hypotheses to be at least a length of n=4 (or 5,6 etc.) This provides approximately 3\% improvement (77 to 80).
+We have simple intersection scoring and more advanced scoring. If the intersection is valid (more support than counter-support), then we give one vote to the respective score (positive or negative). This is regardless of the length of the intersection or other factors. For advanced scoring, we considered taking the square of the intersection length and requiring intersection to be at least a length of n=4 (or 5,6 etc.) This provides approximately 3\% improvement in accuracy (77 to 80).
+\subsection*{Overall Scoring}
+For the overall voting, we simply sum scores for positive and negative contexts, divide by the number of examples, and see which support is higher.
 \subsection*{Scoring: Mathematical Notation}
-We present the following more rigorous notation for clarification:
-Let $h^+,h^-$ be the hypotheses from a intersection of the test case $g^*$ with an example from C+,C-.\\
-For a positive hypothesis $h^+$, examples are members of C+ where $h^+$ is a subset of C+ and counterexamples are members of C- where $h^+$ is a subset of C-.\\ 
-Next, as we can have an imbalanced amount of positive and negative examples, we need to look at support instead of just the raw number of examples. For a positive hypothesis $h^+$, support is:\\
-\begin{equation} 
-Support(Positive Hypothesis) = \frac{|h^+ \subseteq C_i+|}{|C+|}
+We present the following mathematical explanation for clarification of our scoring:
+Let $h_{\tau,n}$ be the intersection of the test case $g_{\tau}$ with an example from $G_+$,$G_-$:\\
+\begin{equation}
+h_{\tau,n} = g_{n}' \cap g_{\tau}' \text{ where } g_n \in G_+ \text{or } g_n \in G_-
+\end{equation}
+And let $l_{\tau,n}$ be the length of the intersection:\\
+\begin{equation}
+l_{\tau,n} = |h_{\tau,n}|
+\end{equation}
+And let $v_{\tau,n}$ be the validity of this intersection, or the support in the contexts:\\
+\begin{equation}
+v_{\tau,n} = \frac{\sum_{i \in G_+}\mathbbm{1}_{(h_{\tau,n} \subseteq i)}}{|G_+|} - \frac{\sum_{i \in G_-}\mathbbm{1}_{(h_{\tau,n} \subseteq i)}}{|G_-|}  
+\end{equation} 
+We will end up using this validity/weakness function only for whether it is positive or negative, but we provide it because it's another point where a researcher could modify things. \\
+Next, our simple scoring for one element can be represented as some product of indicator functions. So over all the examples in $K_+$:\\
+\begin{equation}
+S_{\tau,+} = \frac{\sum_{g_n \in G_+}{\mathbbm{1}_{(l_{\tau,n}>0)}}*\mathbbm{1}_{(v_{\tau,n}>0)}}{|G_+|}
 \end{equation}
 \begin{equation}
-Countersupport(Positive Hypothesis) = \frac{|h^+ \subseteq C_i-|}{|C-|}
+S_{\tau,-} = \frac{\sum_{g_n \in G_-}{\mathbbm{1}_{(l_{\tau,n}>0)}}*\mathbbm{1}_{(v_{\tau,n}<0)}}{|G_-|}
 \end{equation}
-And formally, our scoring is:\\
+Note that we divided by the number of elements to in unbalanced data (we are calculating support). More advanced scoring also requires an indicator function, but it factors in minimum intersection length and the actual length of the intersection (squared). In this equation, minlen is the researcher-specified length for which we will accept the intersection as meaningful and score it:\\
 \begin{equation}
-Simple Example Score = 
+S_{\tau,+} = \frac{\sum_{g_n \in G_+}{l^2_{\tau,n}\mathbbm{1}_{(l_{\tau,n}\geq minlen)}*\mathbbm{1}_{(v_{\tau,n}>0)}}}{|G_+|}
+\end{equation}
+\begin{equation}
+S_{\tau,-} = \frac{\sum_{g_n \in G_+}{l^2_{\tau,n}\mathbbm{1}_{(l_{\tau,n}\geq minlen)}*\mathbbm{1}_{(v_{\tau,n}<0)}}}{|G_+|}
+\end{equation}
+Formal result classification is as follows:\\
+\begin{equation}
+\text{Classify } g_{\tau} as 
     \begin{cases}
-      1 & support > countersupport\\
-      0 & \text{otherwise}
+      Undefined: S_{\tau,+} = S_{-,\tau,-} = 0\\
+      Contradictory: S_{\tau,+} - S_{\tau,-} = 0, S_{\tau,+} > 0\\
+      Positive: S_{\tau,+} - S_{\tau,-} > 0\\
+      Negative: S_{\tau,+} - S_{\tau,-} < 0 \\
     \end{cases}   
 \end{equation}
-\begin{align*}
-Advanced Example Score = 
-    \begin{cases}
-      |g^*|^2 & |g^*| \geq n=4, support > countersupport\\
-      0 & \text{otherwise}
-    \end{cases}    
-\end{align*}
-\subsection*{Overall Scoring}
-For the overall voting, we simply see whether positive or negative scores are higher. We have to divide again by support, otherwise unbalanced data will cause issues.\\
-\begin{equation}
-Overall Score = \frac{\sum{Positive Example Scores}}{|C+|} - \frac{\sum{Negative Example Scores}}{|C-|}
-\end{equation}
 \subsection*{A note about maximizing accuracy vs. honesty}
-While removing or modifying some of these factors (especially not considering support) will improve the accuracy of this particular data set, it will not make the algorithm useful in general. 
+While removing or modifying some of these factors (especially not considering support) will improve the accuracy of this particular data set, it will not make the algorithm useful in general.
 \subsection*{Other Modifications}
 We added some timing analysis code, modified code to remove the column headers (the source of 10 'contradictions'), and some other minor things. Lastly, we note that "contradictory" scores from the original code are not contradictions, but rather "unknown" or "unclassifiable". But we only change the end-user display so as to rewrite minimal code. 
 \section*{7. Results}
-With positive results being that tuition is < \$38,000, and n = minimum hypothesis length:
+With positive results being that tuition is < \$38,000, and n = minimum intersection length:
 \begin{table}[htbp]
 \begin{tabular}{lllllll}
                                                                                    & Simple   & n $\geq$ 4 & n $\geq$ 6 & n $\geq$ 8 & \textbf{n $\geq$ 12} & n $\geq$ 16 \\
@@ -174,7 +185,7 @@ F1 Score                                                                        
 \end{tabular}
 \end{table}
 \subsection*{Results for Tic-tac-toe data}
-We are not quite sure what the tic-tac-toe data is for, but we ran our code against it with the following results (TTT $\geq$ n means a minimum hypothesis length was required):\\
+We are not quite sure what the tic-tac-toe data is for, but we ran our code against it with the following results (TTT $\geq$ n means a minimum intersection length was required):\\
 \begin{table}[htbp]
 \begin{tabular}{llll}
                                          & TTT Simple & TTT $\geq$ 6 & TTT $\geq$ 7 \\
@@ -193,21 +204,21 @@ False Discovery Rate                     & 0.112      & 0.007                & 0
 \end{tabular}
 \end{table}
 \FloatBarrier
-(We note that nothing was classified when setting minimum hypothesis length to be $\geq$ 8)
-It appears that considering hypothesis of exactly length 7 is extremely useful (we had 98.6\% accuracy). We further note in the appendix that the initial evaluation code is biased and should only have achieved 60\% accuracy.
+(We note that nothing was classified when setting minimum intersection length to be $\geq$ 8)
+It appears that considering intersections of exactly length 7 is extremely useful (we had 98.6\% accuracy). We further note in the appendix that the initial evaluation code is biased and should only have achieved 60\% accuracy.
 \section*{8. Conclusion}
 \textbf{We are able to predict with about 80\% accuracy, whether a particular school's tuition will be above or below \$38,000. }\\
-While having a minimum hypothesis length improves our accuracy, tuning it seems to give lackluster results. Requiring it to be too high will also cause us to have un-classifiable data. Also, because we chose to split near the median, our accuracy is not as high as possible, but other indicators of predictive value are reasonable. Our predictor is about as accurate as the random forest predictor, so our results are expected.\\
+While having a minimum intersection length improves our accuracy, tuning it seems to give lackluster results. Requiring it to be too high will also cause us to have un-classifiable data. Also, because we chose to split near the median, our accuracy is not as high as possible, but other indicators of predictive value are reasonable. Our predictor is about as accurate as the random forest predictor, so our results are expected.\\
 \section*{9. Final Remarks}
 \textbf{If we were to improve on this project, we propose the following 3 tasks:}\\
 1. Preprocess and process additional features related to student test scores.\\
 2. Modify the process to predict a tuition fee rather than do a binary classification task.\\
-3. Improve run time with comparison and hypothesis-checking enhancements.
+3. Improve run time with comparison and intersection-checking enhancements.
 
 \section*{Appendix}
 \subsection*{A final note on 'bias' in the original code}
 We believe the original code attempts to do something similar (perhaps with a simpler comparison) to our code. However, we point out that the code has bugs and 'cheats'. We provide code comments as to how this is the case, but also claim the following:\\
-The main bug is that we think the variable 't' in 'test\_ impl.py' is some quasi-hypothesis made from the example, but it does not look like a hypothesis but rather a subset of [o,x,b,'positive','negative'].\\
+The main bug is that we think the variable 't' in 'test\_ impl.py' is some quasi-intersection made from the example, but it does not look like a intersection but rather a subset of [o,x,b,'positive','negative'].\\
 The main 'cheating' is that this when this 't' contains 'positive' or 'negative', counterexamples will never be found and examples are way more likely to be found.\\
 We demonstrate this fact by discarding (removing) 'positive' and 'negative' from t. We cannot think of a scenario where it should be in this set. Rerunning the algorithm gives an approximately 60\% accuracy.
 \subsection*{A manual look at Pell data}
